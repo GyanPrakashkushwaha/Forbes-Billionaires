@@ -1,0 +1,2339 @@
+rank,net_worth,full_name,age,gender,country_of_citizenship,city_of_residence,business_category,self_made,wealth_status
+1,211,Bernard Arnault & family,74,Male,France,Paris,Fashion & Retail,False,Increased
+2,180,Elon Musk,51,Male,United States,Austin,Automotive,True,Decreased
+3,114,Jeff Bezos,59,Male,United States,Medina,Technology,True,Decreased
+4,107,Larry Ellison,78,Male,United States,Lanai,Technology,True,Increased
+5,106,Warren Buffett,92,Male,United States,Omaha,Finance & Investments,True,Decreased
+6,104,Bill Gates,67,Male,United States,Medina,Technology,True,Decreased
+7,94,Michael Bloomberg,81,Male,United States,New York,Media & Entertainment,True,Increased
+8,93,Carlos Slim Helu & family,83,Male,Mexico,Mexico City,Telecom,True,Increased
+9,83,Mukesh Ambani,65,Male,India,Mumbai,Diversified,False,Decreased
+10,80,Steve Ballmer,67,Male,United States,Hunts Point,Technology,True,Decreased
+11,80,Francoise Bettencourt Meyers & family,69,Female,France,Paris,Fashion & Retail,False,Increased
+12,79,Larry Page,50,Male,United States,Palo Alto,Technology,True,Decreased
+13,77,Amancio Ortega,87,Male,Spain,La Coruna,Fashion & Retail,True,Increased
+14,76,Sergey Brin,49,Male,United States,Los Altos,Technology,True,Decreased
+15,68,Zhong Shanshan,68,Male,China,Hangzhou,Food & Beverage,True,Increased
+16,64,Mark Zuckerberg,38,Male,United States,Palo Alto,Technology,True,Decreased
+17,59,Charles Koch,87,Male,United States,Wichita,Diversified,False,Decreased
+17,59,Julia Koch & family,60,Female,United States,New York,Diversified,False,Decreased
+19,58,Jim Walton,74,Male,United States,Bentonville,Fashion & Retail,False,Decreased
+20,57,Rob Walton,78,Male,United States,Bentonville,Fashion & Retail,False,Decreased
+21,56,Alice Walton,73,Female,United States,Fort Worth,Fashion & Retail,False,Decreased
+22,54,David Thomson & family,65,Male,Canada,Toronto,Media & Entertainment,False,Increased
+23,50,Michael Dell,58,Male,United States,Austin,Technology,True,Decreased
+24,47,Gautam Adani,60,Male,India,Ahmedabad,Diversified,True,Decreased
+25,45,Phil Knight & family,85,Male,United States,Hillsboro,Fashion & Retail,True,Decreased
+26,45,Zhang Yiming,39,Male,China,Beijing,Technology,True,Decreased
+27,42,Dieter Schwarz,83,Male,Germany,Neckarsulm,Fashion & Retail,False,Decreased
+28,40,François Pinault & family,86,Male,France,Paris,Fashion & Retail,True,Decreased
+29,39,Klaus-Michael Kuehne,85,Male,Germany,Schindellegi,Logistics,False,Increased
+30,38,Giovanni Ferrero,58,Male,Italy,Brussels,Food & Beverage,False,Increased
+31,38,Jacqueline Mars,83,Female,United States,The Plains,Food & Beverage,False,Increased
+31,38,John Mars,87,Male,United States,Jackson,Food & Beverage,False,Increased
+34,35,Ma Huateng,51,Male,China,Shenzhen,Technology,True,Decreased
+35,35,Miriam Adelson & family,77,Female,United States,Las Vegas,Gambling & Casinos,False,Increased
+35,35,Ken Griffin,54,Male,United States,Miami,Finance & Investments,True,Increased
+38,33,Robin Zeng,54,Male,Hong Kong,Ningde,Automotive,True,Decreased
+39,32,Tadashi Yanai & family,74,Male,Japan,Tokyo,Fashion & Retail,True,Increased
+40,32,Len Blavatnik,65,Male,United States,London,Diversified,True,Decreased
+41,31,Alain Wertheimer,74,Male,France,New York,Fashion & Retail,False,Increased
+41,31,Gerard Wertheimer,72,Male,France,New York,Fashion & Retail,False,Increased
+45,30,Colin Zheng Huang,43,Male,China,Shanghai,Technology,True,Increased
+46,29,Reinhold Wuerth & family,87,Male,Germany,Kuenzelsau,Manufacturing,True,Increased
+47,29,Lee Shau Kee,95,Male,Hong Kong,Hong Kong,Real Estate,True,Decreased
+48,28,Jeff Yass,64,Male,United States,Haverford,Finance & Investments,True,Increased
+49,28,Jim Simons,84,Male,United States,East Setauket,Finance & Investments,True,Decreased
+50,27,Stephen Schwarzman,76,Male,United States,New York,Finance & Investments,True,Decreased
+51,27,Susanne Klatten,60,Female,Germany,Bad Homburg,Automotive,False,Increased
+52,27,Gina Rinehart,69,Female,Australia,Perth,Metals & Mining,False,Decreased
+53,26,William Lei Ding,51,Male,China,Hangzhou,Technology,True,Increased
+54,26,Germán Larrea Mota Velasco & family,69,Male,Mexico,Mexico City,Metals & Mining,False,Decreased
+55,25,Shiv Nadar,77,Male,India,Delhi,Technology,True,Decreased
+56,25,Low Tuck Kwong,74,Male,Indonesia,Jakarta,Energy,True,Increased
+57,25,Thomas Peterffy,78,Male,United States,Palm Beach,Finance & Investments,True,Increased
+58,25,Andrey Melnichenko & family,51,Male,Russia,Ras Al Khaimah,Metals & Mining,True,Increased
+59,24,Stefan Quandt,56,Male,Germany,Frankfurt,Automotive,False,Increased
+60,24,MacKenzie Scott,52,Female,United States,Seattle,Technology,False,Decreased
+61,24,R. Budi Hartono,82,Male,Indonesia,Kudus,Finance & Investments,False,Increased
+62,23,Vladimir Potanin,62,Male,Russia,Moscow,Metals & Mining,True,Increased
+63,23,Jack Ma,58,Male,China,Hangzhou,Technology,True,Increased
+64,23,He Xiangjian & family,80,Male,China,Foshan,Manufacturing,True,Decreased
+65,23,Iris Fontbona & family,80,Female,Chile,Santiago,Metals & Mining,False,Increased
+65,23,Michael Hartono,83,Male,Indonesia,Kudus,Manufacturing,False,Increased
+67,22,James Ratcliffe,70,Male,United Kingdom,London,Manufacturing,True,Increased
+68,22,Cyrus Poonawalla,81,Male,India,Pune,Healthcare,False,Decreased
+69,22,Masayoshi Son,65,Male,Japan,Tokyo,Telecom,True,Increased
+70,22,Vladimir Lisin,66,Male,Russia,Moscow,Metals & Mining,True,Increased
+71,22,Emmanuel Besnier,52,Male,France,Laval,Food & Beverage,False,Decreased
+72,21,Abigail Johnson,61,Female,United States,Milton,Finance & Investments,False,Increased
+72,21,Leonid Mikhelson & family,67,Male,Russia,Moscow,Energy,True,Increased
+74,21,Lukas Walton,36,Male,United States,Chicago,Fashion & Retail,False,Increased
+74,21,Wang Wei,52,Male,China,Shenzhen,Service,True,Decreased
+76,21,Jensen Huang,60,Male,United States,Los Altos,Technology,True,Increased
+77,21,Leonard Lauder,90,Male,United States,New York,Fashion & Retail,False,Decreased
+77,21,Takemitsu Takizaki,77,Male,Japan,Osaka,Manufacturing,True,Decreased
+79,20,Alexey Mordashov & family,57,Male,Russia,Moscow,Metals & Mining,True,Increased
+80,20,Vagit Alekperov,72,Male,Russia,Moscow,Energy,True,Increased
+81,20,"Thomas Frist, Jr. & family",84,Male,United States,Nashville,Healthcare,True,Decreased
+82,19,Andrew Forrest,61,Male,Australia,Perth,Metals & Mining,True,Increased
+83,19,Ray Dalio,73,Male,United States,Greenwich,Finance & Investments,True,Decreased
+84,19,Li Eric,59,Male,China,Hangzhou,Automotive,True,Decreased
+84,19,Wang Wenyin,55,Male,China,Shenzhen,Metals & Mining,True,Increased
+86,18,Eyal Ofer,72,Male,Israel,Monte Carlo,Diversified,False,Increased
+86,18,Qin Yinglin,57,Male,China,Nanyang,Food & Beverage,True,Decreased
+88,18,Wang Chuanfu,57,Male,China,Shenzhen,Automotive,True,Decreased
+89,18,Harold Hamm & family,77,Male,United States,Oklahoma City,Energy,True,Increased
+89,18,David Tepper,65,Male,United States,Palm Beach,Finance & Investments,True,Increased
+89,18,Gennady Timchenko,70,Male,Russia,Moscow,Energy,True,Increased
+92,18,Daniel Gilbert,61,Male,United States,Franklin,Finance & Investments,True,Decreased
+93,17,Lakshmi Mittal,72,Male,India,London,Metals & Mining,False,Decreased
+94,17,Steve Cohen,66,Male,United States,Greenwich,Finance & Investments,True,Increased
+94,17,Carl Icahn,87,Male,United States,Indian Creek,Finance & Investments,True,Increased
+94,17,Savitri Jindal & family,73,Female,India,Hisar,Metals & Mining,False,Decreased
+97,17,Donald Bren,90,Male,United States,Newport Beach,Real Estate,True,Increased
+97,17,"John Menard, Jr.",83,Male,United States,Eau Claire,Fashion & Retail,True,Increased
+99,17,Rupert Murdoch & family,92,Male,United States,New York,Media & Entertainment,False,Decreased
+100,16,Vicky Safra & family,70,Female,Brazil,Crans-Montana,Finance & Investments,False,Increased
+101,16,"Theo Albrecht, Jr. & family",72,Male,Germany,Mulheim an der Ruhr,Fashion & Retail,False,Decreased
+101,16,Renata Kellnerova & family,55,Female,Czech Republic,Prague,Finance & Investments,False,Decreased
+103,16,Li Xiting,72,Male,Singapore,Shenzhen,Healthcare,True,Decreased
+104,16,Stefan Persson,75,Male,Sweden,Stockholm,Fashion & Retail,False,Decreased
+104,16,Eric Schmidt,67,Male,United States,Atherton,Technology,True,Decreased
+106,16,Michael Platt,55,Male,United Kingdom,Geneva,Finance & Investments,True,Increased
+107,15,Pang Kang,67,Male,China,Foshan,Food & Beverage,True,Decreased
+108,15,Jorge Paulo Lemann & family,83,Male,Brazil,Zurich,Food & Beverage,True,Increased
+108,15,Peter Woo,76,Male,Hong Kong,Hong Kong,Real Estate,False,Decreased
+112,15,Dilip Shanghvi,67,Male,India,Mumbai,Healthcare,True,Remained Even
+113,15,Robert Pera,45,Male,United States,San Jose,Technology,True,Increased
+114,15,Radhakishan Damani,68,Male,India,Mumbai,Fashion & Retail,True,Decreased
+115,15,Huang Shilin,56,Male,China,Ningde,Automotive,True,Decreased
+116,14,Dhanin Chearavanont,83,Male,Thailand,Bangkok,Diversified,False,Increased
+116,14,David Green & family,81,Male,United States,Oklahoma City,Fashion & Retail,True,Increased
+118,14,Charoen Sirivadhanabhakdi,78,Male,Thailand,Bangkok,Food & Beverage,True,Increased
+119,14,Charlene de Carvalho-Heineken & family,68,Female,Netherlands,London,Food & Beverage,False,Decreased
+120,14,Xu Hang,56,Male,Hong Kong,Shenzhen,Healthcare,True,Decreased
+121,14,Wei Jianjun & family,59,Male,China,Baoding,Automotive,True,Decreased
+122,14,Alisher Usmanov,69,Male,Russia,Tashkent,Metals & Mining,True,Increased
+123,14,Goh Cheng Liang,95,Male,Singapore,Singapore,Manufacturing,True,Increased
+124,14,Kumar Birla,55,Male,India,Mumbai,Diversified,False,Decreased
+124,14,Aliko Dangote,65,Male,Nigeria,Lagos,Manufacturing,True,Increased
+126,14,Kwong Siu-hing,93,Female,Hong Kong,Hong Kong,Real Estate,False,Increased
+127,14,Idan Ofer,67,Male,Israel,London,Diversified,False,Increased
+128,13,Chen Bang,57,Male,China,Changsha,Healthcare,True,Increased
+128,13,Lui Che Woo,94,Male,Hong Kong,Hong Kong,Gambling & Casinos,True,Increased
+130,13,John Fredriksen,78,Male,Cyprus,London,Logistics,True,Increased
+130,13,Diane Hendricks,76,Female,United States,Afton,Construction & Engineering,True,Increased
+130,13,Jan Koum,47,Male,United States,Atherton,Technology,True,Increased
+133,13,Jerry Jones,80,Male,United States,Dallas,Sports,True,Increased
+133,13,George Kaiser,80,Male,United States,Tulsa,Energy,False,Increased
+133,13,Joseph Lau,71,Male,Hong Kong,Hong Kong,Real Estate,True,Decreased
+136,13,Lu Xiangyang,60,Male,China,Guangzhou,Automotive,True,Decreased
+137,13,Harry Triguboff,90,Male,Australia,Sydney,Real Estate,True,Increased
+138,12,Uday Kotak,64,Male,India,Mumbai,Finance & Investments,True,Decreased
+138,12,Stanley Kroenke,75,Male,United States,Electra,Sports,True,Increased
+140,12,Mikhail Fridman,58,Male,Russia,London,Energy,True,Increased
+141,12,Sarath Ratanavadi,57,Male,Thailand,Bangkok,Energy,True,Increased
+142,12,Dang Yanbao,50,Male,China,Yinchuan,Metals & Mining,True,Decreased
+142,12,Jiang Rensheng & family,69,Male,China,Chongqing,Healthcare,True,Decreased
+144,12,Shahid Khan,72,Male,United States,Naples,Automotive,True,Increased
+145,12,Laurene Powell Jobs & family,59,Female,United States,Palo Alto,Technology,False,Decreased
+146,11,Robert Kuok,99,Male,Malaysia,Hong Kong,Diversified,True,Increased
+147,11,Stephen Ross,82,Male,United States,New York,Real Estate,True,Increased
+148,11,Pavel Durov,38,Male,United Arab Emirates,Dubai,Technology,True,Decreased
+148,11,Andreas Struengmann & family,73,Male,Germany,Tegernsee,Healthcare,True,Decreased
+148,11,Thomas Struengmann & family,73,Male,Germany,Tegernsee,Healthcare,True,Decreased
+151,11,Liu Hanyuan,59,Male,China,Chengdu,Food & Beverage,True,Decreased
+151,11,Michael Rubin,50,Male,United States,Bryn Mawr,Fashion & Retail,True,Increased
+153,11,Israel Englander,74,Male,United States,New York,Finance & Investments,True,Decreased
+153,11,Viatcheslav Kantor,69,Male,Russia,Herzliya,Manufacturing,True,Increased
+153,11,Anthony Pratt,62,Male,Australia,Melbourne,Manufacturing,False,Decreased
+153,11,Mikhail Prokhorov,57,Male,Russia,Frauenfeld,Finance & Investments,True,Increased
+157,11,Giorgio Armani,88,Male,Italy,Milan,Fashion & Retail,True,Increased
+157,11,Johann Rupert & family,72,Male,South Africa,Cape Town,Fashion & Retail,False,Increased
+159,11,Gong Hongjia & family,58,Male,Hong Kong,Hong Kong,Finance & Investments,True,Decreased
+159,11,Zhang Zhidong,51,Male,China,Shenzhen,Technology,True,Decreased
+161,10,Philip Anschutz,83,Male,United States,Denver,Finance & Investments,False,Remained Even
+161,10,Judy Love & family,85,Female,United States,Oklahoma City,Fashion & Retail,True,Increased
+161,10,Ricardo Salinas Pliego & family,67,Male,Mexico,Mexico City,Fashion & Retail,False,Decreased
+164,10,Donald Newhouse,93,Male,United States,New York,Media & Entertainment,False,Decreased
+165,10,Robert Kraft,81,Male,United States,Brookline,Sports,True,Increased
+165,10,Marcel Herrmann Telles,73,Male,Brazil,Sao Paulo,Food & Beverage,True,Increased
+167,10,Suleiman Kerimov & family,57,Male,Russia,Moscow,Finance & Investments,True,Increased
+167,10,Chris Xu,39,Male,China,Guangzhou,Fashion & Retail,True,Increased
+167,10,Changpeng Zhao,45,Male,Canada,Dubai,Finance & Investments,True,Decreased
+170,10,Andrew Beal,70,Male,United States,Dallas,Finance & Investments,True,Increased
+171,10,Mike Cannon-Brookes,43,Male,Australia,Sydney,Technology,True,Decreased
+171,10,Carl Cook,60,Male,United States,Bloomington,Healthcare,False,Decreased
+171,10,David Duffield,82,Male,United States,Incline Village,Technology,True,Decreased
+171,10,Jeffery Hildebrand,64,Male,United States,Houston,Energy,True,Increased
+171,10,Viktor Rashnikov,74,Male,Russia,Magnitogorsk,Manufacturing,True,Increased
+171,10,Eduardo Saverin,41,Male,Brazil,Singapore,Technology,True,Decreased
+171,10,Georg Schaeffler,58,Male,Germany,Herzogenaurach,Automotive,False,Increased
+171,10,Christy Walton,74,Female,United States,Jackson,Fashion & Retail,False,Increased
+179,10,Scott Farquhar,43,Male,Australia,Sydney,Technology,True,Decreased
+179,10,Quek Leng Chan,81,Male,Malaysia,Kuala Lumpur,Diversified,False,Decreased
+179,10,Wu Yajun,59,Female,China,Beijing,Real Estate,True,Decreased
+182,10,Autry Stephens,85,Male,United States,Midland,Energy,True,Increased
+183,9,Liu Yongxing,74,Male,China,Shanghai,Service,True,Decreased
+184,9,Nicolas Puech,80,Male,France,Martigny,Fashion & Retail,False,Increased
+184,9,Melker Schorling & family,75,Male,Sweden,Stockholm,Finance & Investments,True,Decreased
+190,9,Andrei Guriev & family,63,Male,Russia,Moscow,Manufacturing,True,Increased
+190,9,Michael Kim,59,Male,United States,Seoul,Finance & Investments,True,Increased
+190,9,Lei Jun,53,Male,China,Beijing,Technology,True,Decreased
+190,9,Friedhelm Loh,76,Male,Germany,Haiger,Manufacturing,False,Increased
+190,9,Sun Piaoyang,64,Male,China,Lianyungang,Healthcare,True,Decreased
+195,9,Jin Baofang,70,Male,China,Xingtai,Energy,True,Decreased
+195,9,Luo Liguo & family,67,Male,China,Ningbo,Manufacturing,True,Decreased
+195,9,Marijke Mars,58,Female,United States,Los Angeles,Food & Beverage,False,Increased
+195,9,Pamela Mars,62,Female,United States,Alexandria,Food & Beverage,False,Increased
+195,9,Valerie Mars,64,Female,United States,New York,Food & Beverage,False,Increased
+195,9,Victoria Mars,66,Female,United States,Philadelphia,Food & Beverage,False,Increased
+202,9,Vincent Bolloré & family,71,Male,France,Paris,Finance & Investments,False,Increased
+202,9,Jim Pattison,94,Male,Canada,Vancouver,Diversified,True,Decreased
+204,9,Ernesto Bertarelli,57,Male,Switzerland,Gstaad,Healthcare,False,Increased
+204,9,Wang Xing,44,Male,China,Beijing,Technology,True,Decreased
+206,9,Brian Chesky,41,Male,United States,San Francisco,Technology,True,Decreased
+206,9,James Dyson,75,Male,United Kingdom,Gloucestershire,Manufacturing,True,Increased
+208,9,Roman Abramovich & family,56,Male,Russia,Moscow,Diversified,True,Increased
+208,9,Antonia Ax:son Johnson & family,79,Female,Sweden,Stockholm,Diversified,False,Increased
+208,9,Daniel Kretinsky,47,Male,Czech Republic,Prague,Energy,True,Increased
+208,9,John Malone,82,Male,United States,Elizabeth,Media & Entertainment,True,Increased
+208,9,Azim Premji,77,Male,India,Bangalore,Technology,False,Decreased
+208,9,Charles Schwab,85,Male,United States,Woodside,Finance & Investments,True,Decreased
+208,9,Eric Smidt,63,Male,United States,Beverly Hills,Fashion & Retail,True,Increased
+215,9,David Cheriton,72,Male,Canada,Palo Alto,Technology,True,Decreased
+215,9,Ivan Glasenberg,66,Male,Switzerland,Ruschlikon,Metals & Mining,True,Decreased
+215,9,Alexander Otto,55,Male,Germany,Hamburg,Real Estate,False,Decreased
+215,9,Anthony von Mandl,73,Male,Canada,Vancouver,Food & Beverage,True,Increased
+215,9,Wang Liping & family,57,Male,China,Changzhou,Manufacturing,True,Increased
+220,8,Finn Rausing,68,Male,Sweden,London,Food & Beverage,False,Decreased
+220,8,Jorn Rausing,63,Male,Sweden,Surrey,Food & Beverage,False,Decreased
+220,8,Kirsten Rausing,70,Female,Sweden,Newmarket,Food & Beverage,False,Decreased
+223,8,Tatyana Bakalchuk,47,Female,Russia,Moscow region,Fashion & Retail,True,Increased
+223,8,John Doerr,71,Male,United States,Woodside,Technology,True,Decreased
+223,8,Richard Liu,49,Male,China,Beijing,Technology,True,Decreased
+223,8,Dustin Moskovitz,38,Male,United States,San Francisco,Technology,True,Decreased
+223,8,Pierre Omidyar,55,Male,United States,Honolulu,Technology,True,Decreased
+223,8,Pei Zhenhua,64,Male,China,Ningde,Energy,True,Decreased
+223,8,Carrie Perrodo & family,72,Female,France,London,Energy,False,Increased
+230,8,Chen Jianhua,52,Male,China,Wujiang,Manufacturing,True,Increased
+230,8,Michael Otto,79,Male,Germany,Hamburg,Fashion & Retail,False,Decreased
+232,8,Leon Black,71,Male,United States,New York,Finance & Investments,True,Decreased
+232,8,Graeme Hart,67,Male,New Zealand,Auckland,Finance & Investments,True,Decreased
+232,8,Ravi Jaipuria,68,Male,India,Delhi,Food & Beverage,False,Increased
+232,8,Hasso Plattner & family,79,Male,Germany,Heidelberg,Technology,True,Increased
+232,8,Carlos Alberto Sicupira & family,75,Male,Brazil,St. Gallen,Food & Beverage,True,Increased
+232,8,Manuel Villar,73,Male,Philippines,Manila,Real Estate,True,Increased
+232,8,Andreas von Bechtolsheim & family,67,Male,Germany,Palo Alto,Technology,True,Decreased
+239,8,"Chase Coleman, III.",47,Male,United States,New York,Finance & Investments,True,Decreased
+239,8,Ann Walton Kroenke,74,Female,United States,Electra,Fashion & Retail,False,Decreased
+239,8,Li Zhenguo & family,55,Male,China,Xi'an,Manufacturing,True,Decreased
+242,8,Jim Kennedy,75,Male,United States,Atlanta,Media & Entertainment,False,Increased
+242,8,Nicky Oppenheimer & family,77,Male,South Africa,Johannesburg,Metals & Mining,False,Decreased
+242,8,Blair Parry-Okeden,72,Female,United States,New South Wales,Media & Entertainment,False,Increased
+242,8,Zheng Shuliang & family,77,Female,China,Binzhou,Metals & Mining,False,Decreased
+246,8,John Morris,75,Male,United States,Springfield,Fashion & Retail,True,Increased
+246,8,Stefano Pessina,81,Male,Monaco,Monte Carlo,Fashion & Retail,False,Decreased
+249,8,Francis Choi,75,Male,Hong Kong,Hong Kong,Real Estate,True,Increased
+249,8,German Khan,61,Male,Russia,Moscow,Energy,True,Increased
+249,8,Abdulsamad Rabiu,62,Male,Nigeria,Lagos,Diversified,False,Increased
+249,8,George Roberts,79,Male,United States,Atherton,Finance & Investments,True,Increased
+249,8,Kushal Pal Singh,91,Male,India,Delhi,Real Estate,False,Decreased
+249,8,Wang Jianlin,68,Male,China,Beijing,Real Estate,True,Decreased
+249,8,Yang Huiyan & family,41,Female,China,Foshan,Real Estate,False,Decreased
+256,8,Laurent Dassault,69,Male,France,Paris,Diversified,False,Decreased
+256,8,Thierry Dassault,66,Male,France,Paris,Diversified,False,Decreased
+256,8,Tilman Fertitta,65,Male,United States,Houston,Food & Beverage,True,Increased
+256,8,Marie-Hélène Habert-Dassault,58,Female,France,Paris,Diversified,False,Decreased
+256,8,Karel Komarek,54,Male,Czech Republic,Verbier,Gambling & Casinos,True,Increased
+261,8,Nathan Blecharczyk,39,Male,United States,San Francisco,Technology,True,Decreased
+261,8,Leonid Fedun,66,Male,Russia,Moscow,Energy,True,Increased
+261,8,Bernard Marcus,93,Male,United States,Atlanta,Fashion & Retail,True,Decreased
+261,8,Patrick Ryan,85,Male,United States,Winnetka,Finance & Investments,True,Remained Even
+261,8,Robert F. Smith,60,Male,United States,Austin,Finance & Investments,True,Increased
+261,8,Pavel Tykac,58,Male,Czech Republic,Prague,Metals & Mining,True,Increased
+268,7,Orlando Bravo,52,Male,United States,Miami Beach,Finance & Investments,True,Increased
+268,7,Ding Shizhong & family,52,Male,China,Quanzhou,Fashion & Retail,True,Increased
+268,7,Nancy Walton Laurie,71,Female,United States,Henderson,Fashion & Retail,False,Decreased
+268,7,Jay Y. Lee,54,Male,South Korea,Seoul,Technology,False,Decreased
+268,7,Ramzi Musallam,54,Male,United States,New York,Finance & Investments,True,Increased
+268,7,David Shaw,72,Male,United States,New York,Finance & Investments,True,Increased
+268,7,Andrei Skoch & family,57,Male,Russia,Moscow,Metals & Mining,True,Increased
+268,7,Georg Stumpf,50,Male,Austria,Vienna,Diversified,True,Remained Even
+276,7,Rocco Commisso,73,Male,United States,Saddle River,Telecom,True,Increased
+276,7,Li Shuirong,66,Male,China,Hangzhou,Manufacturing,True,Decreased
+276,7,Lin Shu-hong,94,Male,Taiwan,Taipei,Manufacturing,True,Increased
+276,7,Qi Shi & family,53,Male,China,Shanghai,Technology,True,Decreased
+276,7,Yao Liangsong,58,Male,China,Guangzhou,Manufacturing,True,Decreased
+276,7,Zhang Congyuan,75,Male,Taiwan,Taoyuan,Fashion & Retail,True,Decreased
+282,7,Jean-Michel Besnier,55,Male,France,Laval,Food & Beverage,False,Decreased
+282,7,Marie Besnier Beauvalot,42,Female,France,Laval,Food & Beverage,False,Decreased
+282,7,David Geffen,80,Male,United States,Beverly Hills,Media & Entertainment,True,Decreased
+282,7,Robin Li,54,Male,China,Beijing,Technology,True,Increased
+282,7,Liu Yonghao & family,71,Male,China,Chengdu,Service,True,Decreased
+282,7,Henry Samueli,68,Male,United States,Newport Beach,Technology,True,Increased
+282,7,Reinhold Schmieding,68,Male,United States,Naples,Healthcare,True,Increased
+282,7,Ivar Tollefsen,61,Male,Norway,Oslo,Real Estate,True,Increased
+290,7,Cao Renxian,54,Male,China,Hefei,Energy,True,Decreased
+290,7,Hasmukh Chudgar & family,89,Male,India,Ahmedabad,Healthcare,True,Increased
+290,7,Andrew Currie,67,Male,United Kingdom,London,Manufacturing,True,Increased
+290,7,Joe Gebbia,41,Male,United States,Austin,Technology,True,Decreased
+290,7,John Reece,66,Male,United Kingdom,London,Manufacturing,True,Increased
+290,7,Leonard Stern,85,Male,United States,New York,Real Estate,False,Increased
+290,7,Joseph Tsai,59,Male,Canada,Hong Kong,Technology,True,Decreased
+290,7,Zhong Huijuan,62,Female,China,Shanghai,Healthcare,True,Decreased
+299,7,Arthur Blank,80,Male,United States,Atlanta,Sports,True,Increased
+299,7,Charles Butt,85,Male,United States,San Antonio,Fashion & Retail,False,Returned to List
+299,7,Ding Shijia,59,Male,China,Quanzhou,Fashion & Retail,True,Decreased
+299,7,"Paul Tudor Jones, II.",68,Male,United States,Palm Beach,Finance & Investments,True,Increased
+299,7,Henry Kravis,79,Male,United States,New York,Finance & Investments,True,Decreased
+299,7,Zhang Yong,52,Male,Singapore,Singapore,Food & Beverage,True,Increased
+305,7,James Goodnight,80,Male,United States,Cary,Technology,True,Increased
+305,7,Sri Prakash Lohia,70,Male,Indonesia,London,Manufacturing,False,Increased
+305,7,Ma Jianrong & family,59,Male,China,Ningbo,Fashion & Retail,True,Decreased
+305,7,Steven Rales,72,Male,United States,Santa Barbara,Manufacturing,True,Decreased
+305,7,Nassef Sawiris,62,Male,Egypt,Cairo,Construction & Engineering,False,Decreased
+305,7,Harry Stine,81,Male,United States,Adel,Food & Beverage,True,Increased
+312,7,Benu Gopal Bangur,91,Male,India,Kolkata,Manufacturing,False,Increased
+312,7,Iskander Makhmudov,59,Male,Russia,Moscow,Metals & Mining,True,Increased
+312,7,Anders Holch Povlsen,50,Male,Denmark,Aarhus,Fashion & Retail,False,Decreased
+312,7,Enrique Razon Jr.,63,Male,Philippines,Manila,Logistics,False,Increased
+312,7,Wang Laichun,55,Female,China,Shenzhen,Technology,True,Decreased
+317,7,Terry Gou,72,Male,Taiwan,Taipei,Technology,True,Increased
+317,7,Jeff Greene,68,Male,United States,Palm Beach,Real Estate,True,Increased
+317,7,Don Hankey,79,Male,United States,Malibu,Finance & Investments,True,Increased
+317,7,Richard Kinder,78,Male,United States,Houston,Energy,True,Decreased
+317,7,Guillaume Pousaz,41,Male,Switzerland,Dubai,Finance & Investments,True,Decreased
+317,7,Takahisa Takahara,61,Male,Japan,Tokyo,Fashion & Retail,False,Increased
+317,7,Zong Qinghou,77,Male,China,Hangzhou,Food & Beverage,True,Decreased
+325,7,Judy Faulkner,79,Female,United States,Madison,Technology,True,Increased
+325,7,Johann Graf,76,Male,Austria,Vienna,Gambling & Casinos,True,Increased
+325,7,Tamara Gustavson,61,Female,United States,Lexington,Service,False,Decreased
+325,7,Liang Wengen,66,Male,China,Changsha,Manufacturing,True,Decreased
+325,7,Frederik Paulsen,72,Male,Sweden,Lausanne,Healthcare,False,Decreased
+325,7,Wee Cho Yaw,94,Male,Singapore,Singapore,Finance & Investments,False,Decreased
+325,7,Zhang Hejun,71,Male,China,Ningbo,Manufacturing,True,Increased
+332,7,Marc Benioff,58,Male,United States,San Francisco,Technology,True,Decreased
+332,7,Dmitri Bukhman,37,Male,Israel,London,Media & Entertainment,True,Decreased
+332,7,Igor Bukhman,41,Male,Israel,London,Media & Entertainment,True,Decreased
+332,7,Jack Dangermond,77,Male,United States,Redlands,Technology,True,Increased
+332,7,Ashwin Dani & family,80,Male,India,Mumbai,Manufacturing,False,Decreased
+332,7,Ralph Lauren,83,Male,United States,New York,Fashion & Retail,True,Increased
+332,7,Law Kar Po,74,Male,Hong Kong,Hong Kong,Real Estate,False,Increased
+332,7,J. Christopher Reyes,69,Male,United States,Hobe Sound,Food & Beverage,True,Decreased
+332,7,Jude Reyes,67,Male,United States,Palm Beach,Food & Beverage,True,Decreased
+332,7,Don Vultaggio & family,71,Male,United States,Port Washington,Food & Beverage,True,Increased
+344,6,Edythe Broad & family,87,Female,United States,Los Angeles,Diversified,False,Remained Even
+344,6,Pauline MacMillan Keinath,89,Female,United States,St. Louis,Food & Beverage,False,Decreased
+344,6,Philippe Laffont,55,Male,United States,New York,Finance & Investments,True,Increased
+344,6,Liu Jincheng & family,58,Male,China,Huizhou,Technology,True,Decreased
+344,6,Igor Olenicoff,80,Male,United States,Lighthouse Point,Real Estate,True,Increased
+344,6,Sandra Ortega Mera,54,Female,Spain,La Coruna,Fashion & Retail,False,Increased
+344,6,Ronda Stryker,68,Female,United States,Portage,Healthcare,False,Increased
+352,6,Dannine Avara,59,Female,United States,Houston,Energy,False,Increased
+352,6,Silvio Berlusconi & family,86,Male,Italy,Milan,Diversified,True,Decreased
+352,6,Denise Coates,55,Female,United Kingdom,Stoke-on-Trent,Gambling & Casinos,True,Increased
+352,6,Scott Duncan,40,Male,United States,Houston,Energy,False,Increased
+352,6,Milane Frantz,53,Female,United States,Houston,Energy,False,Increased
+352,6,"Edward Johnson, IV.",58,Male,United States,Boston,Finance & Investments,False,Increased
+352,6,Yuri Milner,61,Male,Israel,Los Altos,Finance & Investments,True,Decreased
+352,6,Gordon Moore,94,Male,United States,Woodside,Technology,True,Decreased
+352,6,John Overdeck,53,Male,United States,Millburn,Finance & Investments,True,Increased
+352,6,David Siegel,61,Male,United States,Scarsdale,Finance & Investments,True,Increased
+352,6,Viktor Vekselberg,65,Male,Russia,Moscow,Diversified,True,Increased
+352,6,Wang Laisheng,58,Male,China,Shenzhen,Technology,True,Decreased
+352,6,Randa Duncan Williams,61,Female,United States,Houston,Energy,False,Increased
+365,6,Ken Fisher,72,Male,United States,Dallas,Finance & Investments,True,Increased
+365,6,Christopher Hohn,56,Male,United Kingdom,London,Finance & Investments,True,Decreased
+365,6,Kjeld Kirk Kristiansen,75,Male,Denmark,Billund,Manufacturing,False,Decreased
+365,6,Sofie Kirk Kristiansen,47,Female,Denmark,Billund,Manufacturing,False,Decreased
+365,6,Thomas Kirk Kristiansen,44,Male,Denmark,Billund,Manufacturing,False,Decreased
+365,6,Massimiliana Landini Aleotti & family,80,Female,Italy,Fiesole,Healthcare,False,Increased
+365,6,Li Ping,55,Male,Hong Kong,Ningde,Automotive,True,Decreased
+365,6,Magdalena Martullo-Blocher,54,Female,Switzerland,Feldmeilen,Manufacturing,False,Decreased
+365,6,Xavier Niel,55,Male,France,Paris,Telecom,True,Decreased
+365,6,Terrence Pegula,72,Male,United States,Boca Raton,Energy,True,Increased
+365,6,"Edward Roski, Jr.",84,Male,United States,Los Angeles,Real Estate,False,Increased
+365,6,John A. Sobrato & family,83,Male,United States,Atherton,Real Estate,True,Increased
+365,6,George Soros,92,Male,United States,Katonah,Finance & Investments,True,Decreased
+365,6,David Sun,71,Male,United States,Irvine,Technology,True,Increased
+365,6,Agnete Kirk Thinggaard,39,Female,Denmark,Billund,Manufacturing,False,Decreased
+365,6,John Tu,81,Male,United States,Rolling Hills,Technology,True,Increased
+365,6,Xu Shihui,65,Male,China,Quanzhou,Food & Beverage,True,Decreased
+383,6,Rahel Blocher,47,Female,Switzerland,Wilen bei Wollerau,Manufacturing,False,Decreased
+383,6,Bubba Cathy,68,Male,United States,Atlanta,Food & Beverage,False,Increased
+383,6,Dan Cathy,70,Male,United States,Atlanta,Food & Beverage,False,Increased
+383,6,Trudy Cathy White,67,Female,United States,Hampton,Food & Beverage,False,Increased
+383,6,Bruce Kovner,78,Male,United States,New York,Finance & Investments,True,Increased
+383,6,"Henry Nicholas, III.",63,Male,United States,Newport Coast,Technology,True,Increased
+383,6,Nadia Thiele,47,Female,Germany,Munich,Finance & Investments,False,Increased
+390,6,David Bonderman,80,Male,United States,Fort Worth,Finance & Investments,True,Increased
+390,6,Melinda French Gates,58,Female,United States,Medina,Technology,False,Increased
+390,6,Nathan Kirsh,91,Male,Eswatini (Swaziland),Ezulwini,Fashion & Retail,True,Increased
+390,6,David Reuben,84,Male,United Kingdom,London,Real Estate,True,Decreased
+390,6,Simon Reuben,81,Male,United Kingdom,Monaco,Diversified,True,Decreased
+390,6,Radovan Vitek,51,Male,Czech Republic,Crans Montana,Real Estate,True,Increased
+397,6,Carl Bennet,71,Male,Sweden,Gothenberg,Finance & Investments,True,Decreased
+397,6,Stephen Bisciotti,62,Male,United States,Hobe Sound,Sports,True,Increased
+397,6,Stanley Druckenmiller,69,Male,United States,New York,Finance & Investments,True,Decreased
+397,6,Jian Jun,59,Female,China,Beijing,Healthcare,True,Increased
+397,6,Alexei Kuzmichev,60,Male,Russia,Paris,Energy,True,Increased
+397,6,Dmitry Rybolovlev & family,56,Male,Russia,Monaco,Manufacturing,True,Decreased
+397,6,Luis Carlos Sarmiento,90,Male,Colombia,Bogota,Finance & Investments,True,Decreased
+397,6,Dennis Washington,88,Male,United States,Missoula,Logistics,True,Decreased
+405,6,Anthony Bamford & family,77,Male,United Kingdom,Gloucestershire,Construction & Engineering,False,Increased
+405,6,Gao Jifan & family,58,Male,China,Changzhou,Energy,True,Decreased
+405,6,John Grayken,66,Male,Ireland,London,Finance & Investments,True,Decreased
+405,6,Alain Merieux & family,85,Male,France,Lyon,Healthcare,False,Decreased
+405,6,Wang Yusuo & family,59,Male,China,Langfang,Energy,True,Increased
+405,6,Stef Wertheimer & family,96,Male,Israel,Tel Aviv,Manufacturing,True,Increased
+411,6,Maria Asuncion Aramburuzabala & family,59,Female,Mexico,Mexico City,Food & Beverage,False,Remained Even
+411,6,Gustaf Douglas,85,Male,Sweden,Stockholm,Diversified,True,Decreased
+411,6,Frits Goldschmeding,89,Male,Netherlands,Amsterdam,Service,True,Increased
+411,6,Lin Muqin & family,59,Male,China,Shenzhen,Food & Beverage,True,Increased
+411,6,Ruan Liping,59,Male,Hong Kong,Ningbo,Manufacturing,True,Increased
+411,6,Ruan Xueping,51,Male,Hong Kong,Ningbo,Manufacturing,True,Increased
+411,6,Michal Solowow,60,Male,Poland,Kielce,Finance & Investments,True,Remained Even
+418,6,Mike Adenuga,69,Male,Nigeria,Lagos,Diversified,True,Decreased
+418,6,Tom Gores,58,Male,United States,Beverly Hills,Finance & Investments,True,Increased
+418,6,Michael Herz,79,Male,Germany,Hamburg,Fashion & Retail,False,Increased
+418,6,Wolfgang Herz,72,Male,Germany,Hamburg,Fashion & Retail,False,Increased
+418,6,Michael Kadoorie,81,Male,Hong Kong,Hong Kong,Energy,False,Decreased
+418,6,Zhou Qunfei,53,Female,Hong Kong,Hong Kong,Technology,True,Decreased
+425,6,Alexander Abramov,64,Male,Russia,Moscow,Metals & Mining,True,Increased
+425,6,Neil Bluhm,85,Male,United States,Chicago,Real Estate,True,Increased
+425,6,Alain Bouchard,74,Male,Canada,Montreal,Fashion & Retail,True,Increased
+425,6,Jay Chaudhry,63,Male,United States,Reno,Technology,True,Decreased
+425,6,Gopikishan Damani,65,Male,India,Mumbai,Fashion & Retail,True,Decreased
+425,6,Sumet Jiaravanon,88,Male,Thailand,Bangkok,Diversified,False,Increased
+425,6,Joe Lewis,86,Male,United Kingdom,Albany,Finance & Investments,True,Increased
+425,6,Frank Lowy,92,Male,Australia,Tel Aviv,Finance & Investments,True,Decreased
+425,6,Michael Milken,76,Male,United States,Los Angeles,Finance & Investments,True,Increased
+425,6,David Steward,71,Male,United States,St. Louis,Technology,True,Increased
+425,6,Les Wexner & family,85,Male,United States,New Albany,Fashion & Retail,True,Increased
+437,5,Cai Kui,60,Male,China,Chengdu,Real Estate,True,Decreased
+437,5,Jaran Chiaravanont,93,Male,Thailand,Bangkok,Diversified,False,Increased
+437,5,Andreas Halvorsen,61,Male,Norway,Darien,Finance & Investments,True,Decreased
+437,5,Antony Ressler,62,Male,United States,Los Angeles,Finance & Investments,True,Increased
+437,5,Tsai Eng-meng,66,Male,Taiwan,Shanghai,Food & Beverage,False,Decreased
+442,5,Josh Harris,58,Male,United States,Miami,Finance & Investments,True,Remained Even
+442,5,Niels Peter Louis-Hansen,75,Male,Denmark,Humlebaek,Healthcare,False,Decreased
+442,5,Patrick Soon-Shiong,70,Male,United States,Los Angeles,Healthcare,True,Decreased
+445,5,Rinat Akhmetov,56,Male,Ukraine,Donetsk,Metals & Mining,True,Increased
+445,5,John Brown,88,Male,United States,Atlanta,Healthcare,True,Increased
+445,5,Clive Calder,76,Male,United Kingdom,Grand Cayman,Media & Entertainment,True,Remained Even
+445,5,Arthur Irving,93,Male,Canada,Saint John,Energy,False,Increased
+445,5,Fredrik Lundberg,71,Male,Sweden,Stockholm,Real Estate,False,Decreased
+445,5,Thomas Schmidheiny,77,Male,Switzerland,Jona,Construction & Engineering,False,Increased
+445,5,Helmut Sohmen,83,Male,Austria,Hong Kong,Logistics,False,Increased
+445,5,Daniel Ziff,51,Male,United States,New York,Finance & Investments,False,Increased
+445,5,Dirk Ziff,59,Male,United States,North Palm Beach,Finance & Investments,False,Increased
+445,5,Robert Ziff,56,Male,United States,New York,Finance & Investments,False,Increased
+455,5,Ray Lee Hunt,79,Male,United States,Dallas,Energy,False,Decreased
+455,5,Lai Meisong,52,Male,China,Shanghai,Logistics,True,Increased
+455,5,Vikram Lal & family,81,Male,India,Delhi,Automotive,False,Increased
+455,5,Ken Langone,87,Male,United States,Sands Point,Finance & Investments,True,Decreased
+455,5,Karen Pritzker,65,Female,United States,Branford,Finance & Investments,False,Decreased
+455,5,Robert Rowling,69,Male,United States,Dallas,Service,False,Increased
+455,5,Teddy Sagi,51,Male,Israel,Tel Aviv,Gambling & Casinos,True,Remained Even
+455,5,Seo Jung-jin,65,Male,South Korea,Seoul,Healthcare,True,Decreased
+455,5,Wu Jianshu,59,Male,Hong Kong,Ningbo,Automotive,True,Decreased
+466,5,Micky Arison,73,Male,United States,Bal Harbour,Service,False,Decreased
+466,5,James Chambers,65,Male,United States,Palisades,Media & Entertainment,False,Increased
+466,5,Pierre Chen,66,Male,Taiwan,Taipei,Technology,True,Increased
+466,5,John Collison,32,Male,Ireland,San Francisco,Technology,True,Decreased
+466,5,Patrick Collison,34,Male,Ireland,San Francisco,Technology,True,Decreased
+466,5,Archie Aldis Emmerson & family,93,Male,United States,Redding,Manufacturing,True,Increased
+466,5,Piero Ferrari,77,Male,Italy,Modena,Automotive,False,Increased
+466,5,Dan Friedkin,58,Male,United States,Houston,Automotive,False,Increased
+466,5,James Irving,95,Male,Canada,Saint John,Diversified,False,Increased
+466,5,Jiang Weiping & family,68,Male,China,Chengdu,Manufacturing,True,Decreased
+466,5,Wolfgang Marguerre & family,81,Male,Germany,Heidelberg,Healthcare,True,Increased
+466,5,Ludwig Merckle,58,Male,Germany,Ulm,Finance & Investments,False,Decreased
+466,5,Mitchell Rales,66,Male,United States,Potomac,Manufacturing,True,Decreased
+466,5,Katharine Rayner,78,Female,United States,East Hampton,Media & Entertainment,False,Increased
+466,5,Jean Salata,57,Male,Chile,Hong Kong,Finance & Investments,True,Increased
+466,5,Paul Singer,78,Male,United States,New York,Finance & Investments,True,Increased
+466,5,Sergio Stevanato & family,80,Male,Italy,Venice,Healthcare,True,Increased
+466,5,Margaretta Taylor,80,Female,United States,Southampton,Media & Entertainment,False,Increased
+466,5,Richard White,68,Male,Australia,Sydney,Technology,True,Increased
+466,5,Zhao Yan,56,Female,China,Beijing,Diversified,True,Decreased
+486,5,Patrizio Bertelli,77,Male,Italy,Milan,Fashion & Retail,True,Increased
+486,5,Mahendra Choksi & family,81,Male,India,Mumbai,Manufacturing,False,Decreased
+486,5,Mat Ishbia,43,Male,United States,Bloomfield Hills,Finance & Investments,False,Increased
+486,5,Leo Koguan,68,Male,United States,Singapore,Technology,True,Decreased
+486,5,Miao Hangen,58,Male,China,Suzhou,Diversified,True,Decreased
+486,5,Michael Pieper,77,Male,Switzerland,Lucerne,Manufacturing,True,Increased
+486,5,Miuccia Prada,73,Female,Italy,Milan,Fashion & Retail,False,Increased
+486,5,Wolfgang Reimann,70,Male,Germany,Passau,Fashion & Retail,False,Decreased
+486,5,Matthias Reimann-Andersen,58,Male,Germany,Munich,Fashion & Retail,False,Decreased
+486,5,Stefan Reimann-Andersen,59,Male,Germany,Vienna,Fashion & Retail,False,Decreased
+486,5,Renate Reimann-Haas,71,Female,Germany,Vienna,Fashion & Retail,False,Decreased
+497,5,Todd Boehly,49,Male,United States,Darien,Finance & Investments,True,Increased
+497,5,Rick Caruso,64,Male,United States,Los Angeles,Real Estate,True,Increased
+497,5,Ibrahim Erdemoglu,60,Male,Turkey,Istanbul,Manufacturing,True,Increased
+497,5,Elizabeth Johnson,59,Female,United States,Boston,Finance & Investments,False,Increased
+497,5,Douglas Leone,65,Male,United States,Atherton,Finance & Investments,True,Decreased
+497,5,Prajogo Pangestu,78,Male,Indonesia,Jakarta,Diversified,False,Decreased
+497,5,Thomas Pritzker,72,Male,United States,Chicago,Finance & Investments,False,Increased
+497,5,Gary Rollins,78,Male,United States,Atlanta,Service,False,Remained Even
+497,5,Mark Walter,62,Male,United States,Chicago,Finance & Investments,True,Increased
+497,5,Ronald Wanek,81,Male,United States,Saint Petersburg,Manufacturing,True,Decreased
+497,5,Erich Wesjohann & family,77,Male,Germany,Visbek,Food & Beverage,True,Decreased
+497,5,M.A. Yusuff Ali,67,Male,India,Abu Dhabi,Fashion & Retail,True,Decreased
+511,5,Alexandre Behring,56,Male,Brazil,Greenwich,Finance & Investments,True,Increased
+511,5,Cheng Xue,53,Female,China,Foshan,Food & Beverage,True,Decreased
+511,5,Gao Dekang & family,71,Male,China,Changshu,Fashion & Retail,True,Increased
+511,5,Micky Jagtiani,71,Male,India,Dubai,Fashion & Retail,False,Increased
+511,5,Ananda Krishnan,85,Male,Malaysia,Kuala Lumpur,Telecom,True,Decreased
+511,5,Barry Lam,73,Male,Taiwan,Taipei,Technology,True,Decreased
+511,5,"Robert Rich, Jr.",82,Male,United States,Islamorada,Food & Beverage,False,Increased
+511,5,Mark Scheinberg,49,Male,Canada,Isle of Man,Gambling & Casinos,True,Decreased
+511,5,Charles Simonyi,74,Male,United States,Medina,Technology,True,Decreased
+511,5,Ty Warner,78,Male,United States,Oak Brook,Real Estate,True,Increased
+511,5,Sam Zell,81,Male,United States,Chicago,Real Estate,True,Decreased
+523,5,Wei Fang,49,Male,China,Beijing,Manufacturing,True,Increased
+523,5,Charles B. Johnson,90,Male,United States,Palm Beach,Finance & Investments,False,Remained Even
+523,5,Kwon Hyuk-bin,49,Male,South Korea,Seoul,Media & Entertainment,True,Decreased
+523,5,Sami Mnaymneh,61,Male,United States,Miami Beach,Finance & Investments,True,Increased
+523,5,Kjell Inge Rokke,64,Male,Norway,Vettre,Logistics,True,Decreased
+523,5,Tony Tamer,65,Male,United States,New York,Finance & Investments,True,Increased
+523,5,Tse Ping & family,71,Male,China,Hong Kong,Healthcare,True,Decreased
+523,5,Romesh T. Wadhwani,75,Male,United States,Palo Alto,Technology,True,Increased
+523,5,Hansjoerg Wyss,88,Male,Switzerland,Wilson,Healthcare,True,Increased
+523,5,Denise York & family,72,Female,United States,Youngstown,Sports,False,Increased
+534,5,Ron Baron,79,Male,United States,New York,Finance & Investments,True,Increased
+534,5,Robert Bass,75,Male,United States,Fort Worth,Energy,False,Decreased
+534,5,Dona Bertarelli,55,Female,Switzerland,Gstaad,Healthcare,False,Increased
+534,5,Martin Haefner,69,Male,Switzerland,Zurich,Technology,False,Increased
+534,5,"Robert Hale, Jr.",56,Male,United States,Boston,Telecom,True,Increased
+534,5,Viktor Kharitonin,50,Male,Russia,Moscow,Healthcare,True,Increased
+534,5,Kim Beom-su,57,Male,South Korea,Seoul,Technology,True,Decreased
+534,5,Jane Lauder,50,Female,United States,New York,Fashion & Retail,False,Decreased
+534,5,Michel Leclercq & family,83,Male,France,Lille,Fashion & Retail,False,Increased
+534,5,George Lucas,78,Male,United States,San Anselmo,Media & Entertainment,True,Decreased
+534,5,Janice McNair,86,Female,United States,Houston,Sports,False,Increased
+534,5,Ugur Sahin,57,Male,Germany,Mainz,Healthcare,True,Decreased
+534,5,Alexandra Schoerghuber & family,64,Female,Germany,Munich,Real Estate,False,Increased
+534,5,Thomas Straumann,59,Male,Switzerland,Basel,Healthcare,False,Decreased
+534,5,Murat Ulker,64,Male,Turkey,Istanbul,Food & Beverage,False,Increased
+534,5,Chip Wilson,66,Male,Canada,Vancouver,Fashion & Retail,True,Decreased
+552,4,Jim Davis & family,79,Male,United States,Newton,Manufacturing,True,Decreased
+552,4,Murali Divi & family,72,Male,India,Hyderabad,Healthcare,True,Decreased
+552,4,Dagmar Dolby & family,81,Female,United States,San Francisco,Technology,False,Increased
+552,4,Tom Golisano,81,Male,United States,Naples,Service,True,Decreased
+552,4,Jonathan Gray,53,Male,United States,New York,Finance & Investments,True,Decreased
+552,4,Bidzina Ivanishvili,67,Male,Georgia,Tbilisi,Finance & Investments,True,Increased
+552,4,Lim Hariyanto Wijaya Sarwono,94,Male,Indonesia,Jakarta,Metals & Mining,True,Increased
+552,4,Rudolf Maag,77,Male,Switzerland,Binningen,Healthcare,True,Decreased
+552,4,Emanuele (Lino) Saputo & family,86,Male,Canada,Montreal,Food & Beverage,False,Increased
+552,4,Mark Shoen,72,Male,United States,Phoenix,Automotive,False,Increased
+552,4,Dan Snyder,58,Male,United States,Potomac,Sports,True,Increased
+552,4,Chairul Tanjung,60,Male,Indonesia,Jakarta,Diversified,True,Decreased
+552,4,Kelcy Warren,67,Male,United States,Dallas,Energy,True,Increased
+552,4,Zhang Tao,50,Male,China,Beijing,Fashion & Retail,True,Decreased
+567,4,Michael Ashley,58,Male,United Kingdom,Hertfordshire,Fashion & Retail,True,Increased
+567,4,Tomasz Biernacki,50,Male,Poland,"Krotoszyn,",Fashion & Retail,True,Increased
+567,4,Bernard Broermann,79,Male,Germany,Koenigstein,Healthcare,True,Increased
+567,4,Jimmy Haslam,69,Male,United States,Knoxville,Fashion & Retail,False,Increased
+567,4,H. Fisk Johnson,64,Male,United States,Racine,Manufacturing,False,Increased
+567,4,S. Curtis Johnson,67,Male,United States,Racine,Manufacturing,False,Increased
+567,4,Helen Johnson-Leipold,66,Female,United States,Racine,Manufacturing,False,Increased
+567,4,Vinod Khosla,68,Male,United States,Portola Valley,Technology,True,Decreased
+567,4,Thai Lee,64,Female,United States,Austin,Technology,True,Increased
+567,4,Winifred J. Marquart,63,Female,United States,Virginia Beach,Manufacturing,False,Increased
+567,4,Pankaj Patel,70,Male,India,Ahmedabad,Healthcare,False,Increased
+567,4,Horst Julius Pudwill,78,Male,Germany,Hong Kong,Manufacturing,True,Decreased
+567,4,Yu Yong,62,Male,China,Shanghai,Finance & Investments,True,Increased
+580,4,Maria Fernanda Amorim & family,88,Female,Portugal,Grijo,Diversified,False,Remained Even
+580,4,Gayle Benson,76,Female,United States,New Orleans,Sports,False,Increased
+580,4,Jason Chang,78,Male,Singapore,Taipei,Technology,True,Increased
+580,4,Ali Erdemoglu,63,Male,Turkey,Istanbul,Manufacturing,True,Increased
+580,4,Andre Esteves,54,Male,Brazil,Sao paulo,Finance & Investments,True,Decreased
+580,4,Carlo Fidani,68,Male,Canada,Toronto,Real Estate,False,Increased
+580,4,Hong Ra-hee,77,Female,South Korea,Seoul,Technology,False,Decreased
+580,4,Li Gaiteng,50,Male,China,Shanghai,Manufacturing,True,Increased
+580,4,Thomas Secunda,68,Male,United States,Croton-on-Hudson,Media & Entertainment,True,Increased
+580,4,Zuowen Song,76,Male,China,Longkou,Diversified,True,Increased
+580,4,Tim Sweeney,52,Male,United States,Cary,Media & Entertainment,True,Decreased
+591,4,Bert Beveridge,61,Male,United States,Austin,Food & Beverage,True,Increased
+591,4,Mark Cuban,64,Male,United States,Dallas,Media & Entertainment,True,Decreased
+591,4,Charles Dolan & family,96,Male,United States,Oyster Bay,Media & Entertainment,True,Decreased
+591,4,Jack Dorsey,46,Male,United States,San Francisco,Technology,True,Decreased
+591,4,Fan Hongwei,56,Female,China,Wujiang,Energy,True,Decreased
+591,4,Vladimir Kim,62,Male,Kazakhstan,Almaty,Metals & Mining,True,Decreased
+591,4,"Andre Koo, Sr.",55,Male,Taiwan,Taipei,Finance & Investments,False,Decreased
+591,4,Ronald Lauder,79,Male,United States,New York,Fashion & Retail,False,Decreased
+591,4,Li Chunan,54,Male,China,Fushun,Manufacturing,True,Decreased
+591,4,Forrest Li,45,Male,Singapore,Singapore,Media & Entertainment,True,Decreased
+591,4,Richard Li,56,Male,Hong Kong,Hong Kong,Telecom,False,Decreased
+591,4,Issad Rebrab & family,79,Male,Algeria,Algiers,Food & Beverage,True,Decreased
+591,4,Fred Smith,78,Male,United States,Memphis,Logistics,True,Decreased
+591,4,Barry Sternlicht,62,Male,United States,Miami,Finance & Investments,True,Increased
+591,4,Maximilian Viessmann,34,Male,Germany,Battenberg,Manufacturing,False,Decreased
+591,4,Russ Weiner,52,Male,United States,Delray Beach,Food & Beverage,True,Increased
+611,4,Dietmar Hopp & family,82,Male,Germany,Walldorf,Technology,True,Decreased
+611,4,Jiang Bin,56,Male,China,Weifang,Technology,True,Decreased
+611,4,Joseph Liemandt,54,Male,United States,Austin,Technology,True,Increased
+611,4,Theo Mueller,83,Male,Germany,Zurich,Food & Beverage,False,Decreased
+611,4,N.R. Narayana Murthy,76,Male,India,Bangalore,Technology,True,Increased
+611,4,Odd Reitan & family,71,Male,Norway,Trondheim,Fashion & Retail,False,Decreased
+611,4,Marc Rowan,60,Male,United States,New York,Finance & Investments,True,Decreased
+611,4,Hussain Sajwani,70,Male,United Arab Emirates,Dubai,Real Estate,True,Increased
+611,4,David Velez & family,41,Male,Colombia,Sao Paulo,Finance & Investments,True,Decreased
+611,4,Xu Jinfu,59,Male,China,Guangzhou,Manufacturing,True,Decreased
+611,4,Samuel Yin,72,Male,Taiwan,Taipei,Diversified,False,Decreased
+611,4,You Xiaoping,65,Male,China,Wenzhou,Manufacturing,True,Decreased
+624,4,Stéphane Bancel,50,Male,France,Boston,Healthcare,True,Decreased
+624,4,Margot Birmingham Perot,89,Female,United States,Dallas,Technology,False,Increased
+624,4,Neal Blue & family,88,Male,United States,San Diego,Manufacturing,True,Increased
+624,4,Jim Davis,63,Male,United States,Cockeysville,Service,True,Increased
+624,4,Rafael Del Pino,64,Male,Spain,Madrid,Construction & Engineering,False,Increased
+624,4,Peter Grogg,81,Male,Switzerland,Liestal,Healthcare,True,Decreased
+624,4,Christian Haub,58,Male,Germany,Munich,Fashion & Retail,False,Remained Even
+624,4,Mangal Prabhat Lodha,67,Male,India,Mumbai,Real Estate,True,Decreased
+624,4,Jeffrey Lurie & family,71,Male,United States,Wynnewood,Sports,False,Increased
+624,4,Joe Mansueto,66,Male,United States,Chicago,Finance & Investments,True,Decreased
+624,4,Qian Dongqi & family,65,Male,China,Suzhou,Manufacturing,True,Decreased
+624,4,Mikhail Shelkov,54,Male,Russia,Moscow,Metals & Mining,True,Increased
+636,4,Patrick Drahi,59,Male,France,Zermatt,Telecom,True,Decreased
+636,4,Behdad Eghbali,46,Male,United States,Los Angeles,Finance & Investments,True,Increased
+636,4,Juan Carlos Escotet,63,Male,Venezuela,A Coruña,Finance & Investments,True,Increased
+636,4,Jose E. Feliciano,49,Male,United States,Los Angeles,Finance & Investments,True,Increased
+636,4,Hu Kaijun,61,Male,China,Beijing,Healthcare,True,Increased
+636,4,Johnelle Hunt,91,Female,United States,Fayetteville,Logistics,True,Decreased
+636,4,Marian Ilitch,90,Female,United States,Bingham Farms,Food & Beverage,True,Decreased
+636,4,Daryl Katz,61,Male,Canada,Edmonton,Diversified,True,Decreased
+636,4,Andrei Kozitsyn,62,Male,Russia,Verkhniaya Pyshma,Metals & Mining,True,Increased
+636,4,Timur Kulibaev,56,Male,Kazakhstan,Almaty,Finance & Investments,True,Increased
+636,4,Dinara Kulibaeva,55,Female,Kazakhstan,Almaty,Finance & Investments,False,Increased
+636,4,Gwendolyn Sontheim Meyer,61,Female,United States,Rancho Santa Fe,Food & Beverage,False,Decreased
+636,4,Jay Paul,75,Male,United States,San Francisco,Real Estate,True,Increased
+636,4,Pham Nhat Vuong,54,Male,Vietnam,Hanoi,Diversified,True,Decreased
+636,4,Jon Stryker,64,Male,United States,New York,Healthcare,False,Increased
+636,4,Daniel Tsai,66,Male,Taiwan,Taipei,Finance & Investments,False,Decreased
+636,4,Richard Tsai,65,Male,Taiwan,Taipei,Finance & Investments,False,Decreased
+636,4,Frank Wang,42,Male,China,Shenzhen,Technology,True,Decreased
+636,4,Wang Junshi & family,74,Male,China,Ningbo,Manufacturing,True,Decreased
+636,4,Wang Wenjing,58,Male,China,Beijing,Technology,True,Decreased
+636,4,Herbert Wertheim,83,Male,United States,Coral Gables,Finance & Investments,True,Increased
+659,4,Shari Arison,65,Female,Israel,Tel Aviv,Service,False,Decreased
+659,4,Chan Laiwa & family,82,Female,China,Beijing,Real Estate,True,Decreased
+659,4,Chen Hua,57,Male,China,Shenzhen,Real Estate,True,Increased
+659,4,Thomas Hagen,87,Male,United States,Erie,Finance & Investments,False,Increased
+659,4,"Rupert Johnson, Jr.",82,Male,United States,Burlingame,Finance & Investments,False,Decreased
+659,4,Min Kao & family,74,Male,United States,Leawood,Technology,True,Decreased
+659,4,Marc Ladreit de Lacharriere,82,Male,France,Paris,Finance & Investments,True,Increased
+659,4,Eric Lefkofsky,53,Male,United States,Glencoe,Technology,True,Increased
+659,4,Lin Bin,55,Male,United States,Shenzhen,Technology,True,Decreased
+659,4,Lin Li,59,Male,China,Shenzhen,Finance & Investments,True,Decreased
+659,4,Michael Moritz,68,Male,United States,San Francisco,Technology,True,Decreased
+659,4,Jean (Gigi) Pritzker,60,Female,United States,Los Angeles,Service,False,Increased
+659,4,E. Joe Shoen,73,Male,United States,Phoenix,Automotive,False,Increased
+659,4,Jeff Skoll,58,Male,United States,Los Angeles,Technology,True,Decreased
+659,4,Lynsi Snyder,40,Female,United States,Glendora,Food & Beverage,False,Remained Even
+659,4,Djoko Susanto,73,Male,Indonesia,Jakarta,Fashion & Retail,True,Increased
+659,4,Tahir & family,71,Male,Indonesia,Jakarta,Diversified,True,Increased
+659,4,Peter Thiel,55,Male,United States,Los Angeles,Finance & Investments,True,Decreased
+679,4,Andrej Babis,68,Male,Czech Republic,Prague,Food & Beverage,True,Decreased
+679,4,Danielle Bellon & family,83,Female,France,Paris,Service,False,Increased
+679,4,Hubert Burda,83,Male,Germany,Munich,Media & Entertainment,False,Increased
+679,4,Nick Caporella,87,Male,United States,Plantation,Food & Beverage,True,Increased
+679,4,John Catsimatidis,74,Male,United States,New York,Energy,True,Increased
+679,4,Scott Cook,70,Male,United States,Woodside,Technology,True,Decreased
+679,4,Luca Garavoglia,54,Male,Italy,Milan,Food & Beverage,False,Increased
+679,4,Antti Herlin,66,Male,Finland,Kirkkonummi,Manufacturing,False,Decreased
+679,4,Hong Jie,55,Male,China,Putian,Manufacturing,True,Increased
+679,4,"Jeremy Jacobs, Sr. & family",83,Male,United States,East Aurora,Service,False,Increased
+679,4,Igor Kesaev,56,Male,Russia,Moscow,Fashion & Retail,True,Increased
+679,4,Mary Alice Dorrance Malone,73,Female,United States,Coatesville,Food & Beverage,False,Increased
+679,4,Joao Moreira Salles,61,Male,Brazil,Rio de Janeiro,Diversified,False,Increased
+679,4,Walther Moreira Salles Junior,66,Male,Brazil,Rio de Janeiro,Finance & Investments,False,Increased
+679,4,Arturo Moreno,76,Male,United States,Phoenix,Sports,True,Increased
+679,4,Peter Spuhler,63,Male,Switzerland,Weiningen,Manufacturing,True,Decreased
+679,4,Donald Sterling,88,Male,United States,Beverly Hills,Real Estate,True,Increased
+679,4,Kerry Stokes,82,Male,Australia,Perth,Diversified,True,Decreased
+679,4,Ken Xie,60,Male,United States,Los Altos Hills,Technology,True,Decreased
+679,4,Liangzhi Xie & family,57,Male,China,Beijing,Healthcare,True,Decreased
+699,4,Sid Bass,80,Male,United States,Fort Worth,Energy,False,Increased
+699,4,Ben Chestnut,48,Male,United States,Atlanta,Technology,True,Decreased
+699,4,Guangchang Guo,56,Male,China,Shanghai,Diversified,True,Decreased
+699,4,Vinod Rai Gupta,77,Female,India,Delhi,Manufacturing,False,Increased
+699,4,John Henry,73,Male,United States,Boca Raton,Sports,True,Increased
+699,4,Travis Kalanick,46,Male,United States,Los Angeles,Technology,True,Increased
+699,4,Koon Poh Keong,61,Male,Malaysia,Petaling Jaya,Manufacturing,True,Decreased
+699,4,Dan Kurzius,51,Male,United States,Atlanta,Technology,True,Decreased
+699,4,Paul Lee,65,Male,United States,Yuxi,Manufacturing,True,Decreased
+699,4,Tobi Lutke,42,Male,Canada,Ottawa,Technology,True,Decreased
+699,4,Gail Miller,79,Female,United States,Salt Lake City,Automotive,True,Increased
+699,4,Isaac Perlmutter,80,Male,United States,Palm Beach,Media & Entertainment,True,Decreased
+699,4,"Bernard Saul, II.",90,Male,United States,Chevy Chase,Finance & Investments,False,Increased
+699,4,Shaul Shani,68,Male,Israel,Milan,Telecom,True,Decreased
+699,4,Steven Spielberg,76,Male,United States,Pacific Palisades,Media & Entertainment,True,Increased
+699,4,Jerzy Starak,75,Male,Poland,Konstancin,Healthcare,True,Remained Even
+699,4,Torbjorn Tornqvist,69,Male,Sweden,Geneva,Energy,True,Increased
+699,4,Rufino Vigil Gonzalez,74,Male,Mexico,Mexico City,Metals & Mining,True,Increased
+699,4,Zhang Daocai,73,Male,China,Shaoxing,Diversified,True,Increased
+721,3,Juergen Blickle,76,Male,Germany,Bruchsal,Manufacturing,False,Decreased
+721,3,"Austen Cargill, II.",72,Male,United States,Livingston,Food & Beverage,False,Decreased
+721,3,"James Cargill, II.",73,Male,United States,Birchwood,Food & Beverage,False,Decreased
+721,3,Vanich Chaiyawan,91,Male,Thailand,Bangkok,Finance & Investments,True,Increased
+721,3,Dongsheng Chen,65,Male,China,Beijing,Finance & Investments,True,Increased
+721,3,Mong-Koo Chung,85,Male,South Korea,Seoul,Automotive,False,Decreased
+721,3,Kenneth Dart,67,Male,Belize,George Town,Finance & Investments,False,Increased
+721,3,Giuseppe De'Longhi & family,83,Male,Italy,Treviso,Fashion & Retail,False,Decreased
+721,3,Guenther Fielmann & family,83,Male,Germany,Hamburg,Healthcare,True,Decreased
+721,3,W. Herbert Hunt,94,Male,United States,Dallas,Energy,False,Decreased
+721,3,James Irsay,63,Male,United States,Carmel,Sports,False,Increased
+721,3,Marianne Liebmann,69,Female,United States,Bozeman,Food & Beverage,False,Decreased
+721,3,Jorge Moll Filho & family,78,Male,Brazil,Rio de Janeiro,Healthcare,True,Decreased
+721,3,Fernando Roberto Moreira Salles,76,Male,Brazil,Sao Paulo,Diversified,False,Increased
+721,3,Pedro Moreira Salles,63,Male,Brazil,Sao Paulo,Diversified,False,Increased
+721,3,Gabe Newell,60,Male,United States,Seattle,Gambling & Casinos,True,Remained Even
+721,3,Alfred Oetker,56,Male,Germany,Bielefeld,Fashion & Retail,False,Increased
+721,3,Carl Ferdinand Oetker,50,Male,Germany,Bielefeld,Fashion & Retail,False,Increased
+721,3,Julia Oetker,44,Female,Germany,Bielefeld,Fashion & Retail,False,Increased
+721,3,Ruan Hongliang & family,62,Male,China,Jiaxing,Manufacturing,True,Decreased
+721,3,Mark Stevens,63,Male,United States,Steamboat Springs,Finance & Investments,True,Decreased
+721,3,Tsai Hong-tu,70,Male,Taiwan,Taipei,Finance & Investments,False,Decreased
+721,3,Nusli Wadia,79,Male,India,Mumbai,Food & Beverage,False,Increased
+721,3,Wu Yiling,73,Male,China,Shijiazhuang,Healthcare,True,Remained Even
+721,3,Yu Renrong,57,Male,China,Ningbo,Manufacturing,True,Decreased
+721,3,Zhu Baoguo & family,60,Male,China,Shenzhen,Healthcare,True,Decreased
+748,3,Francesco Gaetano Caltagirone,80,Male,Italy,Rome,Construction & Engineering,True,Decreased
+748,3,Barry Diller,81,Male,United States,New York,Media & Entertainment,True,Decreased
+748,3,Wesley Edens,61,Male,United States,New York,Finance & Investments,True,Increased
+748,3,Stephen Feinberg,63,Male,United States,New York,Finance & Investments,True,Increased
+748,3,Rakesh Gangwal,69,Male,United States,Miami,Service,True,Decreased
+748,3,Joseph Grendys,61,Male,United States,Chicago,Food & Beverage,True,Increased
+748,3,Martha Ingram & family,87,Female,United States,Nashville,Media & Entertainment,False,Decreased
+748,3,Li Xiang,41,Male,China,Beijing,Automotive,True,Decreased
+748,3,"H. Ross Perot, Jr.",64,Male,United States,Dallas,Real Estate,False,Increased
+748,3,Chandru Raheja,82,Male,India,Mumbai,Real Estate,False,Increased
+748,3,Trevor Rees-Jones,71,Male,United States,Dallas,Energy,True,Decreased
+748,3,Yasumitsu Shigeta,58,Male,Japan,Tokyo,Telecom,True,Increased
+748,3,Tsai Cheng-ta,73,Male,Taiwan,Taipei,Finance & Investments,False,Decreased
+748,3,Steven Udvar-Hazy,77,Male,United States,Westlake,Service,True,Decreased
+766,3,William Berkley,76,Male,United States,Coconut Grove,Finance & Investments,True,Remained Even
+766,3,Charles Cohen,71,Male,United States,New York,Real Estate,False,Increased
+766,3,Yakir Gabay,56,Male,Cyprus,London,Real Estate,True,Decreased
+766,3,Huang Li,59,Male,China,Wuhan,Technology,True,Decreased
+766,3,Brad Jacobs,66,Male,United States,Greenwich,Logistics,True,Remained Even
+766,3,Ji Qi,56,Male,China,Shanghai,Real Estate,True,Increased
+766,3,Jason Jiang,50,Male,China,Shanghai,Media & Entertainment,True,Decreased
+766,3,Jim Kavanaugh,60,Male,United States,St. Louis,Technology,True,Increased
+766,3,Richard LeFrak & family,77,Male,United States,New York,Real Estate,False,Remained Even
+766,3,Mikhail Lomtadze,47,Male,Georgia,Almaty,Finance & Investments,True,Increased
+766,3,Tom Morris,68,Male,United Kingdom,Merseyside,Fashion & Retail,True,Increased
+766,3,Shigenobu Nagamori,78,Male,Japan,Kyoto,Manufacturing,True,Decreased
+766,3,Daniel Och,62,Male,United States,Miami Beach,Finance & Investments,True,Decreased
+766,3,Horst Paulmann & family,88,Male,Chile,Santiago,Fashion & Retail,True,Increased
+766,3,Anthony Pritzker,62,Male,United States,Los Angeles,Service,False,Remained Even
+766,3,John Sall,75,Male,United States,Cary,Technology,True,Increased
+766,3,Howard Schultz,69,Male,United States,Seattle,Food & Beverage,True,Decreased
+766,3,Richard Schulze,82,Male,United States,Naples,Fashion & Retail,True,Decreased
+766,3,Yitzhak Tshuva,74,Male,Israel,Netanya,Real Estate,True,Decreased
+766,3,Wang Yanqing & family,56,Male,China,Wuxi,Manufacturing,True,Decreased
+787,3,Leonid Boguslavsky,71,Male,Canada,Florence,Finance & Investments,True,Decreased
+787,3,Jim Coulter,63,Male,United States,San Francisco,Finance & Investments,True,Increased
+787,3,Bob Gaglardi,82,Male,Canada,Vancouver,Real Estate,True,Increased
+787,3,Jaime Gilinski Bacal,65,Male,Colombia,London,Finance & Investments,False,Decreased
+787,3,Pansy Ho,60,Female,Hong Kong,Hong Kong,Gambling & Casinos,False,Increased
+787,3,Alan Howard,59,Male,United Kingdom,Geneva,Finance & Investments,True,Increased
+787,3,Huang Yi,61,Male,Hong Kong,Beijing,Automotive,True,Decreased
+787,3,Peter Kellogg,80,Male,United States,Short Hills,Finance & Investments,False,Remained Even
+787,3,Vyacheslav Kim,53,Male,Kazakhstan,Almaty,Finance & Investments,True,Increased
+787,3,Josh Kushner,37,Male,United States,New York City,Finance & Investments,True,Increased
+787,3,Samuel Tak Lee,83,Male,Hong Kong,Hong Kong,Real Estate,False,Decreased
+787,3,Edwin Leong,71,Male,Hong Kong,Hong Kong,Real Estate,True,Decreased
+787,3,"Stephen Mandel, Jr.",67,Male,United States,Greenwich,Finance & Investments,True,Decreased
+787,3,Mohamed Mansour,75,Male,Egypt,London,Diversified,True,Increased
+787,3,Masahiro Miki,67,Male,Japan,Tokyo,Fashion & Retail,True,Increased
+787,3,Masahiro Noda,84,Male,Japan,Tokyo,Technology,True,Increased
+787,3,Cliff Obrecht,37,Male,Australia,Sydney,Technology,True,Decreased
+787,3,Melanie Perkins,35,Female,Australia,Sydney,Technology,True,Decreased
+787,3,J.B. Pritzker,58,Male,United States,Springfield,Finance & Investments,False,Remained Even
+787,3,Juan Roig,73,Male,Spain,Valencia,Fashion & Retail,False,Decreased
+787,3,Jerry Speyer,82,Male,United States,New York,Real Estate,True,Remained Even
+787,3,Lawrence Stroll,63,Male,Canada,Geneva,Fashion & Retail,True,Increased
+787,3,Tung Chee Chen,80,Male,Hong Kong,Hong Kong,Logistics,False,Remained Even
+787,3,Wang Junlin,60,Male,China,Chengdu,Food & Beverage,True,Decreased
+787,3,Xia Zuoquan,61,Male,China,Shenzhen,Automotive,True,Increased
+787,3,Zeng Fangqin,57,Female,China,Shenzhen,Technology,True,Decreased
+787,3,Zhang Jian,54,Male,China,Tianjin,Manufacturing,True,Increased
+818,3,Maurizio Billi,65,Male,Brazil,Sao Paulo,Healthcare,False,Increased
+818,3,Fashu Chen,62,Male,China,Fuzhou,Finance & Investments,True,Decreased
+818,3,Giuseppe Crippa & family,87,Male,Italy,Cernusco Lombardone,Manufacturing,True,Increased
+818,3,Daniel D'Aniello,76,Male,United States,Vienna,Finance & Investments,True,Decreased
+818,3,Walter P.J. Droege,70,Male,Germany,Dusseldorf,Finance & Investments,True,Decreased
+818,3,Peter Gassner,58,Male,United States,Pleasanton,Technology,True,Increased
+818,3,Mikhail Gutseriev,65,Male,Russia,Moscow,Energy,True,Increased
+818,3,Patrick Lee,81,Male,Hong Kong,Hong Kong,Manufacturing,True,Decreased
+818,3,Leng Youbin,54,Male,China,Beijing,Food & Beverage,True,Decreased
+818,3,Daniel Loeb,61,Male,United States,New York,Finance & Investments,True,Decreased
+818,3,Margarita Louis-Dreyfus & family,60,Female,Switzerland,Davos,Food & Beverage,False,Decreased
+818,3,Prasert Prasarttong-Osoth,90,Male,Thailand,Bangkok,Healthcare,True,Increased
+818,3,Ira Rennert,88,Male,United States,New York,Finance & Investments,True,Decreased
+818,3,Dirk Rossmann & family,76,Male,Germany,Lower-Saxony,Fashion & Retail,True,Increased
+818,3,Arkady Rotenberg,71,Male,Russia,Moscow,Construction & Engineering,True,Increased
+818,3,Remo Ruffini,61,Male,Italy,Como,Fashion & Retail,True,Increased
+818,3,Vivek Chaand Sehgal,66,Male,Australia,Delhi,Automotive,True,Increased
+818,3,Scott Shleifer,45,Male,United States,New York,Finance & Investments,True,Decreased
+818,3,Thomas Siebel,70,Male,United States,Woodside,Technology,True,Remained Even
+818,3,Wim van der Leegte & family,75,Male,Netherlands,Eindhoven,Manufacturing,False,Increased
+818,3,Xiao Yongming & family,58,Male,China,Beijing,Diversified,True,Decreased
+818,3,Michael Xie,54,Male,United States,Los Altos Hills,Technology,True,Increased
+818,3,Yang Shaopeng,65,Male,China,Qingdao,Logistics,True,Decreased
+818,3,Barry Zekelman,56,Male,Canada,Windsor,Manufacturing,False,Increased
+852,3,William Ackman,56,Male,United States,New York,Finance & Investments,True,Increased
+852,3,Somphote Ahunai,55,Male,Thailand,Bangkok,Energy,True,Decreased
+852,3,Igor Altushkin,52,Male,Russia,Yekaterinburg,Metals & Mining,True,Increased
+852,3,Ramon Ang,69,Male,Philippines,Manila,Food & Beverage,True,Increased
+852,3,Acharya Balkrishna,50,Male,India,Haridwar,Food & Beverage,True,Increased
+852,3,Markus Blocher,52,Male,Switzerland,Wilen bei Wollerau,Manufacturing,False,Increased
+852,3,Richard Branson,72,Male,United Kingdom,Necker Island,Diversified,True,Decreased
+852,3,Cho Jung-ho,64,Male,South Korea,Seoul,Finance & Investments,False,Increased
+852,3,Alessandra Garavoglia,63,Female,Italy,Milan,Food & Beverage,False,Increased
+852,3,Laurence Graff & family,84,Male,United Kingdom,Gstaad,Fashion & Retail,True,Remained Even
+852,3,"Amos Hostetter, Jr.",86,Male,United States,Boston,Media & Entertainment,True,Decreased
+852,3,Steven Klinsky,66,Male,United States,New York,Finance & Investments,True,Remained Even
+852,3,William Lauder,62,Male,United States,New York,Fashion & Retail,False,Decreased
+852,3,John Middleton,68,Male,United States,Bryn Mawr,Food & Beverage,False,Remained Even
+852,3,Hiroshi Mikitani,58,Male,Japan,Tokyo,Fashion & Retail,True,Decreased
+852,3,Bob Parsons,72,Male,United States,Scottsdale,Technology,True,Remained Even
+852,3,J. Joe Ricketts & family,81,Male,United States,Little Jackson Hole,Finance & Investments,True,Decreased
+852,3,Herb Simon,88,Male,United States,Indianapolis,Real Estate,True,Decreased
+852,3,Leena Tewari,65,Female,India,Mumbai,Healthcare,False,Decreased
+852,3,Stefan von Holtzbrinck,59,Male,Germany,Stuttgart,Media & Entertainment,False,Increased
+852,3,Hans Peter Wild,81,Male,Switzerland,Zug,Food & Beverage,False,Decreased
+852,3,Wu Guanjiang & family,54,Male,China,Chongqing,Healthcare,True,Decreased
+852,3,Yi Zheng,52,Male,China,Hangzhou,Technology,True,Increased
+852,3,Eric Yuan & family,53,Male,United States,Santa Clara,Technology,True,Decreased
+852,3,Charles Zegar,75,Male,United States,New York,Media & Entertainment,True,Increased
+878,3,Mohed Altrad,75,Male,France,Montpellier,Construction & Engineering,True,Decreased
+878,3,John Arnold,49,Male,United States,Houston,Finance & Investments,True,Remained Even
+878,3,Bill Austin,81,Male,United States,Brownsville,Manufacturing,True,Increased
+878,3,Chen Shibin,56,Male,China,Lianyungang,Manufacturing,True,Increased
+878,3,Bennett Dorrance,77,Male,United States,Paradise Valley,Food & Beverage,False,Increased
+878,3,Walter Faria,68,Male,Brazil,Rio de Janeiro,Food & Beverage,True,Remained Even
+878,3,Walter Frey,79,Male,Switzerland,Küsnacht,Automotive,False,Increased
+878,3,Fu Liquan & family,55,Male,China,Hangzhou,Technology,True,Decreased
+878,3,John Gandel,88,Male,Australia,Melbourne,Real Estate,False,Remained Even
+878,3,Peter Gilgan,72,Male,Canada,Oakville,Construction & Engineering,True,Increased
+878,3,Kwek Leng Beng,82,Male,Singapore,Singapore,Diversified,False,Increased
+878,3,Pablo Legorreta,59,Male,United States,Sag Harbor,Finance & Investments,True,Decreased
+878,3,Arnon Milchan,78,Male,Israel,Tel Aviv,Media & Entertainment,True,Decreased
+878,3,Akio Nitori,79,Male,Japan,Hokkaido,Fashion & Retail,True,Decreased
+878,3,Julio Ponce Lerou,77,Male,Chile,Santiago,Metals & Mining,True,Decreased
+878,3,Rodger Riney & family,77,Male,United States,St. Louis,Finance & Investments,True,Decreased
+878,3,Phil Ruffin,88,Male,United States,Las Vegas,Diversified,True,Increased
+878,3,Naguib Sawiris,68,Male,Egypt,Cairo,Telecom,False,Decreased
+878,3,Neil Shen,55,Male,Hong Kong,Hong Kong,Finance & Investments,True,Decreased
+878,3,Gil Shwed,54,Male,Israel,Tel Aviv,Technology,True,Decreased
+878,3,Stephen Smith,71,Male,Canada,Toronto,Finance & Investments,True,Increased
+878,3,Nik Storonsky,38,Male,United Kingdom,London,Finance & Investments,True,Decreased
+878,3,Jeffrey Talpins,48,Male,United States,Larchmont,Finance & Investments,True,Increased
+878,3,Carl Thoma,74,Male,United States,Dallas,Finance & Investments,True,Increased
+878,3,Todd Wanek,59,Male,United States,St. Petersburg,Manufacturing,False,Decreased
+878,3,Xue Hua,53,Male,China,Guangzhou,Manufacturing,True,Decreased
+878,3,Takao Yasuda,73,Male,Japan,Singapore,Fashion & Retail,True,Increased
+905,3,Giuliana Benetton,85,Female,Italy,Treviso,Fashion & Retail,True,Increased
+905,3,Luciano Benetton,87,Male,Italy,Ponzano Veneto,Fashion & Retail,True,Increased
+905,3,Arun Bharat Ram,82,Male,India,Delhi,Manufacturing,False,Decreased
+905,3,Ron Burkle,70,Male,United States,London,Finance & Investments,True,Increased
+905,3,Chen Kaixuan,64,Male,China,Guangzhou,Manufacturing,True,Decreased
+905,3,Brunello Cucinelli & family,69,Male,Italy,Solomeo,Fashion & Retail,True,Increased
+905,3,Antonio Del Valle Ruiz & family,84,Male,Mexico,Mexico City,Manufacturing,True,Decreased
+905,3,Dong Jinggui,53,Male,China,Wuxi,Automotive,True,Increased
+905,3,Charles Ergen,70,Male,United States,Denver,Media & Entertainment,True,Decreased
+905,3,David Filo,56,Male,United States,Palo Alto,Technology,True,Decreased
+905,3,Lindsay Fox,85,Male,Australia,Melbourne,Logistics,True,Increased
+905,3,Sergei Galitsky,55,Male,Russia,Krasnodar,Fashion & Retail,True,Remained Even
+905,3,Senapathy Gopalakrishnan,67,Male,India,Bangalore,Technology,True,Decreased
+905,3,Luciano Hang,60,Male,Brazil,Brusque,Fashion & Retail,True,Decreased
+905,3,Michael Hintze,69,Male,Australia,London,Finance & Investments,True,Remained Even
+905,3,Hu Baifan,60,Male,China,Shaoxing,Healthcare,True,Decreased
+905,3,Hamilton James & family,71,Male,United States,New York,Finance & Investments,True,Increased
+905,3,Lee Boo-jin,52,Female,South Korea,Seoul,Technology,False,Decreased
+905,3,Li Liangbin,55,Male,China,Xinyu,Manufacturing,True,Decreased
+905,3,Liang Feng,54,Male,China,Shanghai,Manufacturing,True,Decreased
+905,3,Samir Mehta,59,Male,India,Ahmedabad,Healthcare,False,Increased
+905,3,Sudhir Mehta,68,Male,India,Ahmedabad,Healthcare,False,Increased
+905,3,Aristotelis Mistakidis,61,Male,Greece,Zug,Metals & Mining,True,Decreased
+905,3,Roger Penske,86,Male,United States,Birmingham,Automotive,True,Increased
+905,3,Ravi Pillai,69,Male,India,Dubai,Construction & Engineering,True,Increased
+905,3,David Rubenstein,73,Male,United States,Bethesda,Finance & Investments,True,Decreased
+905,3,Hilton Schlosberg,70,Male,United Kingdom,Irvine,Food & Beverage,True,Increased
+905,3,Klaus-Peter Schulenberg,71,Male,Germany,Bremen,Service,True,Increased
+905,3,Lynn Schusterman,84,Female,United States,Tulsa,Energy,False,Decreased
+905,3,Isabella Seràgnoli,77,Female,Italy,Bologna,Manufacturing,False,Increased
+905,3,Shen Guojun,60,Male,China,Beijing,Fashion & Retail,True,Decreased
+905,3,Warren Stephens,66,Male,United States,Little Rock,Finance & Investments,False,Increased
+905,3,Pat Stryker,66,Female,United States,Fort Collins,Healthcare,False,Increased
+905,3,Roman Trotsenko,52,Male,Russia,Moscow,Logistics,True,Returned to List
+905,3,Vincent Viola,67,Male,United States,New York,Finance & Investments,True,Decreased
+905,3,Wu Shaoxun,67,Male,China,Daye,Food & Beverage,True,Decreased
+905,3,Steve Wynn,81,Male,United States,Palm Beach,Gambling & Casinos,True,Decreased
+905,3,Jon Yarbrough,65,Male,United States,Franklin,Gambling & Casinos,True,Increased
+905,3,Zhou Bajin,87,Male,China,Changzhou,Manufacturing,True,Decreased
+949,3,Cho Tak Wong,76,Male,Hong Kong,Fuqing,Manufacturing,True,Decreased
+949,3,John Coates,53,Male,United Kingdom,Stoke-On-Trent,Gambling & Casinos,True,Increased
+949,3,Ryan Cohen,37,Male,Canada,Bal Harbour,Finance & Investments,True,Increased
+949,3,Deng Wen,55,Male,China,Chengdu,Food & Beverage,True,Increased
+949,3,Gurbachan Singh Dhingra,72,Male,India,Delhi,Manufacturing,True,Decreased
+949,3,Kuldip Singh Dhingra,75,Male,India,Delhi,Manufacturing,True,Decreased
+949,3,Martin Ebner,77,Male,Switzerland,Wilen,Finance & Investments,True,Decreased
+949,3,Charles Edelstenne,85,Male,France,Paris,Manufacturing,True,Decreased
+949,3,Sergei Gordeev,50,Male,Russia,Moscow,Real Estate,True,Increased
+949,3,Jeff T. Green,46,Male,United States,Newbury Park,Media & Entertainment,True,Decreased
+949,3,Reed Hastings,62,Male,United States,Santa Cruz,Technology,True,Decreased
+949,3,Bertil Hult,82,Male,Sweden,Lucerne,Service,True,Decreased
+949,3,Miguel Krigsner,73,Male,Brazil,Sao Jose dos Pinhais,Fashion & Retail,True,Decreased
+949,3,Kuok Khoon Hong,73,Male,Singapore,Singapore,Manufacturing,False,Decreased
+949,3,Aerin Lauder,52,Female,United States,New York,Fashion & Retail,False,Decreased
+949,3,Sheldon Lavin,90,Male,United States,Highland Park,Food & Beverage,True,Increased
+949,3,Yin Yee Lee,71,Male,China,Hong Kong,Manufacturing,True,Decreased
+949,3,Vladimir Litvinenko & family,67,Male,Russia,Saint Petersburg,Manufacturing,True,Returned to List
+949,3,Daniel Mate,59,Male,Spain,Kanton Schwyz,Metals & Mining,True,Decreased
+949,3,Ravi Modi,46,Male,India,Kolkata,Fashion & Retail,True,Increased
+949,3,Farhad Moshiri,67,Male,United Kingdom,Monaco,Diversified,True,Increased
+949,3,Jonathan Nelson,66,Male,United States,Providence,Finance & Investments,True,Increased
+949,3,Or Wai Sheun,71,Male,Hong Kong,Hong Kong,Real Estate,True,Decreased
+949,3,Katharina Otto-Bernstein,59,Female,Germany,New York,Real Estate,False,Decreased
+949,3,Penny Pritzker,63,Female,United States,Chicago,Finance & Investments,False,Decreased
+949,3,Theodore Rachmat,79,Male,Indonesia,Jakarta,Diversified,False,Decreased
+949,3,Renzo Rosso & family,67,Male,Italy,Bassano del Grappa,Fashion & Retail,True,Decreased
+949,3,Friede Springer,80,Female,Germany,Berlin,Media & Entertainment,False,Decreased
+949,3,Rita Tong Liu,74,Female,Hong Kong,Hong Kong,Real Estate,True,Decreased
+949,3,Timur Turlov,35,Male,Kazakhstan,Almaty,Finance & Investments,True,Increased
+949,3,Frank VanderSloot,74,Male,United States,Idaho Falls,Fashion & Retail,True,Increased
+949,3,Yoo Jung-hyun,53,Female,South Korea,Jeju-do,Media & Entertainment,True,Increased
+982,3,Semahat Sevim Arsel,94,Female,Turkey,Istanbul,Diversified,False,Increased
+982,3,Nicolas Berggruen,61,Male,United States,Beverly Hills,Real Estate,False,Increased
+982,3,George Bishop,85,Male,United States,The Woodlands,Energy,True,Increased
+982,3,Norman Braman,90,Male,United States,Miami,Automotive,True,Increased
+982,3,Eva Maria Bucher-Haefner,66,Female,Switzerland,Zurich,Technology,False,Remained Even
+982,3,Cai Dongchen,70,Male,China,Luancheng,Healthcare,True,Decreased
+982,3,Jean-Pierre Cayard,80,Male,France,Paris,Food & Beverage,False,Increased
+982,3,Todd Christopher,60,Male,United States,Clearwater,Fashion & Retail,True,Remained Even
+982,3,Mang Yee Chu & family,63,Male,China,Guangzhou,Real Estate,True,Decreased
+982,3,"William Conway, Jr.",73,Male,United States,McLean,Finance & Investments,True,Decreased
+982,3,Jean Coutu & family,95,Male,Canada,Montreal,Fashion & Retail,True,Decreased
+982,3,"Edward DeBartolo, Jr.",76,Male,United States,Tampa,Real Estate,False,Increased
+982,3,Feng Hailiang,62,Male,China,Zhuji,Metals & Mining,True,Increased
+982,3,"Ernest Garcia, II.",65,Male,United States,Tempe,Automotive,True,Decreased
+982,3,Sam Goi,76,Male,Singapore,Singapore,Food & Beverage,True,Increased
+982,3,Carlos Hank Rhon,75,Male,Mexico,Mexico City,Diversified,False,Increased
+982,3,Susan Carol Holland,66,Female,Italy,Milan,Manufacturing,False,Decreased
+982,3,Hui Ka Yan,64,Male,China,Shenzhen,Real Estate,True,Decreased
+982,3,Vivek Jain,67,Male,India,Delhi,Manufacturing,False,Increased
+982,3,Friedrich Knapp,71,Male,Germany,Brunswick,Fashion & Retail,True,Decreased
+982,3,Egor Kulkov,51,Male,Russia,Grimisuat,Healthcare,True,Increased
+982,3,Lin Ming-hsiung,73,Male,Taiwan,Taipei,Fashion & Retail,True,Decreased
+982,3,Lin Xiucheng & family,67,Male,China,Xiamen,Technology,True,Decreased
+982,3,Harsh Mariwala,71,Male,India,Mumbai,Food & Beverage,False,Decreased
+982,3,Gilles Martin,59,Male,France,Nantes,Healthcare,True,Decreased
+982,3,Maja Oeri,68,Female,Switzerland,Basel,Healthcare,False,Decreased
+982,3,John Paulson,67,Male,United States,New York,Finance & Investments,True,Decreased
+982,3,Ajay Piramal,67,Male,India,Mumbai,Healthcare,False,Decreased
+982,3,Guanghe Qiu & family,71,Male,China,Wenzhou,Fashion & Retail,True,Decreased
+982,3,Stephen Rubin,86,Male,United Kingdom,London,Fashion & Retail,False,Returned to List
+982,3,Erik Selin,55,Male,Sweden,Göteborg,Real Estate,True,Decreased
+982,3,Yonghong Shi & family,54,Male,China,Chengdu,Food & Beverage,True,Decreased
+982,3,Martua Sitorus,63,Male,Indonesia,Singapore,Manufacturing,True,Increased
+982,3,Guangxin Sun,60,Male,China,Urumqi,Diversified,True,Increased
+982,3,Sukanto Tanoto,73,Male,Indonesia,Singapore,Diversified,True,Increased
+982,3,Sunny Varkey,65,Male,India,Dubai,Service,False,Increased
+982,3,Gang Ye,42,Male,Singapore,Singapore,Media & Entertainment,True,Decreased
+982,3,Ye Xiaoping,60,Male,China,Hangzhou,Healthcare,True,Increased
+982,3,Lei Zhang,50,Male,China,Hong Kong,Finance & Investments,True,Remained Even
+982,3,Zhu Gongshan & family,65,Male,China,Shanghai,Manufacturing,True,Decreased
+1027,2,Isak Andic & family,69,Male,Spain,Barcelona,Fashion & Retail,True,Increased
+1027,2,Alberto Bombassei,82,Male,Italy,Bergamo,Automotive,False,Increased
+1027,2,Cao Longxiang & family,65,Male,China,Taixing,Healthcare,True,Remained Even
+1027,2,John Caudwell,70,Male,United Kingdom,Stoke-on-Trent,Telecom,True,Decreased
+1027,2,James Clark,79,Male,United States,Palm Beach,Technology,True,Decreased
+1027,2,Jacques D'Amours,66,Male,Canada,Montreal,Fashion & Retail,True,Increased
+1027,2,John Paul DeJoria,78,Male,United States,Austin,Fashion & Retail,True,Increased
+1027,2,Bernard Ecclestone & family,92,Male,United Kingdom,London,Sports,True,Decreased
+1027,2,Michael Federmann & family,79,Male,Israel,Tel Aviv,Technology,True,Decreased
+1027,2,Kenneth Feld & family,74,Male,United States,Sarasota,Media & Entertainment,False,Increased
+1027,2,Gu Yuhua & family,73,Male,China,Hangzhou,Manufacturing,True,Decreased
+1027,2,Otto Happel,75,Male,Germany,Luzerne,Construction & Engineering,False,Decreased
+1027,2,Gudrun Heine,68,Female,Germany,Ohningen,Healthcare,False,Decreased
+1027,2,Donald Horton & family,73,Male,United States,Fort Worth,Real Estate,True,Increased
+1027,2,Zarakh Iliev,56,Male,Russia,Moscow,Real Estate,True,Increased
+1027,2,Ipek Kirac,38,Female,Turkey,Istanbul,Diversified,False,Increased
+1027,2,Lee Seo-hyun,49,Female,South Korea,Seoul,Technology,False,Decreased
+1027,2,Li Jianquan & family,66,Male,Hong Kong,Shenzhen,Healthcare,True,Decreased
+1027,2,Li Li,57,Male,China,Changsha,Healthcare,True,Increased
+1027,2,Li Xiaohua & family,61,Male,China,Yuxi,Manufacturing,True,Decreased
+1027,2,Liu Xiaodong,55,Male,China,Shanghai,Manufacturing,True,Increased
+1027,2,Martin Lorentzon,54,Male,Sweden,Stockholm,Technology,True,Remained Even
+1027,2,Ronald McAulay,87,Male,Hong Kong,Hong Kong,Energy,False,Decreased
+1027,2,Erwin Franz Mueller,90,Male,Germany,Ulm,Fashion & Retail,True,Increased
+1027,2,Georg Nemetschek & family,89,Male,Germany,Munich,Technology,True,Decreased
+1027,2,God Nisanov,50,Male,Russia,Moscow,Real Estate,True,Increased
+1027,2,Vikas Oberoi,52,Male,India,Mumbai,Real Estate,False,Decreased
+1027,2,Gregorio Perez Companc & family,87,Male,Argentina,Buenos Aires,Energy,True,Increased
+1027,2,Sebastian Piñera & family,73,Male,Chile,Santiago,Finance & Investments,True,Increased
+1027,2,Arvind Poddar,65,Male,India,Mumbai,Automotive,False,Decreased
+1027,2,Alexey Repik,43,Male,Russia,Moscow,Healthcare,True,Increased
+1027,2,Haim Saban,78,Male,United States,Beverly Hills,Media & Entertainment,True,Decreased
+1027,2,Rodney Sacks,73,Male,United States,Laguna Beach,Food & Beverage,True,Increased
+1027,2,Karthik Sarma,48,Male,India,New York,Finance & Investments,True,Decreased
+1027,2,Sybill Storz,85,Female,Germany,Leipzig,Healthcare,False,Decreased
+1027,2,Daniel Sundheim,46,Male,United States,New York,Finance & Investments,True,Decreased
+1027,2,"William Wrigley, Jr.",59,Male,United States,North Palm Beach,Food & Beverage,False,Decreased
+1027,2,Zhang Wenzhong,61,Male,China,Beijing,Fashion & Retail,True,Decreased
+1027,2,Zhou Jianping,62,Male,China,Jiangyin,Fashion & Retail,True,Remained Even
+1067,2,Joy Alukkas,66,Male,India,Cochin,Fashion & Retail,False,Increased
+1067,2,Kang An,74,Male,China,Xinxiang,Healthcare,True,Decreased
+1067,2,Garrett Camp,44,Male,Canada,San Francisco,Technology,True,Remained Even
+1067,2,Chen Lip Keong,75,Male,Malaysia,Phnom Penh,Gambling & Casinos,True,Increased
+1067,2,Choo Chong Ngen,69,Male,Singapore,Singapore,Real Estate,True,Increased
+1067,2,Euisun Chung,52,Male,South Korea,Seoul,Automotive,False,Decreased
+1067,2,Smita Crishna-Godrej,72,Female,India,Mumbai,Diversified,False,Increased
+1067,2,Du Jiangtao & family,53,Male,China,Beijing,Manufacturing,True,Decreased
+1067,2,Lorenzo Fertitta,54,Male,United States,Las Vegas,Sports,False,Increased
+1067,2,Adi Godrej,81,Male,India,Mumbai,Diversified,False,Increased
+1067,2,Jamshyd Godrej,74,Male,India,Mumbai,Diversified,False,Increased
+1067,2,Li Weiguo,58,Male,China,Beijing,Manufacturing,True,Decreased
+1067,2,Dmitry Mazepin,54,Male,Russia,Moscow,Manufacturing,True,Returned to List
+1067,2,"Drayton McLane, Jr.",86,Male,United States,Temple,Fashion & Retail,False,Decreased
+1067,2,Najib Mikati,67,Male,Lebanon,Beirut,Telecom,True,Decreased
+1067,2,Taha Mikati,78,Male,Lebanon,Beirut,Telecom,True,Decreased
+1067,2,Akira Mori & family,86,Male,Japan,Tokyo,Real Estate,False,Decreased
+1067,2,Rishad Naoroji,71,Male,India,Mumbai,Diversified,False,Increased
+1067,2,Philip Niarchos,69,Male,Greece,Paris,Diversified,False,Remained Even
+1067,2,Nandan Nilekani,67,Male,India,Bangalore,Technology,True,Decreased
+1067,2,Ranjan Pai,50,Male,India,Bangalore,Service,False,Increased
+1067,2,Madhukar Parekh,76,Male,India,Mumbai,Manufacturing,False,Decreased
+1067,2,Sean Parker,43,Male,United States,Los Angeles,Technology,True,Remained Even
+1067,2,Stewart Rahr,77,Male,United States,New York,Healthcare,False,Increased
+1067,2,Su Hua,41,Male,China,Beijing,Media & Entertainment,True,Decreased
+1067,2,Sun Shoukuan,73,Male,China,Yingkou,Manufacturing,True,Remained Even
+1067,2,Tung Chee Hwa,85,Male,Hong Kong,Hong Kong,Logistics,False,Remained Even
+1067,2,Meg Whitman,66,Female,United States,Los Angeles,Technology,True,Decreased
+1067,2,Wong Luen Hei,61,Male,China,Hong Kong,Manufacturing,True,Decreased
+1067,2,Chenghai Ye & family,79,Male,Hong Kong,Hong Kong,Healthcare,True,Decreased
+1067,2,Zhu Xingming,56,Male,China,Shenzhen,Manufacturing,True,Increased
+1104,2,Jose Joao Abdalla Filho,77,Male,Brazil,Rio de Janeiro,Finance & Investments,False,Decreased
+1104,2,Juan Abello,81,Male,Spain,Madrid,Finance & Investments,False,Decreased
+1104,2,Suhail Bahwan,84,Male,Oman,Muscat,Diversified,True,Increased
+1104,2,Harindarpal Banga,72,Male,India,Hong Kong,Finance & Investments,True,Increased
+1104,2,Henri Beaufour,57,Male,France,London,Healthcare,False,Increased
+1104,2,Andrei Bokarev,56,Male,Russia,Moscow,Manufacturing,True,Increased
+1104,2,Jack Cowin,80,Male,Australia,Sydney,Food & Beverage,True,Decreased
+1104,2,Glenn Dubin,65,Male,United States,New York,Finance & Investments,True,Increased
+1104,2,N. Murray Edwards,63,Male,Canada,London,Energy,True,Decreased
+1104,2,"Frank Fertitta, III.",61,Male,United States,Las Vegas,Sports,False,Increased
+1104,2,Abhay Firodia,78,Male,India,Pune,Automotive,False,Decreased
+1104,2,Bruce Flatt,57,Male,Canada,London,Finance & Investments,True,Decreased
+1104,2,Miguel Fluxa Rossello,84,Male,Spain,Esporles,Service,False,Decreased
+1104,2,Robert Friedland,72,Male,United States,Singapore,Metals & Mining,True,Increased
+1104,2,Alexander Frolov,58,Male,Russia,Moscow,Metals & Mining,True,Increased
+1104,2,Nadir Godrej,72,Male,India,Mumbai,Diversified,False,Increased
+1104,2,Maggie Hardy,57,Female,United States,Belle Vernon,Service,False,Increased
+1104,2,Samvel Karapetyan,57,Male,Russia,Moscow,Construction & Engineering,True,Increased
+1104,2,Kei Hoi Pang,57,Male,China,Hong Kong,Real Estate,True,Decreased
+1104,2,Mustafa Rahmi Koc,92,Male,Turkey,Istanbul,Diversified,False,Increased
+1104,2,Yuri Kovalchuk & family,71,Male,Russia,St. Petersburg,Finance & Investments,True,Increased
+1104,2,Geoffrey Kwok,37,Male,Hong Kong,Hong Kong,Real Estate,False,Decreased
+1104,2,Jonathan Kwok,31,Male,Hong Kong,Hong Kong,Real Estate,False,Increased
+1104,2,Hans Langer,71,Male,Germany,Gräfelfing,Manufacturing,True,Increased
+1104,2,Frank Laukien,63,Male,United States,Boston,Manufacturing,False,Increased
+1104,2,Maritsa Lazari & family,78,Female,United Kingdom,London,Real Estate,True,Decreased
+1104,2,Angela Leong,62,Female,Hong Kong,Hong Kong,Real Estate,False,Decreased
+1104,2,Li Zhongchu,59,Male,China,Beijing,Technology,True,Decreased
+1104,2,Liang Yunchao,54,Male,China,Guangzhou,Food & Beverage,True,Decreased
+1104,2,Vincent McMahon,77,Male,United States,Greenwich,Sports,True,Increased
+1104,2,Patrice Motsepe,61,Male,South Africa,Johannesburg,Metals & Mining,True,Decreased
+1104,2,Denis O'Brien,64,Male,Ireland,Dublin,Telecom,True,Decreased
+1104,2,Dan Olsson,76,Male,Sweden,Gothenburg,Diversified,False,Remained Even
+1104,2,Yuji Otsuka,69,Male,Japan,Tokyo,Technology,False,Increased
+1104,2,Pan Dong,58,Female,Canada,Hong Kong,Fashion & Retail,True,Decreased
+1104,2,Karsanbhai Patel,79,Male,India,Ahmedabad,Diversified,True,Decreased
+1104,2,Richard Peery,84,Male,United States,Palo Alto,Real Estate,True,Decreased
+1104,2,Jeff Rothschild,68,Male,United States,Palo Alto,Technology,True,Decreased
+1104,2,Salil Singhal,75,Male,India,Delhi,Manufacturing,False,Increased
+1104,2,Alexander Skorobogatko,55,Male,Russia,Moscow,Logistics,True,Increased
+1104,2,Evan Spiegel,32,Male,United States,Los Angeles,Technology,True,Decreased
+1104,2,Glen Taylor,81,Male,United States,Mankato,Service,True,Increased
+1104,2,Thomas Tull,52,Male,United States,Pittsburgh,Media & Entertainment,True,Increased
+1104,2,Bulat Utemuratov,65,Male,Kazakhstan,Nur-Sultan,Metals & Mining,True,Decreased
+1104,2,Gustav Magnar Witzoe,29,Male,Norway,Kverva,Food & Beverage,False,Decreased
+1104,2,Wong Man Li,58,Male,Hong Kong,Hong Kong,Manufacturing,True,Decreased
+1104,2,Guangming Wu,61,Male,China,Danyang,Healthcare,True,Decreased
+1164,2,Ben Ashkenazy,53,Male,United States,New York,Real Estate,True,Decreased
+1164,2,Felix Baker,54,Male,United States,New York,Finance & Investments,True,Decreased
+1164,2,Julian Baker,56,Male,United States,New York,Finance & Investments,True,Decreased
+1164,2,David Baszucki,60,Male,United States,San Francisco,Media & Entertainment,True,Increased
+1164,2,Joesley Batista,51,Male,Brazil,Sao Paulo,Food & Beverage,False,Decreased
+1164,2,Wesley Batista,50,Male,Brazil,Sao Paulo,Food & Beverage,False,Decreased
+1164,2,Yvonne Bauer,46,Female,Germany,Hamburg,Media & Entertainment,False,Decreased
+1164,2,Miriam Baumann-Blocher,48,Female,Switzerland,Rheinfelden,Manufacturing,False,Decreased
+1164,2,Cen Junda,58,Male,China,Lianyungang,Healthcare,True,Increased
+1164,2,Richard Chandler,64,Male,New Zealand,Singapore,Finance & Investments,False,Increased
+1164,2,Chen Zhiping,47,Male,China,Shenzhen,Manufacturing,True,Decreased
+1164,2,Fernando Chico Pardo,71,Male,Mexico,Mexico City,Service,True,Increased
+1164,2,Ray Davis,81,Male,United States,Dallas,Energy,True,Increased
+1164,2,Maria Del Pino,67,Female,Spain,Madrid,Construction & Engineering,False,Increased
+1164,2,Deng Weiming & family,54,Male,China,Changsha,Manufacturing,True,Decreased
+1164,2,"John Dorrance, III.",79,Male,Ireland,Dublin,Food & Beverage,False,Decreased
+1164,2,Carl Douglas,61,Male,Sweden,Stockholm,Diversified,False,Decreased
+1164,2,Eric Douglas,54,Male,Sweden,Stockholm,Diversified,False,Decreased
+1164,2,Fiona Geminder,58,Female,Australia,Melbourne,Manufacturing,False,Decreased
+1164,2,Stewart Horejsi & family,85,Male,United States,Phoenix,Finance & Investments,True,Decreased
+1164,2,Hou Juncheng,58,Male,China,Hangzhou,Healthcare,True,Increased
+1164,2,Zhenda Huang & family,75,Male,China,Shantou,Construction & Engineering,True,Decreased
+1164,2,Dmitry Kamenshchik,54,Male,Russia,Moscow,Service,True,Increased
+1164,2,Alicia Koplowitz,69,Female,Spain,Madrid,Finance & Investments,False,Decreased
+1164,2,Adam Kwok,40,Male,Hong Kong,Hong Kong,Real Estate,False,Increased
+1164,2,Henry Laufer,77,Male,United States,Lake Worth,Finance & Investments,True,Increased
+1164,2,Louis Le Duff,76,Male,France,Paris,Food & Beverage,True,Increased
+1164,2,Mark Leonard & family,66,Male,Canada,Toronto,Technology,True,Increased
+1164,2,Li Guoqiang,59,Male,China,Beijing,Automotive,True,Decreased
+1164,2,Li Yongxin,47,Male,China,Beijing,Service,True,Decreased
+1164,2,Peter Lim,69,Male,Singapore,Singapore,Finance & Investments,True,Increased
+1164,2,Lu Weiding,52,Male,China,Hangzhou,Diversified,False,Decreased
+1164,2,Sergio Mantegazza,95,Male,Switzerland,Lugano,Service,True,Decreased
+1164,2,Hans Melchers,84,Male,Netherlands,Vorden,Finance & Investments,True,Decreased
+1164,2,C. Dean Metropoulos,76,Male,United States,Palm Beach,Food & Beverage,True,Decreased
+1164,2,Hans Georg Naeder,61,Male,Germany,Duderstadt,Manufacturing,False,Remained Even
+1164,2,Falguni Nayar,60,Female,India,Mumbai,Fashion & Retail,True,Decreased
+1164,2,James Packer,55,Male,Australia,Los Angeles,Finance & Investments,False,Decreased
+1164,2,Alexander Ponomarenko,58,Male,Russia,Moscow,Logistics,True,Increased
+1164,2,Nicholas Pritzker,79,Male,United States,Nicasio,Finance & Investments,False,Decreased
+1164,2,Alejandro Santo Domingo,46,Male,United States,New York,Food & Beverage,False,Remained Even
+1164,2,Steven Sarowitz,57,Male,United States,Highland Park,Technology,True,Decreased
+1164,2,Maria-Elisabeth Schaeffler-Thumann,81,Female,Germany,Herzogenaurach,Automotive,False,Increased
+1164,2,Leonard Schleifer,70,Male,United States,Tarrytown,Healthcare,True,Increased
+1164,2,Dieter Schnabel,77,Male,Germany,Hamburg,Manufacturing,False,Increased
+1164,2,Michael S. Smith,67,Male,United States,Miami Beach,Energy,True,Increased
+1164,2,Julia Thiele-Schuerhoff,51,Female,Germany,Munich,Manufacturing,False,Decreased
+1164,2,John Tyson & family,69,Male,United States,Springdale,Food & Beverage,False,Decreased
+1164,2,Zhao Lixin,57,Male,China,Shanghai,Technology,True,Decreased
+1164,2,Hongyi Zhou,52,Male,China,Beijing,Technology,True,Increased
+1217,2,S. Daniel Abraham,98,Male,United States,Palm Beach,Food & Beverage,True,Increased
+1217,2,Bill Alfond,74,Male,United States,Boston,Fashion & Retail,False,Decreased
+1217,2,Susan Alfond,77,Female,United States,Scarborough,Fashion & Retail,False,Decreased
+1217,2,Ted Alfond,78,Male,United States,Weston,Fashion & Retail,False,Decreased
+1217,2,Riley Bechtel & family,71,Male,United States,San Francisco,Construction & Engineering,False,Decreased
+1217,2,Thor Bjorgolfsson,56,Male,Iceland,London,Diversified,True,Remained Even
+1217,2,Charles Bronfman,91,Male,Canada,Palm Beach,Food & Beverage,False,Remained Even
+1217,2,Vivek Chand Burman,85,Male,India,Delhi,Food & Beverage,False,Decreased
+1217,2,Herb Chambers,81,Male,United States,Boston,Automotive,True,Increased
+1217,2,Cheng Yixiao,39,Male,China,Beijing,Media & Entertainment,True,Decreased
+1217,2,Leon G. Cooperman,79,Male,United States,Boca Raton,Finance & Investments,True,Remained Even
+1217,2,Yadu Hari Dalmia & family,75,Male,India,Delhi,Manufacturing,False,Increased
+1217,2,Henry Davis,72,Male,United States,Omaha,Food & Beverage,False,Increased
+1217,2,Oleg Deripaska,55,Male,Russia,Moscow,Metals & Mining,True,Increased
+1217,2,Sergey Dmitriev,57,Male,Cyprus,Paralimni,Technology,True,Decreased
+1217,2,Joseph Edelman,67,Male,United States,New York,Finance & Investments,True,Decreased
+1217,2,Sandeep Engineer,61,Male,India,Ahmedabad,Manufacturing,True,Decreased
+1217,2,Alceu Elias Feldmann & family,73,Male,Brazil,Curitiba,Energy,True,Decreased
+1217,2,Serge Godin,73,Male,Canada,Westmount,Technology,True,Increased
+1217,2,Alec Gores,70,Male,United States,Beverly Hills,Finance & Investments,True,Decreased
+1217,2,Bill Haslam,64,Male,United States,Knoxville,Fashion & Retail,False,Increased
+1217,2,J. Tomilson Hill,74,Male,United States,New York,Finance & Investments,True,Decreased
+1217,2,Jay-Z,53,Male,United States,New York,Media & Entertainment,True,Increased
+1217,2,Baba Kalyani,74,Male,India,Pune,Automotive,False,Remained Even
+1217,2,Saban Cemil Kazanci,62,Male,Turkey,Istanbul,Energy,False,Returned to List
+1217,2,Brad Kelley,66,Male,United States,Franklin,Real Estate,True,Decreased
+1217,2,Wolfgang Leitner,70,Male,Austria,Graz,Construction & Engineering,True,Increased
+1217,2,Li Hongxin & family,70,Male,China,Yanzhou,Manufacturing,True,Decreased
+1217,2,Lin Chen-hai,76,Male,Taiwan,Taipei,Real Estate,True,Decreased
+1217,2,Lu Yiwen,36,Female,China,Shenzhen,Fashion & Retail,True,Decreased
+1217,2,Prayudh Mahagitsiri,77,Male,Thailand,Bangkok,Food & Beverage,False,Increased
+1217,2,Willy Michel,76,Male,Switzerland,Burgdorf,Healthcare,True,Remained Even
+1217,2,Lachhman Das Mittal,92,Male,India,Delhi,Automotive,False,Remained Even
+1217,2,Bobby Murphy,34,Male,United States,Venice,Technology,True,Decreased
+1217,2,Tomas Olivo Lopez,49,Male,Spain,Marbella,Real Estate,True,Increased
+1217,2,Eren Ozmen,64,Female,United States,Reno,Manufacturing,True,Decreased
+1217,2,John Pritzker,69,Male,United States,San Francisco,Finance & Investments,False,Decreased
+1217,2,Qiu Minxiu,77,Female,China,Shangyu,Technology,True,Remained Even
+1217,2,Ferit Faik Sahenk,59,Male,Turkey,Istanbul,Diversified,False,Increased
+1217,2,Wenrong Shen,77,Male,China,Zhangjiagang,Metals & Mining,True,Increased
+1217,2,Yuzhu Shi,60,Male,China,Shanghai,Diversified,True,Decreased
+1217,2,Jeff Sutton,63,Male,United States,New York,Real Estate,True,Decreased
+1217,2,"Henry Sy, Jr.",69,Male,Philippines,Manila,Diversified,False,Decreased
+1217,2,Andrew Tan,71,Male,Philippines,Manila,Diversified,True,Decreased
+1217,2,Arvind Tiku,53,Male,India,Singapore,Energy,True,Increased
+1217,2,Byron Trott,64,Male,United States,Winnetka,Finance & Investments,True,Increased
+1217,2,Donald Trump,76,Male,United States,Palm Beach,Real Estate,False,Decreased
+1217,2,Peter Unger,78,Male,Germany,Neustadt an der Waldnaab,Automotive,True,Increased
+1217,2,Roger Wang,74,Male,United States,Nanjing,Fashion & Retail,True,Decreased
+1217,2,Oprah Winfrey,69,Female,United States,Montecito,Media & Entertainment,True,Decreased
+1217,2,Wu Zhigang & family,88,Male,China,Shenyang,Food & Beverage,True,Decreased
+1217,2,Ye Guofu,45,Male,China,Guangzhou,Fashion & Retail,True,Returned to List
+1272,2,Brian Acton,51,Male,United States,Palo Alto,Technology,True,Decreased
+1272,2,Abdulla Al Futtaim & family,83,Male,United Arab Emirates,Dubai,Automotive,False,Decreased
+1272,2,Edward Bass,77,Male,United States,Fort Worth,Energy,False,Remained Even
+1272,2,Koos Bekker,70,Male,South Africa,Cape Town,Media & Entertainment,True,Increased
+1272,2,Otto Philipp Braun,45,Male,Germany,Melsungen,Healthcare,False,Decreased
+1272,2,Chen Tei-fu,74,Male,Taiwan,Los Angeles,Fashion & Retail,True,Decreased
+1272,2,Abilio dos Santos Diniz,86,Male,Brazil,Sao Paulo,Fashion & Retail,False,Decreased
+1272,2,Marcel Erni,58,Male,Switzerland,Zug,Finance & Investments,True,Decreased
+1272,2,Doris Fisher,91,Female,United States,San Francisco,Fashion & Retail,True,Decreased
+1272,2,Gerald Ford,78,Male,United States,Dallas,Finance & Investments,True,Decreased
+1272,2,Bernard Fraisse & family,66,Male,France,Paris,Healthcare,True,Remained Even
+1272,2,Alfred Gantner,55,Male,Switzerland,Zug,Finance & Investments,True,Decreased
+1272,2,Paul Gauselmann & family,88,Male,Germany,Espelkamp,Gambling & Casinos,True,Decreased
+1272,2,Mitchell Goldhar,61,Male,Canada,North York,Real Estate,True,Decreased
+1272,2,Peter Hargreaves,76,Male,United Kingdom,Bristol,Finance & Investments,True,Decreased
+1272,2,Xuande Hua & family,79,Male,China,Taizhou,Healthcare,True,Decreased
+1272,2,Kwek Leng Kee,68,Male,Singapore,Singapore,Diversified,False,Increased
+1272,2,Catherine Lozick,77,Female,United States,Fort Lauderdale,Manufacturing,False,Increased
+1272,2,Kalanithi Maran,57,Male,India,Chennai,Media & Entertainment,True,Remained Even
+1272,2,Jed McCaleb,48,Male,United States,Berkeley,Finance & Investments,True,Decreased
+1272,2,Fatih Ozmen,65,Male,United States,Reno,Manufacturing,True,Decreased
+1272,2,Tor Peterson,58,Male,United States,Zug,Metals & Mining,True,Decreased
+1272,2,Daniel Pritzker,63,Male,United States,Marin County,Finance & Investments,False,Decreased
+1272,2,Jinxing Qi,61,Male,China,Hangzhou,Real Estate,True,Increased
+1272,2,Qiu Jianping & family,61,Male,China,Hangzhou,Manufacturing,True,Increased
+1272,2,Rajan Raheja & family,68,Male,India,Mumbai,Diversified,False,Remained Even
+1272,2,Matthias Reinhart,63,Male,Switzerland,Zurich,Finance & Investments,True,Decreased
+1272,2,Arnout Schuijff,55,Male,Netherlands,Amsterdam,Technology,True,Decreased
+1272,2,Hans Sy,67,Male,Philippines,Manila,Diversified,False,Decreased
+1272,2,Herbert Sy,66,Male,Philippines,Manila,Diversified,False,Decreased
+1272,2,Lucio Tan,88,Male,Philippines,Manila,Diversified,True,Increased
+1272,2,Tsai Ming-kai,72,Male,Taiwan,Hsinchu,Technology,True,Decreased
+1272,2,Ted Turner,84,Male,United States,Atlanta,Media & Entertainment,False,Increased
+1272,2,David Walentas,84,Male,United States,New York,Real Estate,True,Increased
+1272,2,Urs Wietlisbach,61,Male,Switzerland,Zug,Finance & Investments,True,Decreased
+1272,2,Jerry Yang,54,Male,United States,Los Altos Hills,Technology,True,Decreased
+1272,2,Yang Jianliang & family,53,Male,China,Wuxi,Manufacturing,True,Decreased
+1272,2,Yang Weidong & family,54,Male,China,Jiaxing,Manufacturing,True,Decreased
+1272,2,Mortimer Zuckerman,85,Male,United States,New York,Real Estate,True,Decreased
+1312,2,John Armitage,63,Male,Ireland,London,Finance & Investments,True,Decreased
+1312,2,Lee Bass,66,Male,United States,Fort Worth,Energy,False,Increased
+1312,2,John Bicket,43,Male,United States,San Francisco,Technology,True,Increased
+1312,2,Sanjit Biswas,41,Male,United States,San Francisco,Technology,True,Increased
+1312,2,Timothy Boyle,73,Male,United States,Portland,Fashion & Retail,True,Remained Even
+1312,2,Morris Chang,91,Male,Taiwan,Hsinchu,Technology,True,Decreased
+1312,2,Chao Teng-hsiung,78,Male,Taiwan,Taipei,Real Estate,True,Decreased
+1312,2,Chu Lam Yiu,53,Female,Hong Kong,Hong Kong,Manufacturing,True,Remained Even
+1312,2,K. Dinesh,68,Male,India,Bangalore,Technology,True,Decreased
+1312,2,James Duff,62,Male,United States,Hattiesburg,Diversified,True,Increased
+1312,2,Thomas Duff,66,Male,United States,Hattiesburg,Diversified,True,Increased
+1312,2,Daniel Ek,40,Male,Sweden,Stockholm,Technology,True,Decreased
+1312,2,John Fisher,61,Male,United States,San Francisco,Fashion & Retail,False,Decreased
+1312,2,Georg Haub,61,Male,Germany,Berlin,Fashion & Retail,False,Increased
+1312,2,Erman Ilicak,55,Male,Turkey,Ankara,Construction & Engineering,True,Remained Even
+1312,2,Justin Ishbia,45,Male,United States,Chicago,Finance & Investments,False,Increased
+1312,2,Long Jiang,49,Male,China,Weifang,Technology,True,Increased
+1312,2,Bruce Karsh,67,Male,United States,Los Angeles,Finance & Investments,True,Increased
+1312,2,Bom Kim,44,Male,United States,Seoul,Technology,True,Decreased
+1312,2,Lam Kong,58,Male,China,Hong Kong,Healthcare,True,Decreased
+1312,2,Stephen Lansdown,70,Male,Guernsey,St. Peter Port,Finance & Investments,True,Decreased
+1312,2,Hua Li,45,Male,China,Shenzhen,Finance & Investments,True,Increased
+1312,2,Lim Kok Thay,71,Male,Malaysia,Kuala Lumpur,Gambling & Casinos,False,Increased
+1312,2,Kishore Mariwala,88,Male,India,Mumbai,Food & Beverage,False,Decreased
+1312,2,Clayton Mathile,82,Male,United States,Brookville,Food & Beverage,True,Remained Even
+1312,2,Mi Enhua,65,Male,China,Urumqi,Fashion & Retail,True,Decreased
+1312,2,Vadim Moshkovich,55,Male,Russia,Moscow,Food & Beverage,True,Increased
+1312,2,David Murdock,99,Male,United States,Ventura,Food & Beverage,True,Remained Even
+1312,2,David Nahmad,75,Male,Monaco,New York,Fashion & Retail,True,Increased
+1312,2,Lirio Parisotto,69,Male,Brazil,Manaus,Finance & Investments,True,Decreased
+1312,2,Alberto Prada,69,Male,Italy,Milan,Fashion & Retail,False,Increased
+1312,2,Marina Prada,77,Female,Italy,Milan,Fashion & Retail,False,Increased
+1312,2,Filiz Sahenk,56,Female,Turkey,Istanbul,Diversified,False,Increased
+1312,2,Stephan Schmidheiny,75,Male,Switzerland,Hurden,Finance & Investments,False,Remained Even
+1312,2,Alberto Siccardi & family,78,Male,Switzerland,Lugano,Healthcare,False,Decreased
+1312,2,Tang Yiu,89,Male,Hong Kong,Hong Kong,Fashion & Retail,True,Decreased
+1312,2,Tian Ming,69,Male,China,Hefei,Technology,True,Increased
+1312,2,T.Y. Tsai,70,Male,Taiwan,Taipei,Finance & Investments,False,Decreased
+1312,2,Jayshree Ullal,62,Female,United States,Saratoga,Technology,True,Increased
+1312,2,Georg von Opel,56,Male,Switzerland,London,Finance & Investments,False,Increased
+1312,2,Lang Walker,77,Male,Australia,Sydney,Real Estate,True,Increased
+1312,2,Xicheng Wang & family,74,Male,China,Zhaoyuan,Manufacturing,True,Decreased
+1312,2,Wang Zhenhua,61,Male,China,Shanghai,Real Estate,True,Decreased
+1312,2,Paul-Heinz Wesjohann & family,79,Male,Germany,Rechterfeld,Food & Beverage,True,Decreased
+1312,2,Xie Bingkun & family,56,Male,China,Fuzhou,Fashion & Retail,True,Increased
+1312,2,Xu Shugen,57,Male,China,Hangzhou,Manufacturing,True,Increased
+1312,2,Christoph Zeller,65,Male,Liechtenstein,Vaduz,Healthcare,False,Remained Even
+1312,2,Zhang Jingzhang & family,87,Male,China,Ningbo,Manufacturing,True,Increased
+1368,2,George Argyros & family,86,Male,United States,Newport Beach,Real Estate,True,Decreased
+1368,2,Brian Armstrong,40,Male,United States,San Francisco,Finance & Investments,True,Decreased
+1368,2,Albert Avdolyan,52,Male,Russia,Moscow,Energy,True,Returned to List
+1368,2,Sezai Bacaksiz,73,Male,Turkey,Ankara,Diversified,True,Increased
+1368,2,Aneel Bhusri,57,Male,United States,San Francisco,Technology,True,Decreased
+1368,2,Brett Blundy,63,Male,Australia,Paradise Island,Fashion & Retail,True,Remained Even
+1368,2,J. Hyatt Brown,85,Male,United States,Ormond Beach,Finance & Investments,False,Decreased
+1368,2,Chen Jinxia,55,Female,China,Shanghai,Finance & Investments,False,Decreased
+1368,2,Chen Xueli,71,Male,China,Weihai,Healthcare,True,Increased
+1368,2,Dermot Desmond,72,Male,Ireland,Dublin,Finance & Investments,True,Increased
+1368,2,Dong Wei,52,Male,China,Lianyungang,Healthcare,True,Decreased
+1368,2,Fu Guangming & family,69,Male,China,Nanping,Food & Beverage,True,Increased
+1368,2,Noam Gottesman,61,Male,United States,New York,Finance & Investments,True,Decreased
+1368,2,Jeffrey Gundlach,64,Male,United States,Los Angeles,Finance & Investments,True,Remained Even
+1368,2,Hao Hong,67,Male,United States,Tianjin,Healthcare,True,Decreased
+1368,2,Shmuel Harlap,78,Male,Israel,Tel Aviv,Automotive,False,Increased
+1368,2,Hans-Werner Hector,83,Male,Germany,Weinheim,Technology,True,Decreased
+1368,2,Lutz Mario Helmig & family,76,Male,Germany,Grebenhain,Healthcare,True,Increased
+1368,2,Chulong Huang,64,Male,Canada,Shenzhen,Real Estate,True,Decreased
+1368,2,Thomas James,80,Male,United States,Saint Petersburg,Finance & Investments,False,Increased
+1368,2,James Jannard,73,Male,United States,San Juan Islands,Fashion & Retail,True,Decreased
+1368,2,Willis Johnson,75,Male,United States,Franklin,Automotive,True,Increased
+1368,2,Lai Shixian,48,Male,China,Quanzhou,Fashion & Retail,True,Increased
+1368,2,Chris Larsen,62,Male,United States,San Francisco,Finance & Investments,True,Decreased
+1368,2,Solomon Lew,78,Male,Australia,Melbourne,Fashion & Retail,True,Decreased
+1368,2,Liang Xinjun,55,Male,China,Shanghai,Diversified,True,Remained Even
+1368,2,Harald Link,68,Male,Thailand,Bangkok,Diversified,False,Increased
+1368,2,Max Lytvyn,43,Male,Canada,San Francisco,Technology,True,Decreased
+1368,2,Igor Makarov,60,Male,Cyprus,Miami,Energy,True,Increased
+1368,2,Howard Marks,76,Male,United States,New York,Finance & Investments,True,Remained Even
+1368,2,Charles Munger,99,Male,United States,Los Angeles,Finance & Investments,True,Decreased
+1368,2,Adam Neumann,44,Male,Israel,Miami,Real Estate,True,Increased
+1368,2,Thi Phuong Thao Nguyen,52,Female,Vietnam,Ho Chi Minh City,Diversified,True,Decreased
+1368,2,Ni Yongpei & family,71,Male,China,Liuan,Food & Beverage,True,Decreased
+1368,2,Heloise Pratt,60,Female,Australia,Melbourne,Manufacturing,False,Decreased
+1368,2,Qi Xiangdong,52,Male,China,Beijing,Technology,True,Increased
+1368,2,Phillip T. (Terry) Ragon,73,Male,United States,Boston,Technology,True,Increased
+1368,2,Prathap Reddy,91,Male,India,Chennai,Healthcare,True,Decreased
+1368,2,Jerry Reinsdorf,87,Male,United States,Chicago,Sports,True,Increased
+1368,2,Chad Richison,52,Male,United States,Edmond,Technology,True,Decreased
+1368,2,"Karl Scheufele, III. & family",84,Male,Switzerland,Geneva,Fashion & Retail,True,Increased
+1368,2,Alice Schwartz,96,Female,United States,El Cerrito,Healthcare,True,Increased
+1368,2,Kavitark Ram Shriram,66,Male,United States,Menlo Park,Technology,True,Decreased
+1368,2,William Stone,67,Male,United States,East Lyme,Technology,True,Decreased
+1368,2,Henry Swieca,65,Male,United States,New York,Finance & Investments,True,Increased
+1368,2,Harley Sy,63,Male,Philippines,Manila,Diversified,False,Decreased
+1368,2,Teresita Sy-Coson,72,Female,Philippines,Manila,Diversified,False,Decreased
+1368,2,Katsumi Tada,77,Male,Japan,Tokyo,Real Estate,True,Decreased
+1368,2,Tang Jinkui & family,67,Male,China,Suzhou,Manufacturing,True,Decreased
+1368,2,Tang Xiao'ou,55,Male,Hong Kong,Shanghai,Technology,True,Decreased
+1368,2,Lottie Tham & family,73,Female,Sweden,Stockholm,Fashion & Retail,False,Decreased
+1368,2,Shamsheer Vayalil,46,Male,India,Abu Dhabi,Healthcare,False,Returned to List
+1368,2,Radha Vembu,50,Female,India,Chennai,Technology,False,Increased
+1368,2,Wang Wenmo,66,Male,China,Quanzhou,Fashion & Retail,True,Increased
+1368,2,Wang Zhenghua,78,Male,China,Shanghai,Service,True,Increased
+1368,2,Kai Wu,55,Male,China,Ningde,Energy,True,Decreased
+1368,2,Xu Yingzhuo,55,Male,China,Guangzhou,Food & Beverage,True,Decreased
+1368,2,Yeung Kin-man,59,Male,Hong Kong,Hong Kong,Manufacturing,True,Decreased
+1368,2,Huijiao Yu,57,Male,China,Shanghai,Logistics,True,Decreased
+1368,2,Oren Zeev,58,Male,Israel,Los Altos,Finance & Investments,True,Decreased
+1368,2,Clayton Zekelman,54,Male,Canada,Windsor,Manufacturing,False,Increased
+1368,2,Zhao Fenggang,57,Male,China,Ningde,Energy,True,Decreased
+1434,2,Alex Beard,55,Male,United Kingdom,London,Metals & Mining,True,Decreased
+1434,2,Travis Boersma,52,Male,United States,Grants Pass,Food & Beverage,True,Decreased
+1434,2,William Boyd & family,91,Male,United States,Las Vegas,Gambling & Casinos,True,Decreased
+1434,2,Anand Burman,70,Male,India,Delhi,Food & Beverage,False,Decreased
+1434,2,Cao Ji,71,Male,China,Hangzhou,Manufacturing,True,Decreased
+1434,2,Bruce Cheng,86,Male,Taiwan,Taipei,Technology,True,Remained Even
+1434,2,Chi Yufeng,52,Male,China,Beijing,Technology,False,Increased
+1434,2,Daniel Chiu,62,Male,Hong Kong,Hong Kong,Energy,True,Increased
+1434,2,Beda Diethelm,82,Male,Switzerland,Zurich,Healthcare,True,Decreased
+1434,2,Domenico Dolce,64,Male,Italy,Milan,Fashion & Retail,True,Increased
+1434,2,Ralph Dommermuth,59,Male,Germany,Montabaur,Technology,True,Decreased
+1434,2,Georgi Domuschiev,50,Male,Bulgaria,London,Diversified,True,Increased
+1434,2,Kiril Domuschiev,53,Male,Bulgaria,London,Diversified,True,Increased
+1434,2,Bob Ell,78,Male,Australia,Surfers Paradise,Real Estate,True,Remained Even
+1434,2,Paul Foster,65,Male,United States,El Paso,Energy,True,Increased
+1434,2,Stefano Gabbana,60,Male,Italy,Milan,Fashion & Retail,True,Increased
+1434,2,Xingjiang Gao,59,Male,China,Huzhou,Manufacturing,True,Decreased
+1434,2,Gordon Getty,89,Male,United States,San Francisco,Energy,False,Remained Even
+1434,2,Dennis Gillings,78,Male,United Kingdom,Durham,Healthcare,True,Remained Even
+1434,2,Harsh Goenka,65,Male,India,Mumbai,Diversified,False,Remained Even
+1434,2,Sanjiv Goenka,62,Male,India,Kolkata,Diversified,False,Decreased
+1434,2,Jane Goldman,67,Female,United States,New York,Real Estate,False,Decreased
+1434,2,Stein Erik Hagen,66,Male,Norway,Oslo,Fashion & Retail,True,Decreased
+1434,2,Bahaa Hariri,56,Male,Lebanon,Geneva,Real Estate,False,Remained Even
+1434,2,Hortensia Herrero,72,Female,Spain,Valencia,Fashion & Retail,False,Decreased
+1434,2,Douglas Hsu,80,Male,Taiwan,Taipei,Diversified,False,Decreased
+1434,2,Huang Min,49,Male,China,Suzhou,Manufacturing,True,Increased
+1434,2,Jared Isaacman,40,Male,United States,Easton,Technology,True,Increased
+1434,2,Eugene Kaspersky,57,Male,Russia,Moscow,Technology,True,Increased
+1434,2,Artem Khachatryan,48,Male,Russia,Limassol,Fashion & Retail,True,Returned to List
+1434,2,Thomas Kwok,71,Male,Hong Kong,Hong Kong,Real Estate,False,Increased
+1434,2,Marc Lasry,62,Male,United States,New York,Finance & Investments,True,Increased
+1434,2,Christian Latouche & family,82,Male,France,Lyon,Finance & Investments,True,Decreased
+1434,2,Theodore Leonsis,67,Male,United States,Bethesda,Sports,True,Increased
+1434,2,Lin Chang Su-O,82,Female,Taiwan,Taipei,Real Estate,False,Decreased
+1434,2,Liu Chengyu & family,60,Male,China,Shenzhen,Manufacturing,True,Increased
+1434,2,Sergey Lomakin,49,Male,Russia,Paphos,Fashion & Retail,True,Returned to List
+1434,2,Daniel Lubetzky,54,Male,United States,New York,Food & Beverage,True,Decreased
+1434,2,Anand Mahindra,67,Male,India,Mumbai,Diversified,False,Increased
+1434,2,Rafique Malik,72,Male,India,Mumbai,Fashion & Retail,False,Increased
+1434,2,Katarina Martinson,41,Female,Sweden,Stockholm,Diversified,False,Increased
+1434,2,Kiran Mazumdar-Shaw,70,Female,India,Bangalore,Healthcare,True,Decreased
+1434,2,Nirmal Minda,65,Male,India,Gurgaon,Automotive,False,Decreased
+1434,2,Mu Rongjun,43,Male,China,Beijing,Technology,True,Decreased
+1434,2,Eugene Murtagh,80,Male,Ireland,Kingscourt,Manufacturing,True,Decreased
+1434,2,Alexander Nesis,60,Male,Russia,Moscow,Finance & Investments,True,Increased
+1434,2,Zugen Ni,66,Male,China,Suzhou,Manufacturing,True,Increased
+1434,2,Florentino Perez,76,Male,Spain,Madrid,Construction & Engineering,True,Increased
+1434,2,Victor Pinchuk,62,Male,Ukraine,Kiev,Metals & Mining,True,Increased
+1434,2,Raveendran Byju,41,Male,India,Bangalore,Technology,True,Decreased
+1434,2,P.P. Reddy,65,Male,India,Hyderabad,Construction & Engineering,True,Increased
+1434,2,Richard Saghian,41,Male,United States,Los Angeles,Fashion & Retail,True,Increased
+1434,2,Shi Yifeng,49,Male,China,Beijing,Healthcare,True,Increased
+1434,2,Thaksin Shinawatra,73,Male,Thailand,Dubai,Finance & Investments,True,Increased
+1434,2,Shu Ping,53,Female,Singapore,Singapore,Food & Beverage,True,Increased
+1434,2,Timothy Springer,75,Male,United States,Chestnut Hill,Healthcare,True,Remained Even
+1434,2,Venu Srinivasan,70,Male,India,Chennai,Automotive,False,Increased
+1434,2,Edward Stack,68,Male,United States,Sewickley,Fashion & Retail,True,Increased
+1434,2,Sun Mengquan & family,73,Male,China,Yantai,Food & Beverage,True,Decreased
+1434,2,Alexander Svetakov,55,Male,Russia,Moscow,Finance & Investments,True,Decreased
+1434,2,Torsten Toeller,56,Male,Germany,Krefeld,Fashion & Retail,True,Decreased
+1434,2,Hamdi Ulukaya,50,Male,Turkey,Norwich,Food & Beverage,True,Decreased
+1434,2,Wang Linpeng,54,Male,China,Beijing,Construction & Engineering,True,Decreased
+1434,2,Wei Ing-Chou,69,Male,Taiwan,Tianjin,Food & Beverage,True,Increased
+1434,2,Wei Yin-Chun,66,Male,Taiwan,Taipei,Food & Beverage,True,Increased
+1434,2,Wei Yin-Heng,64,Male,Taiwan,Shanghai,Food & Beverage,True,Increased
+1434,2,Wei Ying-Chiao,68,Male,Taiwan,Taipei,Food & Beverage,True,Increased
+1434,2,Elaine Wynn,80,Female,United States,Las Vegas,Gambling & Casinos,True,Increased
+1434,2,Xu Xudong & family,53,Male,China,Ningbo,Automotive,True,Increased
+1434,2,Michael Ying,73,Male,Hong Kong,Hong Kong,Fashion & Retail,True,Increased
+1434,2,Yu Qibing & family,57,Male,China,Ningbo,Manufacturing,True,Decreased
+1434,2,Yuan Fugen & family,72,Male,China,Suzhou,Manufacturing,True,Increased
+1434,2,Zhang Ning & family,49,Female,Canada,Shanghai,Manufacturing,True,Decreased
+1434,2,Zhao Tao,57,Male,Singapore,Xi'an,Healthcare,False,Decreased
+1516,2,Anu Aga,80,Female,India,Pune,Construction & Engineering,False,Increased
+1516,2,Mohamed Al Fayed,94,Male,Egypt,London,Fashion & Retail,True,Decreased
+1516,2,Andrey Andreev,49,Male,United Kingdom,London,Technology,True,Remained Even
+1516,2,Michael Ashcroft,77,Male,United Kingdom,Turks and Caicos Islands,Finance & Investments,True,Decreased
+1516,2,Pavel Baudis,62,Male,Czech Republic,Prague,Technology,True,Decreased
+1516,2,Cao Jianwei,44,Male,China,Shangyu,Manufacturing,True,Remained Even
+1516,2,Huwen Chen,52,Male,China,Shanghai,Manufacturing,True,Decreased
+1516,2,Phongthep Chiaravanont,71,Male,Thailand,Bangkok,Diversified,False,Increased
+1516,2,Dou Zhenggang,69,Male,China,Hangzhou,Diversified,True,Decreased
+1516,2,Maria Franca Fissolo,88,Female,Italy,Monaco,Food & Beverage,False,Remained Even
+1516,2,William Franke,85,Male,United States,Houston,Diversified,True,Decreased
+1516,2,Mario Germano Giuliani,51,Male,Switzerland,Monaco,Healthcare,False,Decreased
+1516,2,Amy Goldman Fowler,68,Female,United States,Rhinebeck,Real Estate,False,Decreased
+1516,2,John Hancock,47,Male,Australia,London,Metals & Mining,False,Decreased
+1516,2,Hu Yangzhong,58,Male,China,Hangzhou,Technology,True,Decreased
+1516,2,Huang Dawen,62,Male,Hong Kong,Hong Kong,Manufacturing,True,Decreased
+1516,2,Huang Qiaoling,64,Male,China,Hangzhou,Media & Entertainment,True,Increased
+1516,2,Michael Jordan,60,Male,United States,Jupiter,Sports,True,Increased
+1516,2,Diane Kemper,77,Female,United States,New York,Real Estate,False,Decreased
+1516,2,Shlomo Kramer,57,Male,Israel,Tel Aviv,Technology,True,Decreased
+1516,2,Heikki Kyostila,77,Male,Finland,Helsinki,Healthcare,True,Increased
+1516,2,Martin Lau,50,Male,Hong Kong,Hong Kong,Technology,True,Decreased
+1516,2,Li Min,57,Male,China,Fuzhou,Technology,True,Decreased
+1516,2,Liang Rubo,40,Male,China,Beijing,Technology,True,Decreased
+1516,2,Liang Zhaoxian,58,Male,China,Foshan,Manufacturing,False,Decreased
+1516,2,Lin Fanlian,61,Male,China,Linyi,Energy,True,Decreased
+1516,2,Aloke Lohia,64,Male,India,Bangkok,Manufacturing,False,Decreased
+1516,2,Bill Malhotra,73,Male,Canada,Ottawa,Real Estate,True,Increased
+1516,2,Alexander Mamut,63,Male,Russia,Tel Aviv,Finance & Investments,True,Decreased
+1516,2,Craig McCaw,73,Male,United States,Hunts Point,Telecom,False,Decreased
+1516,2,Cunhui Nan,59,Male,China,Wenzhou,Manufacturing,True,Decreased
+1516,2,Tengyun Nie & family,47,Male,China,Shanghai,Service,True,Decreased
+1516,2,Oei Hong Leong,75,Male,Singapore,Singapore,Finance & Investments,False,Increased
+1516,2,Clive Palmer,69,Male,Australia,Brisbane,Metals & Mining,True,Decreased
+1516,2,Matthew Prince,48,Male,United States,Park City,Technology,True,Decreased
+1516,2,Linda Pritzker,69,Female,United States,Missoula,Service,False,Remained Even
+1516,2,P.V. Krishna Reddy,53,Male,India,Hyderabad,Construction & Engineering,True,Increased
+1516,2,Bianca Rinehart,46,Female,Australia,Brisbane,Metals & Mining,False,Decreased
+1516,2,Ginia Rinehart,36,Female,Australia,Sydney,Metals & Mining,False,Decreased
+1516,2,T. Denny Sanford,87,Male,United States,Sioux Falls,Finance & Investments,True,Decreased
+1516,2,Bhadresh Shah,71,Male,India,Ahmedabad,Manufacturing,True,Increased
+1516,2,Zygmunt Solorz-Zak,66,Male,Poland,Warsaw,Media & Entertainment,True,Decreased
+1516,2,Sylvia Stroeher,67,Female,Germany,Darmstadt,Fashion & Retail,False,Remained Even
+1516,2,Otto Toto Sugiri,69,Male,Indonesia,Jakarta,Technology,True,Decreased
+1516,2,Wichai Thongtang,76,Male,Thailand,Bangkok,Finance & Investments,True,Remained Even
+1516,2,Ion Tiriac,83,Male,Romania,Bucharest,Finance & Investments,True,Increased
+1516,2,Hope Welker,37,Female,Australia,New York,Metals & Mining,False,Decreased
+1516,2,William Young,82,Male,United States,Ypsilanti,Manufacturing,True,Decreased
+1516,2,Zhang Fan,57,Male,China,Shenzhen,Technology,True,Decreased
+1516,2,Shilong Zhang & family,57,Male,China,Beijing,Technology,True,Decreased
+1516,2,Zhang Wanzhen,73,Male,China,Chaozhou,Manufacturing,True,Decreased
+1516,2,Hongfei Zhao,48,Male,China,Beijing,Technology,True,Decreased
+1516,2,Zhou Jian,46,Male,China,Shenzhen,Energy,True,Decreased
+1516,2,Zhu Yiwen & family,59,Male,China,Shanghai,Healthcare,True,Increased
+1575,1,Roberto Angelini Rossi,74,Male,Chile,Santiago,Diversified,False,Increased
+1575,1,Mika Anttonen,56,Male,Finland,Helsinki,Energy,True,Increased
+1575,1,Julio Bozano,87,Male,Brazil,Rio de Janeiro,Finance & Investments,True,Decreased
+1575,1,Nikolai Buinov,55,Male,Russia,Irkutsk,Energy,True,Increased
+1575,1,Nicola Bulgari,82,Male,Italy,Rome,Fashion & Retail,False,Remained Even
+1575,1,Jianxing Che,56,Male,China,Shanghai,Fashion & Retail,True,Decreased
+1575,1,Huxiong Chen,52,Male,China,Shanghai,Manufacturing,True,Decreased
+1575,1,Chen Zhisong,57,Male,China,Xiamen,Technology,True,Decreased
+1575,1,Prathip Chiravanond,74,Male,Thailand,Bangkok,Diversified,False,Returned to List
+1575,1,Alexandra Daitch,60,Female,United States,Old Lyme,Food & Beverage,False,Decreased
+1575,1,Sol Daurella,57,Female,Spain,Madrid,Food & Beverage,False,Increased
+1575,1,James Dinan,63,Male,United States,North Salem,Finance & Investments,True,Remained Even
+1575,1,Dong Fan,53,Male,China,Zhuhai,Healthcare,True,Decreased
+1575,1,Bulent Eczacibasi,73,Male,Turkey,Istanbul,Diversified,False,Increased
+1575,1,Faruk Eczacibasi,68,Male,Turkey,Istanbul,Diversified,False,Increased
+1575,1,Eduardo Eurnekian,90,Male,Argentina,Buenos Aires,Diversified,True,Increased
+1575,1,Guo Zhenyu & family,59,Male,Canada,Kunming,Fashion & Retail,True,Decreased
+1575,1,Surjit Kumar Gupta,81,Male,India,Delhi,Manufacturing,False,Increased
+1575,1,Caroline Hagen Kjos,39,Female,Norway,Wollerau,Diversified,False,Decreased
+1575,1,Roberto Hernandez Ramirez,81,Male,Mexico,Mexico City,Finance & Investments,True,Remained Even
+1575,1,Reid Hoffman,55,Male,United States,Palo Alto,Technology,True,Decreased
+1575,1,Hu Rongda & family,64,Male,China,Jinhua,Manufacturing,True,Increased
+1575,1,"B. Wayne Hughes, Jr.",63,Male,United States,Jackson,Real Estate,False,Decreased
+1575,1,Hui Wing Mau,72,Male,Hong Kong,Hong Kong,Real Estate,True,Decreased
+1575,1,Scott Kapnick,64,Male,United States,Naples,Finance & Investments,True,Increased
+1575,1,Richard Kayne,77,Male,United States,Santa Monica,Finance & Investments,True,Increased
+1575,1,Dominika Kulczyk,45,Female,Poland,London,Finance & Investments,False,Increased
+1575,1,Edward Lampert,60,Male,United States,Miami Beach,Finance & Investments,True,Increased
+1575,1,James Leprino,85,Male,United States,Indian Hills,Food & Beverage,False,Decreased
+1575,1,David Lichtenstein,61,Male,United States,Monsey,Real Estate,True,Remained Even
+1575,1,Lin Dingqiang & family,56,Male,Hong Kong,Beijing,Real Estate,True,Remained Even
+1575,1,Sarah MacMillan,69,Female,United States,Los Angeles,Food & Beverage,False,Decreased
+1575,1,Strive Masiyiwa,62,Male,Zimbabwe,London,Telecom,True,Decreased
+1575,1,Robert Miller,89,Male,United Kingdom,Hong Kong,Fashion & Retail,True,Decreased
+1575,1,Simon Nixon,55,Male,United Kingdom,"St. Brelade, Jersey",Technology,True,Increased
+1575,1,Kentaro Ogawa,74,Male,Japan,Tokyo,Food & Beverage,True,Increased
+1575,1,Ajay Parekh,65,Male,India,Mumbai,Manufacturing,False,Decreased
+1575,1,Narendrakumar Parekh,84,Male,India,Mumbai,Manufacturing,False,Decreased
+1575,1,Jennifer Pritzker,72,Female,United States,Chicago,Finance & Investments,False,Decreased
+1575,1,G. Rajendran,80,Male,India,Chennai,Fashion & Retail,True,Increased
+1575,1,Ren Jianhua,66,Male,China,Hangzhou,Manufacturing,True,Decreased
+1575,1,Larry Robbins,53,Male,United States,Alpine,Finance & Investments,True,Remained Even
+1575,1,Dwight Schar,81,Male,United States,Palm Beach,Construction & Engineering,True,Remained Even
+1575,1,Qinxiang Shao,68,Male,China,Hangzhou,Manufacturing,True,Increased
+1575,1,Hua Shen,60,Male,United States,Jiaxing,Technology,True,Decreased
+1575,1,Shi Wen-long,95,Male,Taiwan,Tainan,Manufacturing,True,Decreased
+1575,1,Peter Sondakh,73,Male,Indonesia,Surabaya,Finance & Investments,True,Decreased
+1575,1,Lucy Stitzer,63,Female,United States,Greenwich,Food & Beverage,False,Decreased
+1575,1,Elizabeth Sy,70,Female,Philippines,Manila,Diversified,False,Decreased
+1575,1,Mehmet Sinan Tara,64,Male,Turkey,Istanbul,Construction & Engineering,False,Increased
+1575,1,Masateru Uno & family,76,Male,Japan,Fukuoka,Fashion & Retail,True,Decreased
+1575,1,Vardis Vardinoyannis & family,90,Male,Greece,Athens,Energy,True,Increased
+1575,1,Jitendra Virwani,57,Male,India,Bangalore,Real Estate,False,Decreased
+1575,1,Wang Chaobin,67,Male,China,Zhengzhou,Real Estate,True,Remained Even
+1575,1,Wang Ren-sheng,91,Male,Taiwan,Zhengzhou,Fashion & Retail,True,Decreased
+1575,1,Charlotte Colket Weber,80,Female,United States,Hobe Sound,Food & Beverage,False,Increased
+1575,1,Xie Juhua & family,72,Female,China,Nanjing,Healthcare,False,Decreased
+1575,1,Chuanhua Xu & family,88,Male,China,Hangzhou,Manufacturing,True,Decreased
+1575,1,Zhang Hongwei,68,Male,China,Beijing,Diversified,True,Decreased
+1575,1,Anita Zucker,71,Female,United States,Charleston,Manufacturing,False,Increased
+1647,1,Cameron Adams,43,Male,Australia,Sydney,Technology,True,Decreased
+1647,1,Faisal Bin Qassim Al Thani,75,Male,Qatar,Doha,Diversified,True,Decreased
+1647,1,Leslie Alexander,79,Male,United States,Houston,Sports,True,Remained Even
+1647,1,Masaaki Arai,57,Male,Japan,Tokyo,Real Estate,True,Decreased
+1647,1,Sabrina Benetton,49,Female,Italy,Treviso,Fashion & Retail,False,Increased
+1647,1,Sanjeev Bikhchandani,59,Male,India,Delhi,Technology,True,Decreased
+1647,1,O. Francis Biondi,58,Male,United States,New York,Finance & Investments,True,Remained Even
+1647,1,Alejandro Bulgheroni,78,Male,Argentina,Manantiales,Energy,False,Decreased
+1647,1,R.G. Chandramogan,74,Male,India,Chennai,Food & Beverage,True,Decreased
+1647,1,Binod Chaudhary,67,Male,Nepal,Kathmandu,Diversified,False,Increased
+1647,1,Tim Cook,62,Male,United States,Cupertino,Technology,True,Decreased
+1647,1,Mark Coombs,62,Male,United Kingdom,London,Finance & Investments,True,Remained Even
+1647,1,John de Mol,68,Male,Netherlands,Blaricum,Media & Entertainment,True,Remained Even
+1647,1,D. Leopoldo Del Pino,60,Male,Spain,Madrid,Construction & Engineering,False,Decreased
+1647,1,Diao Zhizhong,59,Male,China,Beijing,Technology,True,Increased
+1647,1,Robert Duggan,78,Male,United States,Clearwater,Healthcare,True,Decreased
+1647,1,James France,78,Male,United States,Daytona Beach,Sports,False,Remained Even
+1647,1,Phillip Frost,86,Male,United States,Miami Beach,Healthcare,True,Decreased
+1647,1,Jayme Garfinkel & family,77,Male,Brazil,Sao Paulo,Finance & Investments,False,Increased
+1647,1,Christopher Goldsbury,80,Male,United States,San Antonio,Food & Beverage,False,Remained Even
+1647,1,Yusuf Hamied,86,Male,India,Mumbai,Healthcare,False,Decreased
+1647,1,Brian Higgins,58,Male,United States,New York,Finance & Investments,True,Remained Even
+1647,1,Wei Huang,63,Male,China,Hangzhou,Real Estate,True,Increased
+1647,1,Yintai Jiang & family,72,Male,China,Shanghai,Automotive,True,Increased
+1647,1,Lei Jin,57,Male,China,Changchun,Healthcare,True,Increased
+1647,1,Jin Lei & family,68,Male,China,Beijing,Healthcare,True,Increased
+1647,1,Valentin Kipyatkov,46,Male,Cyprus,Peyia,Technology,True,Decreased
+1647,1,Koo Kwang-mo,45,Male,South Korea,Seoul,Diversified,False,Increased
+1647,1,George Kurtz,52,Male,United States,Paradise Valley,Technology,True,Decreased
+1647,1,Joe Lacob,67,Male,United States,Atherton,Sports,True,Increased
+1647,1,Joe Lau,33,Male,United States,Stanford,Technology,True,Decreased
+1647,1,Louise Lindh,43,Female,Sweden,Stockholm,Diversified,False,Increased
+1647,1,Luo Yangyong & family,47,Male,China,Panzhihua,Metals & Mining,True,Decreased
+1647,1,Joao Roberto Marinho,69,Male,Brazil,Rio de Janeiro,Media & Entertainment,False,Decreased
+1647,1,Jose Roberto Marinho,67,Male,Brazil,Rio de Janeiro,Media & Entertainment,False,Decreased
+1647,1,Roberto Irineu Marinho,75,Male,Brazil,Rio de Janeiro,Media & Entertainment,False,Decreased
+1647,1,Gary Michelson,74,Male,United States,Los Angeles,Healthcare,True,Remained Even
+1647,1,Robert G. Miller,77,Male,Canada,Montreal,Technology,True,Remained Even
+1647,1,David Mindus,51,Male,Sweden,Stockholm,Real Estate,True,Decreased
+1647,1,Mofatraj Munot,78,Male,India,Mumbai,Real Estate,True,Increased
+1647,1,Ezra Nahmad,77,Male,Monaco,Monte Carlo,Finance & Investments,False,Increased
+1647,1,Satyanarayan Nuwal,70,Male,India,Nagpur,Manufacturing,True,Increased
+1647,1,Nihat Ozdemir,72,Male,Turkey,Ankara,Diversified,True,Decreased
+1647,1,Benjamin Zhengmin Pan & family,53,Male,China,Shenzhen,Technology,True,Decreased
+1647,1,Pierre Karl Péladeau,61,Male,Canada,Montreal,Media & Entertainment,False,Remained Even
+1647,1,Ronald Perelman,80,Male,United States,New York,Finance & Investments,True,Decreased
+1647,1,Olivier Pomel,46,Male,France,New York,Technology,True,Decreased
+1647,1,Krit Ratanarak,76,Male,Thailand,Bangkok,Media & Entertainment,False,Remained Even
+1647,1,Vinod Saraf,70,Male,India,Mumbai,Manufacturing,True,Decreased
+1647,1,Anatoly Sedykh,58,Male,Russia,Moscow,Metals & Mining,True,Returned to List
+1647,1,Genhuo Shao,57,Male,China,Beijing,Food & Beverage,True,Decreased
+1647,1,Shen Xiqiang & family,75,Male,China,Yixing,Energy,True,Decreased
+1647,1,S.D. Shibulal,68,Male,India,Bangalore,Technology,True,Decreased
+1647,1,Suh Kyung-bae,60,Male,South Korea,Seoul,Fashion & Retail,False,Decreased
+1647,1,Sze Man Bok,73,Male,China,Jinjiang,Manufacturing,True,Decreased
+1647,1,Jim Thompson,83,Male,United States,Hong Kong,Logistics,True,Increased
+1647,1,Tran Dinh Long,62,Male,Vietnam,Hanoi,Manufacturing,True,Decreased
+1647,1,Alan Trefler,67,Male,United States,Brookline,Technology,True,Decreased
+1647,1,Riaz Valani,46,Male,United States,Malibu,Finance & Investments,True,Decreased
+1647,1,Pieter van der Does,53,Male,Netherlands,Amsterdam,Technology,True,Decreased
+1647,1,Martin Viessmann,69,Male,Germany,Allendorf,Manufacturing,False,Decreased
+1647,1,Nikil Viswanathan,35,Male,United States,San Francisco,Technology,True,Decreased
+1647,1,Todd Wagner,62,Male,United States,Dallas,Media & Entertainment,True,Decreased
+1647,1,Evan Williams,51,Male,United States,San Francisco,Technology,True,Decreased
+1647,1,Kie Chie Wong,75,Male,Malaysia,Sydney,Metals & Mining,False,Increased
+1647,1,Thomas Wu,72,Male,Taiwan,Taipei,Finance & Investments,False,Decreased
+1647,1,Wu Yingming,56,Male,China,Ningde,Energy,True,Decreased
+1647,1,Amy Wyss,52,Female,United States,Wilson,Healthcare,False,Decreased
+1647,1,Yan Zhi,50,Male,China,Wuhan,Real Estate,True,Decreased
+1647,1,Alan Zekelman,60,Male,Canada,Bloomfield Hills,Manufacturing,False,Increased
+1647,1,Zhang Li,70,Male,China,Guangzhou,Real Estate,True,Decreased
+1725,1,Marc Andreessen,51,Male,United States,Atherton,Finance & Investments,True,Remained Even
+1725,1,Lesley Bamberger,57,Male,Netherlands,Amsterdam,Real Estate,False,Increased
+1725,1,Bang Si-hyuk,50,Male,South Korea,Seoul,Media & Entertainment,True,Decreased
+1725,1,David Booth,77,Male,United States,Austin,Finance & Investments,True,Remained Even
+1725,1,Jim Breyer,61,Male,United States,Austin,Technology,True,Decreased
+1725,1,Kommer Damen,79,Male,Netherlands,Gorinchem,Manufacturing,False,Decreased
+1725,1,Carl DeSantis,83,Male,United States,Delray Beach,Food & Beverage,True,Increased
+1725,1,Marek Dospiva,53,Male,Czech Republic,Prague,Finance & Investments,True,Increased
+1725,1,Keith Dunleavy & family,53,Male,United States,Annapolis,Healthcare,True,Remained Even
+1725,1,John Elkann,47,Male,Italy,Turin,Finance & Investments,False,Decreased
+1725,1,Francois Feuillet & family,74,Male,France,Paris,Automotive,False,Decreased
+1725,1,Yasuhiro Fukushima,75,Male,Japan,Tokyo,Media & Entertainment,True,Decreased
+1725,1,Mario Gabelli,81,Male,United States,Greenwich,Finance & Investments,True,Decreased
+1725,1,Rolf Gerling,68,Male,Germany,Zurich,Finance & Investments,False,Remained Even
+1725,1,John Goff,67,Male,United States,Fort Worth,Real Estate,True,Increased
+1725,1,Alexandre Grendene Bartelle,73,Male,Brazil,Porto Alegre,Fashion & Retail,True,Decreased
+1725,1,Gerry Harvey,83,Male,Australia,Sydney,Fashion & Retail,True,Decreased
+1725,1,He Zhaoxi,49,Male,China,Shenzhen,Technology,True,Remained Even
+1725,1,William Heinecke,73,Male,Thailand,Bangkok,Real Estate,True,Remained Even
+1725,1,Jay Hennick,66,Male,Canada,Toronto,Finance & Investments,True,Decreased
+1725,1,Ilkka Herlin,64,Male,Finland,Helsinki,Manufacturing,False,Increased
+1725,1,Asok Kumar Hiranandani,68,Male,Singapore,Singapore,Real Estate,False,Increased
+1725,1,Hal Jackman,90,Male,Canada,Toronto,Finance & Investments,True,Decreased
+1725,1,Keeree Kanjanapas,72,Male,Thailand,Bangkok,Real Estate,True,Decreased
+1725,1,Osman Kibar,52,Male,United States,La Jolla,Healthcare,True,Decreased
+1725,1,Kim Chang-soo,62,Male,South Korea,Seoul,Fashion & Retail,True,Decreased
+1725,1,Mustafa Kucuk,59,Male,Turkey,Istanbul,Fashion & Retail,True,Increased
+1725,1,Christopher Kwok,37,Male,Hong Kong,Hong Kong,Real Estate,False,Increased
+1725,1,Edward Kwok,42,Male,Hong Kong,Hong Kong,Real Estate,False,Increased
+1725,1,Lai Jianfa,53,Male,China,Shanghai,Logistics,True,Increased
+1725,1,Lau Cho Kun,87,Male,Malaysia,"Tawau, Sabah",Diversified,False,Decreased
+1725,1,Alexis Lê-Quôc,48,Male,United States,New York,Technology,True,Decreased
+1725,1,Lei Jufang,70,Female,China,Lanzhou,Healthcare,True,Decreased
+1725,1,James Leininger,78,Male,United States,San Antonio,Healthcare,True,Remained Even
+1725,1,Xuhui Li,54,Female,China,Foshan,Food & Beverage,True,Decreased
+1725,1,Jimmy John Liautaud,59,Male,United States,Key Largo,Food & Beverage,True,Remained Even
+1725,1,Lin Lairong & family,54,Male,China,Bayannur,Metals & Mining,True,Decreased
+1725,1,Duncan MacMillan,85,Male,United States,Princeton,Finance & Investments,True,Increased
+1725,1,Yusaku Maezawa,47,Male,Japan,Chiba,Technology,True,Decreased
+1725,1,Ilson Mateus & family,60,Male,Brazil,Sao Luis,Fashion & Retail,True,Increased
+1725,1,Meng Qingshan & family,74,Male,China,Langfang,Manufacturing,True,Increased
+1725,1,Alberto Palatchi,73,Male,Spain,Madrid,Fashion & Retail,True,Remained Even
+1725,1,Mrudula Parekh,75,Female,India,Mumbai,Manufacturing,False,Decreased
+1725,1,Dragos Paval,56,Male,Romania,Bacau,Fashion & Retail,True,Increased
+1725,1,Jorge Perez,73,Male,United States,Miami,Real Estate,True,Remained Even
+1725,1,Dmitry Pumpyansky,59,Male,Russia,Moscow,Metals & Mining,True,Returned to List
+1725,1,Jinsheng Ren & family,60,Male,China,Nanjing,Healthcare,True,Increased
+1725,1,Brian Roberts,63,Male,United States,Philadelphia,Media & Entertainment,False,Increased
+1725,1,"Joe Rogers, Jr.",76,Male,United States,Atlanta,Food & Beverage,False,Decreased
+1725,1,Ruan Shuilong & family,87,Male,China,Shangyu,Manufacturing,True,Decreased
+1725,1,Paul Saville,67,Male,United States,Palm Beach,Real Estate,True,Increased
+1725,1,Ivan Savvidis & family,64,Male,Russia,Rostov-on-Don,Diversified,True,Increased
+1725,1,Keiichi Shibahara,58,Male,Japan,Tokyo,Healthcare,True,Increased
+1725,1,Rajju Shroff,89,Male,India,Mumbai,Manufacturing,True,Decreased
+1725,1,Sun Huaiqing & family,53,Male,China,Guangzhou,Fashion & Retail,True,Increased
+1725,1,Alain Taravella,75,Male,France,Paris,Real Estate,True,Decreased
+1725,1,Jonathan Tisch,69,Male,United States,New York,Diversified,False,Increased
+1725,1,Kenneth Tuchman,63,Male,United States,Denver,Service,True,Decreased
+1725,1,Wang Chou-hsiong,82,Male,Taiwan,Yunlin,Manufacturing,True,Decreased
+1725,1,Wang Minwen,59,Male,China,Beijing,Technology,True,Decreased
+1725,1,Tom Werner,72,Male,United States,Los Angeles,Sports,True,Increased
+1725,1,Stephen Winn,76,Male,United States,Dallas,Real Estate,True,Remained Even
+1725,1,Ian Wood & family,80,Male,United Kingdom,Aberdeen,Energy,False,Remained Even
+1725,1,Wu Lanlan & family,49,Female,China,Shenzhen,Manufacturing,True,Decreased
+1725,1,Xu Bingzhong,49,Male,China,Shenzhen,Food & Beverage,True,Increased
+1725,1,Yang Xuegang,58,Male,China,Beijing,Manufacturing,True,Decreased
+1725,1,Vladimir Yevtushenkov,74,Male,Russia,Moscow,Telecom,True,Remained Even
+1725,1,David Zalik,49,Male,United States,Atlanta,Technology,True,Decreased
+1725,1,Zhang Xiaojuan,53,Female,China,Shanghai,Logistics,True,Decreased
+1725,1,Zheng Xiaodong,59,Male,China,Shanghai,Manufacturing,True,Decreased
+1725,1,Zhong Ruonong & family,60,Female,China,Zhuzhou,Manufacturing,True,Decreased
+1804,1,Noubar Afeyan,60,Male,United States,Lexington,Healthcare,True,Decreased
+1804,1,Syed Mokhtar AlBukhary,71,Male,Malaysia,Kuala Lumpur,Construction & Engineering,True,Increased
+1804,1,"Herbert Allen, Jr. & family",83,Male,United States,New York,Finance & Investments,False,Remained Even
+1804,1,Clifford Asness,56,Male,United States,Greenwich,Finance & Investments,True,Remained Even
+1804,1,Louis Bacon,66,Male,United States,Oyster Bay,Finance & Investments,True,Remained Even
+1804,1,Bai Baokun,53,Male,China,Dongguan,Manufacturing,True,Decreased
+1804,1,Christian Birkenstock,50,Male,Germany,Kitzbuhel,Fashion & Retail,False,Decreased
+1804,1,Josef Boquoi & family,89,Male,Germany,Straelen,Food & Beverage,True,Decreased
+1804,1,Chen Tianshi,38,Male,China,Beijing,Technology,True,Remained Even
+1804,1,Chen Yung-tai,87,Male,Taiwan,Taipei,Real Estate,True,Decreased
+1804,1,Chey Tae-won,62,Male,South Korea,Seoul,Technology,False,Decreased
+1804,1,Ivan Chrenko,55,Male,Slovakia,Bratislava,Real Estate,True,Decreased
+1804,1,Robert Clark,64,Male,United States,St. Louis,Construction & Engineering,True,Remained Even
+1804,1,Jack Cockwell,82,Male,Canada,Toronto,Finance & Investments,True,Decreased
+1804,1,Tench Coxe,65,Male,United States,Palo Alto,Finance & Investments,True,Decreased
+1804,1,Jim Crane,69,Male,United States,Houston,Sports,True,Increased
+1804,1,Norbert Dentressangle,68,Male,France,Lyon,Logistics,True,Decreased
+1804,1,Jamie Dimon,67,Male,United States,New York,Finance & Investments,True,Remained Even
+1804,1,Daniel Dines,51,Male,Romania,New York,Technology,True,Decreased
+1804,1,Alfredo Egydio Arruda Villela Filho,53,Male,Brazil,Sao Paulo,Finance & Investments,False,Decreased
+1804,1,Gary Fegel,49,Male,Switzerland,Gstaad,Metals & Mining,True,Remained Even
+1804,1,"William Foley, II.",78,Male,United States,Las Vegas,Finance & Investments,True,Increased
+1804,1,Richard Fortin,74,Male,Canada,Boucherville,Fashion & Retail,True,Increased
+1804,1,Gao Yi & family,54,Male,China,Changsha,Healthcare,True,Increased
+1804,1,Giammaria Giuliani,45,Male,Switzerland,Montagnola,Healthcare,False,Decreased
+1804,1,Bill Gross,78,Male,United States,Laguna Beach,Finance & Investments,True,Remained Even
+1804,1,Sue Gross,73,Female,United States,Laguna Beach,Finance & Investments,False,Remained Even
+1804,1,Timothy Headington,72,Male,United States,Dallas,Energy,False,Increased
+1804,1,Ilona Herlin,58,Female,Finland,Helsinki,Manufacturing,False,Increased
+1804,1,David Hoffmann,70,Male,United States,Naples,Diversified,True,Increased
+1804,1,Stanley Hubbard,89,Male,United States,St. Paul,Media & Entertainment,False,Decreased
+1804,1,Hui Lin Chit,69,Male,China,Jinjiang,Manufacturing,True,Decreased
+1804,1,Tianjiang Jia & family,60,Male,China,Yinchuan,Metals & Mining,True,Decreased
+1804,1,Zhaobai Jiang,59,Male,China,Shanghai,Real Estate,True,Decreased
+1804,1,Sergei Katsiev,65,Male,Russia,Moscow,Fashion & Retail,True,Returned to List
+1804,1,Randal J. Kirk,69,Male,United States,Manalapan,Healthcare,True,Remained Even
+1804,1,William Koch,82,Male,United States,Palm Beach,Energy,False,Remained Even
+1804,1,Pyotr Kondrashev,73,Male,Russia,Wien,Manufacturing,True,Increased
+1804,1,Eiichi Kuriwada,76,Male,Japan,Osaka,Logistics,True,Decreased
+1804,1,Robert Langer,74,Male,United States,Boston,Healthcare,True,Remained Even
+1804,1,Anthony Langley,68,Male,United Kingdom,Nottinghamshire,Diversified,True,Decreased
+1804,1,Li Sze Lim,66,Male,Hong Kong,Guangzhou,Real Estate,True,Remained Even
+1804,1,Li Wa,57,Male,Hong Kong,Shenzhen,Real Estate,True,Decreased
+1804,1,Li Weiwei,46,Male,China,Shanghai,Technology,True,Decreased
+1804,1,Liang Qin & family,51,Female,China,Yangzhou,Technology,True,Decreased
+1804,1,Vincent Lo,75,Male,Hong Kong,Hong Kong,Real Estate,False,Remained Even
+1804,1,Terence (Terry) Matthews,80,Male,Canada,Ottawa,Telecom,True,Remained Even
+1804,1,Jim McKelvey,57,Male,United States,St. Louis,Technology,True,Decreased
+1804,1,P.N.C. Menon,74,Male,Oman,Dubai,Real Estate,True,Returned to List
+1804,1,Massimo Moratti,77,Male,Italy,Milan,Energy,False,Increased
+1804,1,Liora Ofer,69,Female,Israel,Tel Aviv,Finance & Investments,False,Decreased
+1804,1,Stefan Pierer,66,Male,Austria,Wels,Automotive,True,Increased
+1804,1,Andreas Pohl,58,Male,Germany,Marburg,Finance & Investments,False,Increased
+1804,1,"Reinfried Pohl, Jr.",63,Male,Germany,Marburg,Finance & Investments,False,Increased
+1804,1,Michael Polsky,74,Male,United States,Chicago,Energy,True,Increased
+1804,1,Francisco Jose Riberas Mera,58,Male,Spain,Madrid,Manufacturing,False,Increased
+1804,1,Juan Maria Riberas Mera,54,Male,Spain,Madrid,Metals & Mining,False,Returned to List
+1804,1,Andres Santo Domingo,44,Male,United States,New York,Food & Beverage,False,Remained Even
+1804,1,Sathien Sathientham,68,Male,Thailand,Bangkok,Food & Beverage,True,Remained Even
+1804,1,Shang Xiaobo & family,49,Male,China,Hefei,Manufacturing,True,Decreased
+1804,1,Yuri Shefler,55,Male,Russia,Geneva,Food & Beverage,True,Increased
+1804,1,Evgeny (Eugene) Shvidler,59,Male,United States,London,Metals & Mining,True,Remained Even
+1804,1,Ryan Smith,44,Male,United States,Provo,Technology,True,Remained Even
+1804,1,Zakhar Smushkin,61,Male,Russia,Saint Petersburg,Diversified,True,Returned to List
+1804,1,Peter Sperling,63,Male,United States,Phoenix,Service,False,Remained Even
+1804,1,Laurie Tisch,72,Female,United States,New York,Diversified,False,Increased
+1804,1,Steven Tisch,74,Male,United States,Beverly Hills,Diversified,False,Increased
+1804,1,Michael Tojner,57,Male,Austria,Vienna,Manufacturing,True,Decreased
+1804,1,August Troendle,67,Male,United States,Cincinnati,Healthcare,True,Increased
+1804,1,Sekar Vembu,51,Male,India,Chennai,Technology,True,Increased
+1804,1,Chris Wallin,70,Male,Australia,Brisbane,Energy,True,Returned to List
+1804,1,Wang Changtian,57,Male,China,Beijing,Media & Entertainment,True,Decreased
+1804,1,Ning Wang & family,36,Male,China,Beijing,Media & Entertainment,True,Decreased
+1804,1,Scott Watterson,67,Male,United States,Logan,Technology,True,Remained Even
+1804,1,Dan Wilks,66,Male,United States,Cisco,Energy,True,Increased
+1804,1,Anthony Wood,57,Male,United States,Palo Alto,Technology,True,Decreased
+1804,1,Wu Ying,58,Male,China,Xianyang,Manufacturing,True,Decreased
+1804,1,Wu Yulan,53,Female,China,Lianyungang,Healthcare,True,Decreased
+1804,1,Zhongyi Wu,49,Male,China,Xiamen,Technology,True,Decreased
+1804,1,Xiang Guangming & family,59,Male,China,Wenzhou,Manufacturing,True,Decreased
+1804,1,Xue Xiangdong & family,64,Male,China,Beijing,Technology,True,Decreased
+1804,1,George Yancopoulos,63,Male,United States,Yorktown Heights,Healthcare,True,Increased
+1804,1,Steven Meng Yang & family,40,Male,China,Changsha,Technology,True,Decreased
+1804,1,Ye Fan & family,52,Male,China,Dongguan,Automotive,True,Decreased
+1804,1,Yi Dasheng,62,Male,China,Changsha,Diversified,True,Decreased
+1804,1,Yu Lili,55,Female,China,Changsha,Manufacturing,True,Decreased
+1804,1,Zeng Kaitian,48,Male,China,Shanghai,Technology,True,Decreased
+1804,1,Zhang Xuexin & family,75,Male,China,Liaocheng,Metals & Mining,True,Decreased
+1804,1,Yubai Zhang,58,Male,China,Suqian,Food & Beverage,True,Decreased
+1804,1,Fredrik Österberg,52,Male,Sweden,Stockholm,Gambling & Casinos,True,Increased
+1905,1,Aziz Akhannouch & family,62,Male,Morocco,Casablanca,Diversified,False,Decreased
+1905,1,Hamdi Akin & family,68,Male,Turkey,Istanbul,Diversified,True,Remained Even
+1905,1,Nerio Alessandri,61,Male,Italy,Cesena,Manufacturing,True,Increased
+1905,1,Alexandra Andresen,26,Female,Norway,Oslo,Diversified,False,Increased
+1905,1,Katharina Andresen,27,Female,Norway,Oslo,Diversified,False,Increased
+1905,1,Patricia Angelini Rossi,68,Female,Chile,Santiago,Diversified,False,Increased
+1905,1,Mori Arkin,70,Male,Israel,Herzliya Pituach,Healthcare,True,Decreased
+1905,1,Barbara Benetton,53,Female,Italy,Campodoro,Fashion & Retail,False,Increased
+1905,1,Angela Bennett,79,Female,Australia,Perth,Metals & Mining,False,Increased
+1905,1,Zadik Bino & family,79,Male,Israel,Tel Aviv,Diversified,True,Decreased
+1905,1,Paolo Bulgari,85,Male,Italy,Rome,Fashion & Retail,False,Remained Even
+1905,1,Saket Burman,46,Male,United Kingdom,Dubai,Food & Beverage,False,Decreased
+1905,1,Ahmet Calik,65,Male,Turkey,Istanbul,Diversified,True,Remained Even
+1905,1,Safra Catz,61,Female,United States,Redwood City,Technology,True,Remained Even
+1905,1,Chang Kuo-Hua,68,Male,Taiwan,Taipei,Logistics,False,Decreased
+1905,1,Chu Jian,60,Male,China,Hangzhou,Manufacturing,True,Increased
+1905,1,Sandor Csanyi,70,Male,Hungary,Budapest,Diversified,True,Increased
+1905,1,Ana Lucia de Mattos Barretto Villela,49,Female,Brazil,Sao Paulo,Finance & Investments,False,Decreased
+1905,1,Federico De Nora,55,Male,Italy,Milan,Manufacturing,False,Decreased
+1905,1,Bharat Desai,70,Male,United States,Fisher Island,Technology,True,Remained Even
+1905,1,Mohammed Dewji,47,Male,Tanzania,Dar es Salaam,Diversified,False,Remained Even
+1905,1,Egon Durban,49,Male,United States,Atherton,Finance & Investments,True,Remained Even
+1905,1,Fu Mingkang & family,60,Male,China,Ningbo,Manufacturing,True,Decreased
+1905,1,Alan Gerry,94,Male,United States,Liberty,Media & Entertainment,True,Remained Even
+1905,1,Philippe Ginestet & family,69,Male,France,Pujols,Fashion & Retail,True,Decreased
+1905,1,G. Gnanalingam,78,Male,Malaysia,Kuala Lumpur,Logistics,True,Decreased
+1905,1,Esther Grether,87,Female,Switzerland,Basel,Fashion & Retail,False,Remained Even
+1905,1,Wei Gu,58,Male,China,Shenzhen,Manufacturing,True,Remained Even
+1905,1,Patrick Hanrahan,67,Male,United States,Portola Valley,Technology,True,Decreased
+1905,1,Kenneth Hao,54,Male,United States,Hillsborough,Finance & Investments,True,Remained Even
+1905,1,Jaroslav Hascak & family,53,Male,Slovakia,Bratislava,Finance & Investments,True,Increased
+1905,1,He Zhenggang,69,Male,China,Leshan,Manufacturing,True,Decreased
+1905,1,Niranjan Hiranandani,73,Male,India,Mumbai,Real Estate,True,Remained Even
+1905,1,Ho Hung Anh,52,Male,Vietnam,Hanoi,Finance & Investments,True,Decreased
+1905,1,Archie Hwang,70,Male,Taiwan,Taipei,Technology,True,Decreased
+1905,1,Peter Jackson,61,Male,New Zealand,Wellington,Media & Entertainment,True,Remained Even
+1905,1,Stephen Jarislowsky,97,Male,Canada,Montreal,Finance & Investments,True,Decreased
+1905,1,Rajeev Juneja,57,Male,India,Delhi,Healthcare,True,Increased
+1905,1,Ramesh Juneja,67,Male,India,Delhi,Healthcare,True,Increased
+1905,1,Ke Xiping & family,62,Male,China,Xiamen,Diversified,True,Remained Even
+1905,1,Kim Jun-ki,78,Male,South Korea,Seoul,Diversified,True,Increased
+1905,1,Sidney Kimmel,95,Male,United States,New York,Fashion & Retail,True,Remained Even
+1905,1,Jim Koch,73,Male,United States,Newton,Food & Beverage,True,Decreased
+1905,1,Spiro Latsis & family,76,Male,Greece,Geneva,Diversified,False,Returned to List
+1905,1,Peter Leibinger,56,Male,Germany,Schwieberdingen,Manufacturing,False,Decreased
+1905,1,Regine Leibinger,60,Female,Germany,Berlin,Manufacturing,False,Decreased
+1905,1,Nicola Leibinger-Kammueller,63,Female,Germany,Berlin,Manufacturing,False,Decreased
+1905,1,Li Jianli,50,Male,China,Shenzhen,Manufacturing,True,Decreased
+1905,1,Li Jiaquan,59,Male,China,Chengdu,Manufacturing,True,Decreased
+1905,1,Li Rucheng,71,Male,China,Ningbo,Fashion & Retail,True,Decreased
+1905,1,Li Shui-po,66,Male,Taiwan,Kunshan,Manufacturing,True,Increased
+1905,1,Scott Lin,90,Male,Taiwan,Taichung,Technology,True,Increased
+1905,1,Liu Xiucai & family,66,Male,United States,Shanghai,Manufacturing,True,Decreased
+1905,1,Lu Zhongfang,80,Female,China,Tonghua,Automotive,True,Decreased
+1905,1,Lu Zongjun,59,Male,China,Shanghai,Logistics,True,Decreased
+1905,1,Youssef Mansour,77,Male,Egypt,Cairo,Diversified,True,Remained Even
+1905,1,Bruce Mathieson,79,Male,Australia,Gold Coast,Real Estate,True,Decreased
+1905,1,Romano Minozzi,88,Male,Italy,Spilamberto,Diversified,True,Decreased
+1905,1,Greg Mondre,48,Male,United States,New York,Finance & Investments,True,Remained Even
+1905,1,Mario Moretti Polegato & family,70,Male,Italy,Crocetta del Montello,Fashion & Retail,True,Decreased
+1905,1,Robert Mouawad,78,Male,Lebanon,Manama,Service,False,Remained Even
+1905,1,Jerry Moyes & family,79,Male,United States,Tolleson,Logistics,True,Increased
+1905,1,John Ocampo,63,Male,United States,Los Altos,Technology,True,Increased
+1905,1,Stefan Olsson,74,Male,Sweden,London,Diversified,False,Increased
+1905,1,Rubens Ometto Silveira Mello,73,Male,Brazil,Sao Paulo,Energy,False,Decreased
+1905,1,Nelson Peltz,80,Male,United States,Bedford,Finance & Investments,True,Decreased
+1905,1,David Penaloza Alanis,49,Male,Mexico,Mexico City,Construction & Engineering,False,Increased
+1905,1,Karl-Johan Persson,48,Male,Sweden,Stockholm,Fashion & Retail,False,Remained Even
+1905,1,Mike Repole,55,Male,United States,Windermere,Food & Beverage,True,Remained Even
+1905,1,Duke Reyes,66,Male,United States,Palm Beach,Food & Beverage,False,Increased
+1905,1,Christopher Rokos,52,Male,United Kingdom,London,Finance & Investments,True,Remained Even
+1905,1,Sheryl Sandberg,53,Female,United States,Menlo Park,Technology,True,Decreased
+1905,1,Amnon Shashua,62,Male,Israel,Kfar Shmaryahu,Automotive,True,Remained Even
+1905,1,Ben Silbermann,40,Male,United States,San Francisco,Media & Entertainment,True,Increased
+1905,1,Ron Sim,64,Male,Singapore,Singapore,Fashion & Retail,True,Increased
+1905,1,Leonid Simanovsky,73,Male,Russia,Moscow,Finance & Investments,True,Returned to List
+1905,1,Basudeo Singh,82,Male,India,Mumbai,Healthcare,True,Decreased
+1905,1,Frank Slootman,64,Male,United States,Pleasanton,Technology,True,Decreased
+1905,1,Terry Snow,79,Male,Australia,Canberra,Real Estate,True,Increased
+1905,1,Axel Stawski,72,Male,United States,Sagaponack,Real Estate,True,Increased
+1905,1,Thomas Steyer,65,Male,United States,San Francisco,Finance & Investments,True,Remained Even
+1905,1,Sergei Studennikov & family,56,Male,Russia,Moscow,Fashion & Retail,True,Returned to List
+1905,1,Su Suyu & family,74,Female,China,Shantou,Real Estate,True,Decreased
+1905,1,Kevin Systrom,39,Male,United States,San Francisco,Technology,True,Remained Even
+1905,1,Tang Binsen,40,Male,China,Beijing,Food & Beverage,True,Remained Even
+1905,1,Prachak Tangkaravakoon,79,Male,Thailand,Bangkok,Manufacturing,True,Increased
+1905,1,Jeff Tangney,50,Male,United States,Palo Alto,Healthcare,True,Decreased
+1905,1,Yuequn Tao,63,Male,China,Hefei,Fashion & Retail,True,Decreased
+1905,1,David Teoh,67,Male,Australia,Sydney,Telecom,True,Decreased
+1905,1,Tran Ba Duong & family,63,Male,Vietnam,Ho Chi Minh City,Automotive,True,Decreased
+1905,1,Kenny Troutt,75,Male,United States,Dallas,Telecom,True,Remained Even
+1905,1,Jens von Bahr,52,Male,Sweden,Stockholm,Gambling & Casinos,True,Increased
+1905,1,Wang Junmin,54,Male,China,Chengdu,Healthcare,True,Increased
+1905,1,Weng Xianding,61,Male,China,Shenzhen,Healthcare,True,Increased
+1905,1,Farris Wilks,71,Male,United States,Cisco,Energy,True,Increased
+1905,1,Gordon Wu,87,Male,Hong Kong,Hong Kong,Real Estate,True,Decreased
+1905,1,Xiong Wu,47,Male,China,Shenzhen,Technology,True,Remained Even
+1905,1,Xu Zhihan,50,Male,China,Wuxi,Technology,True,Decreased
+1905,1,Tingdong Yang,62,Male,China,Suqian,Food & Beverage,True,Decreased
+1905,1,Michael Minhong Yu,61,Male,China,Beijing,Service,True,Returned to List
+1905,1,Zhang Bangxin,43,Male,China,Beijing,Service,True,Returned to List
+1905,1,Zhou Zongwen & family,66,Male,China,Shenzhen,Fashion & Retail,True,Decreased
+2020,1,Antti Aarnio-Wihuri,83,Male,Finland,Helsinki,Diversified,False,Decreased
+2020,1,Alberto Alcocer,80,Male,Spain,Madrid,Finance & Investments,True,Increased
+2020,1,Nigel Austin,52,Male,Australia,Melbourne,Fashion & Retail,True,Decreased
+2020,1,Binny Bansal,40,Male,India,Singapore,Technology,True,Increased
+2020,1,Girdhari Lal Bawri,75,Male,India,Mumbai,Healthcare,True,Decreased
+2020,1,John Bloor,79,Male,United Kingdom,Aberdyfi,Diversified,True,Decreased
+2020,1,Vladimir Bogdanov,71,Male,Russia,Surgut,Energy,True,Returned to List
+2020,1,Amit Burman,53,Male,India,Delhi,Food & Beverage,False,Decreased
+2020,1,Steve Case,64,Male,United States,McLean,Technology,True,Decreased
+2020,1,Chen Wenyuan & family,55,Male,China,Suzhou,Technology,True,Remained Even
+2020,1,Chua Thian Poh,74,Male,Singapore,Singapore,Real Estate,True,Increased
+2020,1,Sasson Dayan & family,83,Male,Brazil,Sao Paulo,Finance & Investments,True,Increased
+2020,1,John Farber,97,Male,United States,New York,Manufacturing,True,Decreased
+2020,1,J. Christopher Flowers,65,Male,United States,Palm Beach,Finance & Investments,True,Increased
+2020,1,Reinold Geiger,75,Male,Austria,Geneva,Fashion & Retail,True,Decreased
+2020,1,Ali Ghodsi,44,Male,Sweden,San Francisco,Technology,True,Decreased
+2020,1,Lance Gokongwei,55,Male,Philippines,Manila,Diversified,False,Decreased
+2020,1,Guan Yihong,53,Male,China,Guangzhou,Food & Beverage,True,Increased
+2020,1,Rajinder Gupta,64,Male,India,Ludhiana,Manufacturing,True,Decreased
+2020,1,Torstein Hagen,80,Male,Norway,Lucerne,Service,True,Decreased
+2020,1,Ayman Hariri,44,Male,Lebanon,Paris,Construction & Engineering,False,Remained Even
+2020,1,Alfredo Harp Helu & family,79,Male,Mexico,Mexico City,Finance & Investments,True,Increased
+2020,1,He Xiaopeng,45,Male,China,Guangzhou,Automotive,True,Decreased
+2020,1,Christoph Henkel,65,Male,Germany,London,Fashion & Retail,False,Remained Even
+2020,1,Daniel Hirschfeld,81,Male,United States,Kearney,Fashion & Retail,False,Remained Even
+2020,1,Drew Houston,40,Male,United States,Austin,Technology,True,Decreased
+2020,1,Huang Jinxiang & family,58,Male,China,Xuancheng,Manufacturing,True,Increased
+2020,1,Rameshchandra Jain,74,Male,India,Mumbai,Manufacturing,True,Increased
+2020,1,Ke Zunhong & family,68,Male,China,Chengdu,Healthcare,True,Decreased
+2020,1,Kim Taek-jin,56,Male,South Korea,Seoul,Media & Entertainment,True,Decreased
+2020,1,Koh Wee Meng,59,Male,Singapore,Singapore,Real Estate,True,Increased
+2020,1,Sergei Kolesnikov,51,Male,Russia,Moscow,Manufacturing,True,Increased
+2020,1,Hemendra Kothari,76,Male,India,Mumbai,Finance & Investments,False,Decreased
+2020,1,Kwek Leng Peck,67,Male,Singapore,Singapore,Diversified,False,Increased
+2020,1,Raymond Kwok,69,Male,Hong Kong,Hong Kong,Real Estate,False,Increased
+2020,1,Lee Ho-jin,60,Male,South Korea,Seoul,Diversified,False,Increased
+2020,1,Michael Lee-Chin,72,Male,Canada,Burlington,Finance & Investments,True,Decreased
+2020,1,Manfredi Lefebvre d'Ovidio & family,69,Male,Italy,Monte Carlo,Service,False,Decreased
+2020,1,Bernard Lewis & family,97,Male,United Kingdom,London,Fashion & Retail,True,Increased
+2020,1,William Li,48,Male,China,Beijing,Automotive,True,Decreased
+2020,1,Jenny Lindén Urnes,52,Female,Sweden,Helsingborg,Manufacturing,False,Remained Even
+2020,1,Liu Fangyi,53,Male,China,Shanghai,Healthcare,True,Decreased
+2020,1,K.C. Liu,69,Male,Taiwan,Taipei,Technology,True,Decreased
+2020,1,Liu Ming Chung,60,Male,Brazil,Hong Kong,Manufacturing,True,Decreased
+2020,1,Anatoly Lomakin,70,Male,Russia,Moscow,Metals & Mining,True,Remained Even
+2020,1,Brandt Louie,79,Male,Canada,Vancouver,Food & Beverage,False,Decreased
+2020,1,Gary Magness,69,Male,United States,Denver,Media & Entertainment,False,Remained Even
+2020,1,Mao Lixiang & family,82,Male,China,Ningbo,Technology,True,Decreased
+2020,1,David McMurtry,82,Male,United Kingdom,Wotton-under-Edge,Manufacturing,True,Decreased
+2020,1,Deepak Mehta,66,Male,India,Vadodara,Manufacturing,False,Decreased
+2020,1,Miao Shouliang,68,Male,China,Shenzhen,Real Estate,True,Decreased
+2020,1,Miao Yongjun,55,Male,China,Zhengzhou,Healthcare,True,Increased
+2020,1,Yoshiko Mori,82,Female,Japan,Tokyo,Real Estate,False,Increased
+2020,1,Marius Nacht,57,Male,Israel,Tel Aviv,Technology,True,Remained Even
+2020,1,Vadim Novinsky,59,Male,Ukraine,Kiev,Metals & Mining,True,Increased
+2020,1,Niti Osathanugrah,49,Male,Thailand,Bangkok,Finance & Investments,False,Decreased
+2020,1,Gretel Packer,57,Female,Australia,Sydney,Finance & Investments,False,Decreased
+2020,1,David Paul,56,Male,United States,Audubon,Healthcare,True,Decreased
+2020,1,Tom Persson,38,Male,Sweden,Stockholm,Fashion & Retail,False,Decreased
+2020,1,Qian Jinghong,50,Female,China,Wuxi,Automotive,True,Returned to List
+2020,1,Qin Long,57,Male,China,Qingdao,Manufacturing,True,Decreased
+2020,1,M.Satyanarayana Reddy,65,Male,India,Hyderabad,Healthcare,True,Decreased
+2020,1,Mochtar Riady & family,93,Male,Indonesia,Jakarta,Diversified,True,Decreased
+2020,1,Rihanna,35,Female,Barbados,Los Angeles,Fashion & Retail,True,Decreased
+2020,1,Boris Rotenberg,66,Male,Russia,Moscow,Construction & Engineering,True,Increased
+2020,1,Subhash Runwal,79,Male,India,Mumbai,Real Estate,True,Remained Even
+2020,1,Igor Rybakov,50,Male,Russia,Moscow,Manufacturing,True,Increased
+2020,1,Carlos Sanchez,61,Male,Brazil,Santo Andre,Healthcare,False,Remained Even
+2020,1,Martin Selig,85,Male,United States,Seattle,Real Estate,True,Remained Even
+2020,1,Airat Shaimiev,61,Male,Russia,Kazan,Energy,True,Increased
+2020,1,Radik Shaimiev,58,Male,Russia,Kazan,Energy,True,Increased
+2020,1,Nobutoshi Shimamura,97,Male,Japan,Saitama,Fashion & Retail,True,Increased
+2020,1,Jared Smith,48,Male,United States,Provo,Technology,True,Remained Even
+2020,1,Charlotte Soderstrom,46,Female,Sweden,Stockholm,Fashion & Retail,False,Decreased
+2020,1,Anand Surana,52,Male,India,Bangalore,Healthcare,False,Decreased
+2020,1,Dilip Surana,57,Male,India,Bangalore,Healthcare,False,Decreased
+2020,1,Wilma Tisch,95,Female,United States,New York,Finance & Investments,False,Decreased
+2020,1,Jianyi Wang,60,Male,China,Hangzhou,Technology,True,Increased
+2020,1,Wang Jilei,58,Male,China,Shanghai,Logistics,True,Increased
+2020,1,Shuifu Wang,68,Male,China,Hangzhou,Manufacturing,True,Decreased
+2020,1,Wang Yanqing & family,76,Female,China,Weihai,Manufacturing,False,Decreased
+2020,1,Wang Zelong,26,Male,China,Jiaozuo,Metals & Mining,False,Decreased
+2020,1,Werner O. Weber,84,Male,Switzerland,Zurich,Manufacturing,True,Remained Even
+2020,1,Anne Werninghaus,37,Female,Brazil,Joinville,Manufacturing,False,Increased
+2020,1,"Alfred West, Jr.",80,Male,United States,Paoli,Finance & Investments,True,Increased
+2020,1,Bo Wu,68,Male,China,Nanjing,Manufacturing,True,Remained Even
+2020,1,Wu Chaoqun,53,Male,China,Meishan,Manufacturing,True,Increased
+2020,1,Swift Xie,43,Male,China,Shenzhen,Technology,True,Remained Even
+2020,1,Xu Guozhong & family,59,Male,China,Changzhou,Manufacturing,True,Decreased
+2020,1,Yao Kuizhang,58,Male,China,Hengshui,Food & Beverage,True,Decreased
+2020,1,Yu Peidi,63,Male,Hong Kong,Shanghai,Real Estate,True,Decreased
+2020,1,Yuan Liping,52,Female,Canada,Shenzhen,Healthcare,False,Decreased
+2020,1,Zhang Chuanwei & family,60,Male,China,Zhongshan,Manufacturing,True,Decreased
+2020,1,Zhang Keqiang,62,Male,China,Guangzhou,Real Estate,True,Decreased
+2020,1,Xinghai Zhang & family,60,Male,China,Chongqing,Manufacturing,True,Decreased
+2020,1,Zheng Jianjiang & family,62,Male,China,Ningbo,Manufacturing,True,Decreased
+2020,1,Zhong Sheng Jian,65,Male,Singapore,Singapore,Real Estate,True,Decreased
+2020,1,Zhou Chengjian,57,Male,China,Shanghai,Fashion & Retail,True,Decreased
+2020,1,Boris Zingarevich,63,Male,Russia,Saint Petersburg,Diversified,True,Returned to List
+2133,1,A. Jayson Adair,53,Male,United States,Dallas,Automotive,True,Increased
+2133,1,Soegiarto Adikoesoemo,85,Male,Indonesia,Surabaya,Logistics,True,Returned to List
+2133,1,Rajendra Agarwal,64,Male,India,Mumbai,Healthcare,True,Decreased
+2133,1,Chirayu Amin,76,Male,India,Baroda,Healthcare,False,Decreased
+2133,1,Anant Asavabhokhin,72,Male,Thailand,Bangkok,Real Estate,True,Remained Even
+2133,1,Roman Avdeev,55,Male,Russia,Moscow,Finance & Investments,True,Returned to List
+2133,1,Ziv Aviram,64,Male,Israel,Mevaseret Zion,Automotive,True,Decreased
+2133,1,Sachin Bansal,41,Male,India,Bangalore,Fashion & Retail,True,Remained Even
+2133,1,Kiki Barki,83,Male,Indonesia,Jakarta,Energy,True,Decreased
+2133,1,Elena Baturina,60,Female,Russia,London,Construction & Engineering,True,Decreased
+2133,1,Banwari Lal Bawri,70,Male,India,Mumbai,Healthcare,True,Decreased
+2133,1,Othman Benjelloun & family,90,Male,Morocco,Casablanca,Finance & Investments,False,Remained Even
+2133,1,Hari Bhartia,66,Male,India,Delhi,Diversified,False,Decreased
+2133,1,Shyam Bhartia,70,Male,India,Delhi,Healthcare,False,Decreased
+2133,1,Stewart Butterfield,50,Male,Canada,Aspen,Technology,True,Decreased
+2133,1,Cai Mingtong,71,Male,China,Quanzhou,Technology,True,Decreased
+2133,1,Anthony Casalena,40,Male,United States,Monkton,Technology,True,Remained Even
+2133,1,Richard Chang,76,Male,Taiwan,Taipei,Real Estate,True,Decreased
+2133,1,Chen Xuehua,62,Male,China,Tongxiang,Metals & Mining,True,Decreased
+2133,1,Chin Jong Hwa,64,Male,Taiwan,Taoyuan,Automotive,True,Decreased
+2133,1,Alberto Cortina,77,Male,Spain,Madrid,Finance & Investments,True,Remained Even
+2133,1,Eduardo Costantini,76,Male,Argentina,Buenos Aires,Real Estate,True,Decreased
+2133,1,Wenjun Dai,54,Male,China,Changsha,Food & Beverage,True,Decreased
+2133,1,Anand Deshpande,60,Male,India,Pune,Technology,True,Remained Even
+2133,1,Aydin Dogan,86,Male,Turkey,Istanbul,Media & Entertainment,True,Increased
+2133,1,Weimin Du,59,Male,China,Shenzhen,Healthcare,True,Decreased
+2133,1,Philip Fayer,45,Male,Canada,Montreal,Finance & Investments,True,Decreased
+2133,1,Marvy Finger,87,Male,United States,Houston,Real Estate,True,Remained Even
+2133,1,Simona Giorgetta,45,Female,Italy,Milan,Construction & Engineering,False,Remained Even
+2133,1,He Zhiping,59,Male,China,Shenzhen,Finance & Investments,True,Decreased
+2133,1,Heikki Herlin,36,Male,Finland,Helsinki,Manufacturing,False,Increased
+2133,1,Hoi Kin Hong,70,Male,Macau,Shanghai,Real Estate,True,Decreased
+2133,1,Mitchell Jacobson,72,Male,United States,Locust Valley,Service,False,Remained Even
+2133,1,Anurang Jain,61,Male,India,Aurangabad,Manufacturing,True,Decreased
+2133,1,Jiang Guiting & family,64,Male,China,Dezhou,Manufacturing,True,Remained Even
+2133,1,Jin Xin,56,Male,China,Fuxin,Manufacturing,True,Decreased
+2133,1,Conni Jonsson,62,Male,Sweden,Stockholm,Finance & Investments,True,Decreased
+2133,1,George Joseph,101,Male,United States,Los Angeles,Finance & Investments,True,Decreased
+2133,1,Laurent Junique,57,Male,France,Singapore,Technology,True,Increased
+2133,1,Zbigniew Juroszek & family,60,Male,Poland,Cieszyn,Diversified,True,Increased
+2133,1,Alexander Karp,55,Male,United States,Palo Alto,Technology,True,Increased
+2133,1,Seth Klarman,65,Male,United States,Chestnut Hill,Finance & Investments,True,Decreased
+2133,1,Kagemasa Kozuki,82,Male,Japan,Tokyo,Technology,True,Decreased
+2133,1,Michael Krasny,69,Male,United States,Highland Park,Technology,True,Remained Even
+2133,1,Eduard Kucera,70,Male,Czech Republic,Prague,Technology,True,Decreased
+2133,1,Kristo Käärmann,42,Male,Estonia,London,Finance & Investments,True,Increased
+2133,1,Gary Lauder,60,Male,United States,Atherton,Fashion & Retail,False,Decreased
+2133,1,Lee Hae-jin,55,Male,South Korea,Seoul,Technology,True,Decreased
+2133,1,Art Levinson,73,Male,United States,Hillsborough,Diversified,True,Decreased
+2133,1,Li Denghai,73,Male,China,Laizhou,Food & Beverage,True,Decreased
+2133,1,Fengluan Li,61,Female,China,Ruzhou,Diversified,True,Remained Even
+2133,1,Li Yongqing,58,Male,China,Hangzhou,Manufacturing,True,Decreased
+2133,1,Li Zhigang,46,Male,China,Wuhan,Manufacturing,True,Decreased
+2133,1,Liu Gexin & family,71,Male,China,Chengdu,Healthcare,True,Returned to List
+2133,1,Lu Hongyan,45,Male,China,Xiamen,Media & Entertainment,True,Increased
+2133,1,Lv Jianming,58,Male,Hong Kong,Hangzhou,Healthcare,True,Decreased
+2133,1,Yasseen Mansour,61,Male,Egypt,Cairo,Diversified,True,Increased
+2133,1,George Marcus,81,Male,United States,Los Altos Hills,Real Estate,True,Decreased
+2133,1,Yves-Loic Martin,57,Male,France,Nantes,Healthcare,True,Decreased
+2133,1,Carsten Maschmeyer,63,Male,Germany,Munich,Finance & Investments,True,Increased
+2133,1,Martin Moller Nielsen,58,Male,Denmark,Lugano,Logistics,True,Remained Even
+2133,1,Randal Nardone,67,Male,United States,New York,Finance & Investments,True,Remained Even
+2133,1,Nguyen Dang Quang,59,Male,Vietnam,Ho Chi Minh City,Food & Beverage,True,Decreased
+2133,1,Kazuo Okada,80,Male,Japan,Tokyo,Gambling & Casinos,True,Decreased
+2133,1,George Pedersen & family,87,Male,United States,McLean,Manufacturing,True,Increased
+2133,1,Qu Miranda,38,Female,China,Shanghai,Fashion & Retail,True,Decreased
+2133,1,Jupally Rameshwar Rao,67,Male,India,Hyderabad,Real Estate,True,Increased
+2133,1,G. M. Rao,72,Male,India,Bangalore,Logistics,True,Decreased
+2133,1,P.V. Ramprasad Reddy,65,Male,India,Hyderabad,Healthcare,True,Decreased
+2133,1,Satish Reddy,55,Male,India,Hyderabad,Healthcare,False,Remained Even
+2133,1,Fernando Roig,75,Male,Spain,Valencia,Fashion & Retail,False,Decreased
+2133,1,Igor Rotenberg,49,Male,Russia,Moscow,Diversified,True,Returned to List
+2133,1,Deniz Sahenk,77,Female,Turkey,Istanbul,Diversified,False,Remained Even
+2133,1,Nobutada Saji,77,Male,Japan,Tokyo,Food & Beverage,False,Increased
+2133,1,Hajime Satomi,81,Male,Japan,Tokyo,Gambling & Casinos,True,Remained Even
+2133,1,James Scapa,66,Male,United States,Atherton,Technology,True,Remained Even
+2133,1,Devi Shetty,70,Male,India,Bangalore,Healthcare,True,Increased
+2133,1,Albert Shigaboutdinov,70,Male,Russia,Kazan,Diversified,True,Remained Even
+2133,1,Fei Song,56,Male,China,Yantai,Manufacturing,True,Decreased
+2133,1,Konstantin Strukov & family,64,Male,Russia,Chelyabinsk,Metals & Mining,True,Returned to List
+2133,1,Rustem Sulteev,69,Male,Russia,Kazan,Energy,True,Remained Even
+2133,1,Clemens Toennies,66,Male,Germany,Rheda-Wiedenbrück,Food & Beverage,True,Decreased
+2133,1,Robert Toennies,44,Male,Germany,Rheda-Wiedenbrück,Food & Beverage,False,Decreased
+2133,1,John Van Lieshout,77,Male,Australia,Brisbane,Real Estate,True,Decreased
+2133,1,Pongsak Viddayakorn,89,Male,Thailand,Bangkok,Healthcare,True,Increased
+2133,1,Wang Jianguo,63,Male,China,Nanjing,Fashion & Retail,True,Decreased
+2133,1,Junjin Wang,54,Male,China,Shanghai,Service,True,Decreased
+2133,1,Wang Mingwang,55,Male,China,Shenzhen,Manufacturing,True,Decreased
+2133,1,Wei Lidong & family,47,Male,China,Shanghai,Technology,True,Decreased
+2133,1,Myron Wentz,83,Male,St. Kitts and Nevis,Grand Cayman,Fashion & Retail,True,Decreased
+2133,1,Wu Xushun & family,74,Male,China,Wuhu,Diversified,True,Decreased
+2133,1,Xu Shaochun,60,Male,China,Shenzhen,Technology,True,Decreased
+2133,1,Yan Jane & family,53,Female,China,Beijing,Technology,True,Increased
+2133,1,Zeng Chaoyi,54,Male,China,Changsha,Manufacturing,True,Remained Even
+2133,1,Peng Zhao,52,Male,China,Beijing,Service,True,Remained Even
+2133,1,Zhao Tongtong,56,Female,Canada,Hong Kong,Service,True,Returned to List
+2133,1,Kostyantin Zhevago,49,Male,Ukraine,Kiev,Metals & Mining,True,Remained Even
+2259,1,Sanjay Agarwal,52,Male,India,Jaipur,Finance & Investments,True,Remained Even
+2259,1,Hamad bin Jassim bin Jaber Al Thani,63,Male,Qatar,Doha,Finance & Investments,False,Remained Even
+2259,1,Joao Alves de Queiroz Filho,70,Male,Brazil,São Paulo,Diversified,True,Increased
+2259,1,Jose Maria Aristrain,60,Male,Spain,Gstaad,Metals & Mining,False,Remained Even
+2259,1,Tope Awotona,41,Male,United States,Atlanta,Technology,True,Decreased
+2259,1,Mehmet Aydinlar,66,Male,Turkey,Istanbul,Healthcare,True,Decreased
+2259,1,Danna Azrieli,55,Female,Israel,Herzliya,Real Estate,False,Decreased
+2259,1,Naomi Azrieli,57,Female,Canada,Toronto,Real Estate,False,Decreased
+2259,1,Sharon Azrieli,62,Female,Canada,Montreal,Real Estate,False,Decreased
+2259,1,Bai Houshan,59,Male,China,Ningbo,Energy,True,Decreased
+2259,1,Thomas Bailey,86,Male,United States,Aspen,Finance & Investments,True,Remained Even
+2259,1,Bernhard Braun-Luedicke,46,Male,Germany,Melsungen,Healthcare,False,Decreased
+2259,1,Eva Maria Braun-Luedicke,36,Female,Germany,Melsungen,Healthcare,False,Decreased
+2259,1,Friederike Braun-Luedicke,39,Female,Germany,Melsungen,Healthcare,False,Remained Even
+2259,1,Jeffrey Cheah,78,Male,Malaysia,Kuala Lumpur,Real Estate,True,Decreased
+2259,1,Chen Xianbao & family,63,Male,China,Hefei,Food & Beverage,True,Decreased
+2259,1,Cheng Xianfeng,54,Male,China,Hefei,Healthcare,True,Decreased
+2259,1,Chung Yong-jin,54,Male,South Korea,Seoul,Fashion & Retail,False,Decreased
+2259,1,Darwin Deason,82,Male,United States,Dallas,Service,True,Decreased
+2259,1,Diego Della Valle,69,Male,Italy,Sant'' Elpidio A Mare,Fashion & Retail,False,Decreased
+2259,1,Richard Desmond,71,Male,United Kingdom,London,Media & Entertainment,True,Decreased
+2259,1,Ding Shui Po,52,Male,China,Quanzhou,Fashion & Retail,False,Decreased
+2259,1,Sefik Yilmaz Dizdar,85,Male,Turkey,Istanbul,Fashion & Retail,True,Increased
+2259,1,Mathias Doepfner,60,Male,Germany,Potsdam,Media & Entertainment,False,Decreased
+2259,1,Jose Roberto Ermirio de Moraes,65,Male,Brazil,Sao Paulo,Diversified,False,Decreased
+2259,1,Jose Ermirio de Moraes Neto,70,Male,Brazil,Sao Paulo,Diversified,False,Decreased
+2259,1,Fang Hongbo,56,Male,China,Shunde,Manufacturing,True,Decreased
+2259,1,David Feffer,66,Male,Brazil,São Paulo,Manufacturing,False,Decreased
+2259,1,Gary Friedman,65,Male,United States,Belvedere,Fashion & Retail,True,Decreased
+2259,1,Dan Gertler,49,Male,Israel,Bnei Brak,Metals & Mining,False,Remained Even
+2259,1,Balkrishan Goenka,56,Male,India,Mumbai,Manufacturing,True,Decreased
+2259,1,Lawrence Golub,63,Male,United States,New York,Finance & Investments,True,Remained Even
+2259,1,Fahed Hariri,42,Male,Lebanon,London,Construction & Engineering,False,Remained Even
+2259,1,Richard Hayne,75,Male,United States,Philadelphia,Fashion & Retail,True,Remained Even
+2259,1,Michael Heine,73,Male,Australia,Melbourne,Finance & Investments,True,Remained Even
+2259,1,Orion Hindawi,43,Male,United States,Seattle,Technology,True,Decreased
+2259,1,Lawrence Ho,46,Male,Hong Kong,Hong Kong,Gambling & Casinos,False,Returned to List
+2259,1,Huang Guanlin,58,Male,China,Ningbo,Fashion & Retail,True,Decreased
+2259,1,Mohammed Ibrahim,76,Male,United Kingdom,London,Telecom,True,Remained Even
+2259,1,Shirley Kao,66,Female,Taiwan,Tainan,Food & Beverage,False,Remained Even
+2259,1,Kim Kardashian,42,Female,United States,Hidden Hills,Fashion & Retail,True,Decreased
+2259,1,Ke Guihua,57,Male,China,Shanghai,Manufacturing,True,Increased
+2259,1,Ke Yunfeng & family,56,Male,China,Guangzhou,Healthcare,True,Increased
+2259,1,Alexander Klyachin,55,Male,Russia,Moscow,Real Estate,True,Returned to List
+2259,1,Suresh Krishna,86,Male,India,Chennai,Automotive,False,Increased
+2259,1,Guy Laliberté,63,Male,Canada,Montreal,Media & Entertainment,True,Remained Even
+2259,1,Li Guoqing,53,Male,China,Hangzhou,Manufacturing,True,Decreased
+2259,1,Li Li,59,Male,China,Shenzhen,Healthcare,True,Decreased
+2259,1,Li Ruiqiang,43,Male,China,Beijing,Healthcare,True,Decreased
+2259,1,Zhen Li & family,59,Male,China,Hefei,Manufacturing,True,Decreased
+2259,1,Guangwei Liang,59,Male,China,Shenzhen,Manufacturing,True,Decreased
+2259,1,Liu Ming Hui,60,Male,China,Hong Kong,Energy,True,Decreased
+2259,1,Frederic Luddy,68,Male,United States,San Diego,Technology,True,Decreased
+2259,1,"Cargill MacMillan, III.",63,Male,United States,Boulder,Food & Beverage,False,Decreased
+2259,1,John MacMillan,73,Male,United States,Plymouth,Food & Beverage,False,Decreased
+2259,1,Martha MacMillan,71,Female,United States,Orono,Food & Beverage,False,Decreased
+2259,1,William MacMillan,68,Male,United States,Englewood,Food & Beverage,False,Decreased
+2259,1,Keshub Mahindra,99,Male,India,Mumbai,Diversified,False,Returned to List
+2259,1,Mao Zhongwu,60,Male,China,Changsha,Manufacturing,True,Decreased
+2259,1,Jorge Mas,60,Male,United States,Miami,Construction & Engineering,False,Increased
+2259,1,Lorinc Meszaros,57,Male,Hungary,Felcsút,Diversified,True,Remained Even
+2259,1,Jeffrey Michael & family,66,Male,United States,Minnetonka,Technology,True,Increased
+2259,1,Alan Miller & family,85,Male,United States,Lower Merion,Healthcare,True,Decreased
+2259,1,Neide Helena de Moraes,68,Female,Brazil,Sao Paulo,Diversified,False,Decreased
+2259,1,Scott Nuttall,50,Male,United States,New York,Finance & Investments,True,Increased
+2259,1,Jonathan Oringer,48,Male,United States,Miami Beach,Technology,True,Decreased
+2259,1,Vitaly Orlov,58,Male,Russia,Murmansk,Food & Beverage,True,Returned to List
+2259,1,Jose Isaac Peres & family,82,Male,Brazil,Rio de Janeiro,Real Estate,True,Increased
+2259,1,Markus Persson,43,Male,Sweden,Stockholm,Media & Entertainment,True,Decreased
+2259,1,Mark Pincus,57,Male,United States,San Francisco,Technology,True,Decreased
+2259,1,Murdaya Poo,82,Male,Indonesia,Jakarta,Diversified,False,Remained Even
+2259,1,Forrest Preston,90,Male,United States,Cleveland,Healthcare,True,Decreased
+2259,1,Qian Ying,57,Female,China,Nanyang,Food & Beverage,True,Decreased
+2259,1,Andrei Rappoport,59,Male,Russia,Lugano,Finance & Investments,True,Remained Even
+2259,1,Thomas Sandell,62,Male,Sweden,London,Finance & Investments,True,Decreased
+2259,1,Dhruv Sawhney,78,Male,India,Dubai,Construction & Engineering,False,Increased
+2259,1,Gerald Schwartz,81,Male,Canada,Toronto,Finance & Investments,True,Decreased
+2259,1,Antonio Luiz Seabra,80,Male,Brazil,London,Fashion & Retail,True,Decreased
+2259,1,Eric Ya Shen,52,Male,China,Guangzhou,Technology,True,Returned to List
+2259,1,Alexander Sixt,43,Male,Germany,Munich,Automotive,False,Decreased
+2259,1,Konstantin Sixt,40,Male,Germany,Munich,Automotive,False,Decreased
+2259,1,Edwin Soeryadjaya,73,Male,Indonesia,Jakarta,Energy,False,Decreased
+2259,1,Mike Speiser,52,Male,United States,London,Technology,True,Increased
+2259,1,Marco Squinzi,51,Male,Italy,Milan,Construction & Engineering,False,Decreased
+2259,1,Veronica Squinzi,51,Female,Italy,Milan,Construction & Engineering,False,Decreased
+2259,1,Michael Steinhardt,82,Male,United States,Mount Kisco,Finance & Investments,True,Remained Even
+2259,1,Ion Stoica,58,Male,Romania,Berkeley,Technology,True,Decreased
+2259,1,Luc Tack,61,Male,Belgium,Deinze,Manufacturing,True,Remained Even
+2259,1,Tony Tan Caktiong,70,Male,Philippines,Manila,Food & Beverage,True,Decreased
+2259,1,Xiuguo Tang,59,Male,China,Changsha,Manufacturing,True,Increased
+2259,1,Sam Tarascio,78,Male,Australia,Melbourne,Real Estate,True,Remained Even
+2259,1,Lina Tombolato,75,Female,Italy,Tombolo,Finance & Investments,False,Decreased
+2259,1,Ching Bor Tung,60,Male,China,Dongguan,Manufacturing,True,Decreased
+2259,1,Joop van den Ende,81,Male,Netherlands,Baarn,Media & Entertainment,True,Decreased
+2259,1,Ruben Vardanyan & family,54,Male,Armenia,Erevan,Finance & Investments,True,Returned to List
+2259,1,Sandro Veronesi & family,63,Male,Italy,Milan,Fashion & Retail,True,Decreased
+2259,1,Thongma Vijitpongpun,65,Male,Thailand,Bangkok,Real Estate,True,Remained Even
+2259,1,Thomas von Koch,57,Male,Sweden,Hong Kong,Finance & Investments,True,Decreased
+2259,1,Wang Xiaoshen,54,Male,China,Urumchi,Manufacturing,True,Decreased
+2259,1,J. Wayne Weaver,87,Male,United States,Jacksonville,Diversified,True,Remained Even
+2259,1,Drorit Wertheim,67,Female,Israel,Bnei Atarot,Food & Beverage,False,Decreased
+2259,1,Cameron Winklevoss,41,Male,United States,New York,Finance & Investments,True,Decreased
+2259,1,Tyler Winklevoss,41,Male,United States,New York,Finance & Investments,True,Decreased
+2259,1,Wu Chung-yi,67,Male,Taiwan,Chang Hwa County,Manufacturing,False,Remained Even
+2259,1,Eugene Wu,77,Male,Taiwan,Taipei,Finance & Investments,False,Decreased
+2259,1,Wu Yonghua,52,Male,China,Xiamen,Fashion & Retail,True,Increased
+2259,1,Xia Xinde,58,Male,China,Guangzhou,Manufacturing,True,Increased
+2259,1,Wenbo Xiang,60,Male,China,Changsha,Manufacturing,True,Decreased
+2259,1,Xu Jin,58,Male,China,Huaibei city,Food & Beverage,True,Decreased
+2259,1,Xu Shijun & family,60,Male,China,Nantong,Manufacturing,True,Decreased
+2259,1,Wanmao Xu,78,Male,China,Ningbo,Service,True,Decreased
+2259,1,Xu Yuejuan,61,Female,China,Hangzhou,Manufacturing,True,Decreased
+2259,1,Vadim Yakunin,60,Male,Russia,Moscow,Healthcare,True,Returned to List
+2259,1,Yang Yunyun,46,Female,China,Guangzhou,Fashion & Retail,True,Returned to List
+2259,1,Matei Zaharia,37,Male,Romania,Berkeley,Technology,True,Decreased
+2259,1,Zan Shengda,60,Male,China,Nantong,Diversified,True,Decreased
+2259,1,Zhang Xuezheng,47,Male,China,Jiaxing,Technology,True,Decreased
+2259,1,Zhang Yin,66,Female,China,Dongguan,Manufacturing,True,Decreased
+2259,1,Zhou Wen & family,58,Male,China,Shanghai,Manufacturing,True,Increased
+2259,1,Zhu Xingliang,63,Male,China,Suzhou,Construction & Engineering,True,Decreased
+2405,1,Farkhad Akhmedov,67,Male,Russia,Moscow,Energy,True,Decreased
+2405,1,Sara Blakely,52,Female,United States,Atlanta,Fashion & Retail,True,Remained Even
+2405,1,Lloyd Blankfein,68,Male,United States,New York,Finance & Investments,True,Remained Even
+2405,1,Henadiy Boholyubov,61,Male,Ukraine,Dnipro,Diversified,True,Remained Even
+2405,1,Stephane Bonvin,56,Male,Switzerland,Lens,Real Estate,True,Decreased
+2405,1,Oleg Boyko,58,Male,Russia,Lipperswil,Diversified,True,Decreased
+2405,1,Ryan Breslow,28,Male,United States,Miami,Technology,True,Decreased
+2405,1,Thomas Bruch,72,Male,Germany,St. Wendel,Fashion & Retail,False,Decreased
+2405,1,Marina Budiman,61,Female,Indonesia,Jakarta,Technology,True,Decreased
+2405,1,Pradip Burman,80,Male,India,Delhi,Food & Beverage,False,Decreased
+2405,1,Cao Kejian,60,Male,China,Quzhou,Manufacturing,True,Remained Even
+2405,1,Giuliana Caprotti,82,Female,Italy,Milan,Food & Beverage,False,Decreased
+2405,1,Marina Caprotti,45,Female,Italy,Milan,Food & Beverage,False,Decreased
+2405,1,Chang Jing,40,Male,China,Beijing,Technology,True,Decreased
+2405,1,Chen Baohua,61,Male,China,Linhai,Healthcare,True,Decreased
+2405,1,Gang Chen,55,Male,China,Guangzhou,Energy,True,Decreased
+2405,1,Liying Chen,47,Female,China,Shanghai,Logistics,True,Decreased
+2405,1,Tony Chen,73,Male,Taiwan,Taichung,Technology,True,Increased
+2405,1,Chen Xueling,55,Female,China,Shantou,Manufacturing,True,Decreased
+2405,1,Cheng Lili,58,Male,China,Changzhou,Food & Beverage,True,Decreased
+2405,1,Weili Dai,61,Female,United States,Las Vegas,Technology,True,Decreased
+2405,1,Deng Yingzhong,72,Male,China,Zhongshan,Manufacturing,True,Decreased
+2405,1,Shlomo Eliahu,87,Male,Israel,Tel Aviv,Finance & Investments,True,Decreased
+2405,1,Henry Engelhardt,65,Male,United States,Cardiff,Finance & Investments,True,Decreased
+2405,1,Gabriel Escarrer,88,Male,Spain,Palma de Majorca,Service,True,Remained Even
+2405,1,Daniel Feffer,63,Male,Brazil,São Paulo,Manufacturing,False,Decreased
+2405,1,Ruben Feffer,53,Male,Brazil,São Paulo,Manufacturing,False,Decreased
+2405,1,Gleb Fetisov,56,Male,Russia,Limassol,Telecom,True,Decreased
+2405,1,Paul Fireman,79,Male,United States,Brookline,Fashion & Retail,True,Remained Even
+2405,1,Robert Fisher,69,Male,United States,San Francisco,Fashion & Retail,False,Decreased
+2405,1,Bernd Freier,66,Male,Germany,Rottendorf,Fashion & Retail,True,Decreased
+2405,1,Donald Friese,82,Male,United States,Los Angeles,Manufacturing,True,Remained Even
+2405,1,Gan Zhongru,74,Male,China,Beijing,Healthcare,True,Decreased
+2405,1,Rahul Gautam,70,Male,India,Delhi,Fashion & Retail,False,Decreased
+2405,1,David Golub,60,Male,United States,New York,Finance & Investments,True,Remained Even
+2405,1,Said Gutseriev,34,Male,Russia,London,Energy,False,Returned to List
+2405,1,Polys Haji-Ioannou,63,Male,Cyprus,Monaco,Service,False,Increased
+2405,1,He Zuxun,57,Male,China,Kunming,Food & Beverage,True,Decreased
+2405,1,David Hindawi,78,Male,United States,Seattle,Technology,True,Decreased
+2405,1,Huang Shan,52,Male,China,Shenzhen,Technology,True,Returned to List
+2405,1,Huang Xiaofen & family,61,Female,China,Shenzhen,Technology,True,Decreased
+2405,1,Hiroshi Ishibashi,76,Male,Japan,Tokyo,Automotive,False,Increased
+2405,1,Masayuki Ishihara,74,Male,Japan,Tokyo,Gambling & Casinos,False,Returned to List
+2405,1,Chatchai Kaewbootta,71,Male,Thailand,Bangkok,Finance & Investments,True,Decreased
+2405,1,Jonas Kamprad,57,Male,Sweden,London,Finance & Investments,False,Remained Even
+2405,1,Mathias Kamprad,53,Male,Sweden,London,Finance & Investments,False,Remained Even
+2405,1,Peter Kamprad,59,Male,Sweden,Tervuren,Finance & Investments,False,Remained Even
+2405,1,Sunjay Kapur,51,Male,United States,Delhi,Automotive,False,Decreased
+2405,1,Ali Metin Kazanci,88,Male,Turkey,Istanbul,Energy,True,Returned to List
+2405,1,Kangbao Ke & family,60,Male,China,Guangzhou,Healthcare,True,Increased
+2405,1,Carsten Koerl,58,Male,Germany,Zurich,Sports,True,Decreased
+2405,1,Koo Bon-sik,64,Male,South Korea,Seoul,Technology,False,Remained Even
+2405,1,Andrei Kosogov,62,Male,Russia,Moscow,Energy,True,Decreased
+2405,1,Yogesh Kothari,74,Male,India,Mumbai,Manufacturing,True,Decreased
+2405,1,Arvind Lal,73,Male,India,Delhi,Healthcare,False,Decreased
+2405,1,Manuel Lao Hernández,78,Male,Spain,Matadepera,Gambling & Casinos,True,Decreased
+2405,1,Lee Joong-keun,82,Male,South Korea,Seoul,Construction & Engineering,True,Decreased
+2405,1,Nancy Lerner,62,Female,United States,Cleveland,Finance & Investments,False,Remained Even
+2405,1,Norma Lerner,87,Female,United States,Cleveland,Finance & Investments,False,Remained Even
+2405,1,Randolph Lerner,61,Male,United States,Cleveland,Finance & Investments,False,Remained Even
+2405,1,Lin Zhijun,47,Male,China,Xiamen,Healthcare,True,Decreased
+2405,1,Lin Zhixiong & family,49,Male,China,Xiamen,Healthcare,True,Decreased
+2405,1,Jeffrey Lorberbaum,68,Male,United States,Chattanooga,Manufacturing,False,Decreased
+2405,1,Lu Rongfu,52,Male,China,Xiamen,Telecom,True,Decreased
+2405,1,Soichiro Minami,46,Male,Japan,Tokyo,Technology,True,Remained Even
+2405,1,Sjamsul Nursalim,81,Male,Indonesia,Singapore,Automotive,False,Returned to List
+2405,1,Adrian Paval,54,Male,Romania,Bacau,Fashion & Retail,True,Increased
+2405,1,Antonio Percassi,69,Male,Italy,Bergamo,Diversified,True,Decreased
+2405,1,Kevin Plank,50,Male,United States,Lutherville-Timonium,Fashion & Retail,True,Decreased
+2405,1,G.V. Prasad,62,Male,India,Hyderabad,Healthcare,False,Increased
+2405,1,Pu Zhongjie & family,60,Male,China,Beijing,Healthcare,True,Remained Even
+2405,1,Rao Wei & family,58,Male,China,Shenzhen,Healthcare,True,Returned to List
+2405,1,Helena Revoredo,76,Female,Spain,Madrid,Service,False,Decreased
+2405,1,Matthew Roszak,50,Male,United States,Chicago,Finance & Investments,True,Decreased
+2405,1,Paul Sciarra,42,Male,United States,San Francisco,Technology,True,Decreased
+2405,1,Dean Solon,58,Male,United States,Gallatin,Energy,True,Increased
+2405,1,Michael Spencer,67,Male,United Kingdom,"London, Suffolk",Finance & Investments,True,Remained Even
+2405,1,Joseph Steinberg,79,Male,United States,New York,Finance & Investments,True,Increased
+2405,1,Manny Stul,73,Male,Australia,Melbourne,Manufacturing,True,Decreased
+2405,1,Sun Hongjun,49,Male,China,Shanghai,Technology,True,Decreased
+2405,1,Sun Weijie,59,Male,China,Yantai,Manufacturing,True,Decreased
+2405,1,Sehat Sutardja,61,Male,United States,Las Vegas,Technology,True,Decreased
+2405,1,Min-Liang Tan,45,Male,Singapore,Singapore,Media & Entertainment,True,Returned to List
+2405,1,Tan Yu Yeh,52,Male,Malaysia,Selangor,Fashion & Retail,True,Decreased
+2405,1,Vonnarat Tangkaravakoon,51,Male,Thailand,Bangkok,Manufacturing,False,Decreased
+2405,1,Tung Ching Sai,58,Male,China,Dongguan,Manufacturing,True,Decreased
+2405,1,Arkady Volozh,59,Male,Russia,Tel Aviv,Technology,True,Returned to List
+2405,1,Peter-Alexander Wacker,71,Male,Germany,Starnberg,Manufacturing,False,Increased
+2405,1,Wan Long,82,Male,China,Luohe,Food & Beverage,True,Decreased
+2405,1,Wang Han,35,Male,China,Shanghai,Diversified,False,Decreased
+2405,1,Lars Wingefors,46,Male,Sweden,Karlstad,Media & Entertainment,True,Decreased
+2405,1,Allan Wong,73,Male,Hong Kong,Hong Kong,Manufacturing,True,Remained Even
+2405,1,Horst Wortmann,81,Male,Germany,Detmold,Fashion & Retail,True,Decreased
+2405,1,Wu Kaiting,53,Male,Hong Kong,Xiamen,Telecom,True,Decreased
+2405,1,Wu Li-gann,82,Male,Taiwan,Kaohsiung,Manufacturing,True,Decreased
+2405,1,Wu Xiangdong,54,Male,China,Beijing,Food & Beverage,True,Decreased
+2405,1,Xiu Laigui,68,Male,China,Tonghua,Healthcare,True,Decreased
+2405,1,Xue Jiping,72,Male,China,Nantong,Telecom,True,Decreased
+2405,1,Yao Hsiao Tung,83,Male,Singapore,Singapore,Manufacturing,True,Increased
+2405,1,Ye Qiongjiu,68,Female,China,Hangzhou,Technology,True,Increased
+2405,1,Yanqiao Ye,53,Male,China,Foshan,Food & Beverage,True,Decreased
+2405,1,Yu Faxiang,51,Male,China,Shaoxing,Media & Entertainment,True,Decreased
+2405,1,Zeng Chaolin,40,Male,China,Yongzhou,Metals & Mining,False,Decreased
+2405,1,Kapeng Zhang,58,Male,China,Linhai,Construction & Engineering,True,Increased
+2405,1,Zhang Xuansong,51,Male,China,Fuzhou,Fashion & Retail,True,Decreased
+2405,1,Zhang Xuewu,48,Male,China,Changsha,Food & Beverage,True,Returned to List
+2405,1,Zhu Yiming,50,Male,China,Beijing,Technology,True,Decreased
+2405,1,Zhu Zhaojiang,49,Male,China,Shenzhen,Manufacturing,True,Decreased
+2405,1,Zhuo Jun,57,Female,Hong Kong,Hong Kong,Manufacturing,False,Decreased
+2540,1,Christian Angermayer,44,Male,Germany,London,Finance & Investments,True,Decreased
+2540,1,Ryuji Arai,76,Male,Japan,Tokyo,Fashion & Retail,True,Decreased
+2540,1,Anna Maria Braun,44,Female,Germany,Melsungen,Healthcare,False,Decreased
+2540,1,Johanna Braun,43,Female,Germany,Melsungen,Healthcare,False,Remained Even
+2540,1,Karl Friedrich Braun,40,Male,Germany,Melsungen,Healthcare,False,Remained Even
+2540,1,Ludwig Theodor Braun,33,Male,Germany,Melsungen,Healthcare,False,Decreased
+2540,1,Ana Maria Brescia Cafferata,98,Female,Peru,Lima,Diversified,False,Decreased
+2540,1,Hideyuki Busujima,70,Male,Japan,Tokyo,Gambling & Casinos,False,Returned to List
+2540,1,Edouard Carmignac,75,Male,France,Paris,Finance & Investments,True,Decreased
+2540,1,Chen Jiancheng,64,Male,China,Shangyu,Manufacturing,True,Decreased
+2540,1,Rui Chen,45,Male,China,Shanghai,Media & Entertainment,True,Returned to List
+2540,1,Chen Shiliang,59,Male,China,Tongxiang,Manufacturing,True,Decreased
+2540,1,Tianqiao Chen,49,Male,China,Atherton,Technology,True,Decreased
+2540,1,Yuantai Chen,55,Male,China,Ningde,Energy,True,Decreased
+2540,1,Cheng Antares,65,Male,Hong Kong,Hong Kong,Food & Beverage,True,Decreased
+2540,1,Kochouseph Chittilappilly,72,Male,India,Kochi,Manufacturing,True,Returned to List
+2540,1,Pollyanna Chu,64,Female,Hong Kong,Hong Kong,Finance & Investments,True,Remained Even
+2540,1,Turgay Ciner,67,Male,Turkey,Istanbul,Diversified,True,Decreased
+2540,1,Benoit Dageville,56,Male,United States,San Carlos,Technology,True,Decreased
+2540,1,Mark Dixon,63,Male,United Kingdom,Monaco,Real Estate,True,Decreased
+2540,1,Feng Yuxia,58,Female,China,Beijing,Healthcare,True,Decreased
+2540,1,Benedicte Find,68,Female,Denmark,Copenhagen,Healthcare,False,Decreased
+2540,1,William Fisher,66,Male,United States,San Francisco,Fashion & Retail,False,Decreased
+2540,1,Gao Yunfeng,56,Male,China,Shenzhen,Manufacturing,True,Decreased
+2540,1,Jianming Geng,60,Male,China,Langfang,Real Estate,True,Decreased
+2540,1,Sven Hagströmer,79,Male,Sweden,Stockholm,Finance & Investments,True,Decreased
+2540,1,Clelia Haji-Ioannou,52,Female,Cyprus,Monte Carlo,Service,False,Returned to List
+2540,1,Stelios Haji-Ioannou,56,Male,Cyprus,Monte Carlo,Service,False,Decreased
+2540,1,Hang Hong,55,Female,China,Wuxi,Manufacturing,True,Decreased
+2540,1,He Yamin & family,66,Male,China,Chengdu,Manufacturing,True,Decreased
+2540,1,Hong Feng,46,Male,China,Beijing,Technology,True,Decreased
+2540,1,Hong Seok-joh,70,Male,South Korea,Seoul,Fashion & Retail,False,Decreased
+2540,1,Hu Gengxi & family,59,Male,China,Shanghai,Healthcare,True,Returned to List
+2540,1,Hedda im Brahm-Droege,68,Female,Germany,Dusseldorf,Finance & Investments,True,Decreased
+2540,1,Johan Johannson,56,Male,Norway,Oslo,Fashion & Retail,False,Decreased
+2540,1,Morris Kahn,93,Male,Israel,Beit Yanay,Technology,True,Remained Even
+2540,1,Ashok Kajaria,75,Male,India,Delhi,Manufacturing,True,Returned to List
+2540,1,Marcelo Kalim,53,Male,Brazil,Sao Paulo,Finance & Investments,True,Remained Even
+2540,1,Ken Kendrick,79,Male,United States,Paradise Valley,Sports,True,Remained Even
+2540,1,Kim Jung-woong,48,Male,South Korea,Seoul,Fashion & Retail,True,Decreased
+2540,1,Ihor Kolomoyskyy,60,Male,Israel,Kiev,Diversified,True,Remained Even
+2540,1,Kong Jian Min,55,Male,China,Guangzhou,Real Estate,True,Decreased
+2540,1,Koo Bon-neung,74,Male,South Korea,Seoul,Manufacturing,False,Decreased
+2540,1,Lev Kvetnoi,57,Male,Russia,Moscow,Finance & Investments,True,Returned to List
+2540,1,Michiel Le Roux,73,Male,South Africa,Stellenbosch,Finance & Investments,True,Decreased
+2540,1,Li Wanqiang,45,Male,China,Beijing,Technology,True,Decreased
+2540,1,Liu Baolin,69,Male,China,Wuhan,Fashion & Retail,True,Remained Even
+2540,1,Lu Yonghua & family,59,Male,China,Shanghai,Technology,True,Decreased
+2540,1,Ma Xiuhui,52,Female,China,Shanghai,Manufacturing,True,Decreased
+2540,1,Apoorva Mehta,36,Male,Canada,San Francisco,Technology,True,Decreased
+2540,1,Ulrike Meister,56,Female,Germany,Landsberg,Manufacturing,False,Decreased
+2540,1,Andrei Molchanov,51,Male,Russia,Moscow,Construction & Engineering,True,Returned to List
+2540,1,Tyler Perry,53,Male,United States,Atlanta,Media & Entertainment,True,Remained Even
+2540,1,George Sakellaris,76,Male,United States,Milton,Energy,True,Decreased
+2540,1,Eddy Kusnadi Sariaatmadja,69,Male,Indonesia,Jakarta,Media & Entertainment,True,Decreased
+2540,1,Neerja Sethi,68,Female,United States,Fisher Island,Technology,True,Remained Even
+2540,1,Scott Smith,73,Male,United States,Provo,Technology,True,Decreased
+2540,1,Petter Stordalen & family,60,Male,Norway,Oslo,Service,True,Decreased
+2540,1,Sergei Sudarikov,51,Male,Russia,Moscow,Finance & Investments,True,Returned to List
+2540,1,Murat Vargi,75,Male,Turkey,Istanbul,Telecom,True,Decreased
+2540,1,Shigefumi Wada,70,Male,Japan,"Nakano, Tokyo",Technology,True,Remained Even
+2540,1,Wan Feng & family,54,Male,China,Shenzhen,Healthcare,True,Returned to List
+2540,1,Wang Jianfeng & family,53,Male,China,Ningbo,Automotive,True,Decreased
+2540,1,V. Prem Watsa,72,Male,Canada,Toronto,Finance & Investments,True,Returned to List
+2540,1,Wen Pengcheng & family,60,Male,China,Yunfu,Food & Beverage,True,Decreased
+2540,1,Xu Gang,59,Male,China,Jiaozuo,Manufacturing,True,Decreased
+2540,1,Yan Junxu,53,Male,China,Taicang,Manufacturing,True,Decreased
+2540,1,Yi Xianzhong & family,63,Male,China,Guangzhou,Healthcare,True,Decreased
+2540,1,Yu Rong,51,Male,China,Shanghai,Healthcare,True,Decreased
+2540,1,"Richard Yuengling, Jr.",80,Male,United States,Pottsville,Food & Beverage,False,Remained Even
+2540,1,Zhang Gongyun,60,Male,China,Gaomi,Manufacturing,True,Returned to List
+2540,1,Zhang Guiping & family,71,Male,China,Nanjing,Real Estate,True,Decreased
+2540,1,Inigo Zobel,66,Male,Philippines,Makati,Diversified,False,Returned to List
