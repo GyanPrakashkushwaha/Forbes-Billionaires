@@ -1,0 +1,14 @@
+
+INDEPENDENT_FEATURES:
+  rank: int64
+  full_name: object
+  age: int64
+  gender: object
+  country_of_citizenship: object
+  city_of_residence: object
+  business_category: object
+  self_made: bool
+  wealth_status: object
+
+DEPENDENT_FEATURES:
+  net_worth: int64

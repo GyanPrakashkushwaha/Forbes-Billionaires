@@ -5,7 +5,7 @@
 - Now go with Workflows.
 
 
-## Workflows
+## Workflows(In Big Picture)
 
 1. Update config.yaml
 2. Update schema.yaml( Here I will mention all the columns in the feature.)
@@ -16,4 +16,11 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
+
+
+# #Step 1
+## Workflow - Data Validation
+1. added validation data path.
+2. add all independent and dependent column names in schema.
+
 

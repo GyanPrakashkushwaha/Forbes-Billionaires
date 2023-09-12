@@ -4,7 +4,7 @@ import yaml
 from predictor import logger, CustomException
 import sys
 import os
-import json
+import json     
 from box import ConfigBox
 import joblib
 from typing import Any
@@ -15,7 +15,7 @@ def read_yaml(path_to_yaml:Path):
         with open(path_to_yaml) as f:
             return yaml.safe_load(f)
     except Exception as e:
-        raise CustomException(msg_detail=e, error_details=sys)
+        raise CustomException(error_msg=e, error_detail=sys)
         
 
 @ensure_annotations
