@@ -4,14 +4,6 @@ import logging
 from datetime import datetime
 
 class NonEmptyLogFilter(logging.Filter):
-    """
-    Check if the log message is non-empty
-
-    :param record: The log record to be filtered
-    :type record: logging.LogRecord
-    :return: True if the log message is non-empty, False otherwise
-    :rtype: bool
-    """
     def filter(self, record):
         return bool(record.getMessage().strip())  # Check if the log message is non-empty
 
