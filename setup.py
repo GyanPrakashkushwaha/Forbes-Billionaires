@@ -19,7 +19,7 @@ setup(
     description='This Project predicts millionairs net worth',
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
     packages=find_packages(where=SRC_REPO),
-    package_dir={SRC_REPO: SRC_REPO},
+    package_dir={'': SRC_REPO},
     long_description=long_des,
 )
 
