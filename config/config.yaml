@@ -1,7 +1,7 @@
-
+artifacts_root: artifacts
 
 data_validation:
-  root_dir: artifacts\cleand_data
+  root_dir: artifacts\validation
   data_dir: artifacts\cleand_data\billionaires.csv
   STATUS_FILE: artifacts\cleand_data\status.txt
   
