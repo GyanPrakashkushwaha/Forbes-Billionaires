@@ -39,7 +39,7 @@ class CustomException(Exception):
 
         return error_msg 
     
-    def __init__(self, error_msg,error_detail:sys):
+    def __init__(self, error_msg,error_detail=sys):
         super().__init__(error_msg)
         self.error_msg = self.msg_detail(error=error_msg,error_details=error_detail)
 
