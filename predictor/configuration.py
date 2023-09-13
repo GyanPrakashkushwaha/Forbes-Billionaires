@@ -1,5 +1,5 @@
 from predictor.constatns import *
-from predictor.utils import *
+from utils import *
 from predictor.entity.config_entity import DataValidationConfig
 
 
