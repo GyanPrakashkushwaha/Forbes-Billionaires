@@ -8,7 +8,7 @@ class DataValidataion:
     
     def validate_features(self) -> bool:
         try:
-            validation_status = False
+            validation_status = True
             df = pd.read_csv(self.config_in.data_dir)
             all_features = list(df.columns)
             all_schema = self.config_in.schema_check
@@ -24,7 +24,7 @@ class DataValidataion:
                     with open(self.config_in.STATUS_file,'w') as f:
                         f.write(f"Validation status: {validation_status}")
             
-            for dtypes in all_features
+            logger.info(f'data validation status is [{validation_status}]')
 
             return validation_status
         except Exception as e:
