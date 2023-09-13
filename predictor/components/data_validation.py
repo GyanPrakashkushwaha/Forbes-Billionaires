@@ -23,6 +23,8 @@ class DataValidataion:
                     validation_status = True
                     with open(self.config_in.STATUS_file,'w') as f:
                         f.write(f"Validation status: {validation_status}")
+            
+            for dtypes in all_features
 
             return validation_status
         except Exception as e:
