@@ -1,6 +1,6 @@
 from predictor.constatns import *
 from utils import *
-from predictor.entity.config_entity import DataValidationConfig
+from predictor.config_entity import DataValidationConfig
 
 
 class ConfigurationManager:

@@ -1,5 +1,4 @@
-
-from entity.config_entity import DataValidationConfig
+from predictor.config_entity import DataValidationConfig
 from predictor import CustomException, logger
 import pandas as pd
 
