@@ -9,7 +9,7 @@ class NonEmptyLogFilter(logging.Filter):
 
 logging_str = "[%(asctime)s: %(levelname)s: %(module)s: %(message)s]"
 log_dir = "logs"
-log_filepath = os.path.join(log_dir, f"{datetime.now():%d_%m_%H_%M_%S}.log")
+log_filepath = os.path.join(log_dir, f"running_logs.log")
 os.makedirs(log_dir, exist_ok=True)
 
 logging.basicConfig(

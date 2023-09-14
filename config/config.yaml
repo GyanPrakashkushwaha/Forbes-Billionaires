@@ -5,3 +5,7 @@ data_validation:
   data_dir: artifacts\cleand_data\billionaires.csv
   STATUS_FILE: artifacts\cleand_data\data_validation_status.txt
   
+data_transformation:
+  root_dir: artifacts\transformed_data
+  data_path: artifacts\cleand_data\encoded_data.csv
+  STATUS_FILE: artifacts\cleand_data\data_validation_status.txt
