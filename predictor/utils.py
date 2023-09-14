@@ -21,7 +21,7 @@ def read_yaml(path_to_yaml:Path) -> ConfigBox:
         
 
 @ensure_annotations
-def creat_dirs(path_to_dirs:list,verbose=True):
+def create_dirs(path_to_dirs:list,verbose=True):
     for path in path_to_dirs:
         os.makedirs(path,exist_ok=True)
         if verbose:

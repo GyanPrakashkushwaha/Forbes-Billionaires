@@ -1,0 +1,539 @@
+rank,net_worth,full_name,age,gender,country_of_citizenship,business_category,self_made,wealth_status
+2540,1,Kong Jian Min,55,1,27,7,1,1
+699,4,Tobi Lutke,42,1,22,1,1,1
+39,32,Tadashi Yanai & family,74,1,13,3,1,3
+1905,1,Youssef Mansour,77,1,0,6,1,2
+2020,1,Werner O. Weber,84,1,16,2,1,2
+1647,1,Pieter van der Does,53,1,1,1,1,1
+1368,2,Lutz Mario Helmig & family,76,1,25,4,1,3
+591,4,Issad Rebrab & family,79,1,0,5,1,1
+2020,1,Lee Ho-jin,60,1,11,6,0,3
+1027,2,Martin Lorentzon,54,1,15,1,1,2
+344,6,Philippe Laffont,55,1,28,0,1,3
+256,8,Laurent Dassault,69,1,14,6,0,1
+982,3,Jean-Pierre Cayard,80,1,14,5,0,3
+1647,1,Thomas Wu,72,1,18,0,0,1
+1434,2,Wei Yin-Heng,64,1,18,5,1,3
+1272,2,Otto Philipp Braun,45,1,25,4,0,1
+34,35,Ma Huateng,51,1,27,1,1,1
+2405,1,Ye Qiongjiu,68,0,27,1,1,3
+878,3,Chen Shibin,56,1,27,2,1,3
+949,3,Sergei Gordeev,50,1,24,7,1,3
+2405,1,Yanqiao Ye,53,1,27,5,1,1
+611,4,Jiang Bin,56,1,27,1,1,1
+1368,2,Adam Neumann,44,1,12,7,1,3
+1104,2,Jack Cowin,80,1,17,5,1,1
+2540,1,Andrei Molchanov,51,1,24,13,1,0
+261,8,Patrick Ryan,85,1,28,0,1,2
+1368,2,Kai Wu,55,1,27,8,1,1
+1272,2,Peter Hargreaves,76,1,19,0,1,1
+2133,1,Elena Baturina,60,0,24,13,1,1
+1905,1,Lu Zongjun,59,1,27,14,1,1
+2405,1,Yu Faxiang,51,1,27,9,1,1
+1164,2,Cen Junda,58,1,27,4,1,3
+878,3,Nik Storonsky,38,1,19,0,1,1
+949,3,Charles Edelstenne,85,1,14,2,1,1
+1905,1,Zhang Bangxin,43,1,27,12,1,0
+1272,2,Urs Wietlisbach,61,1,16,0,1,1
+383,6,Nadia Thiele,47,0,25,0,0,3
+523,5,Hansjoerg Wyss,88,1,16,4,1,3
+636,4,Daniel Tsai,66,1,18,0,0,1
+2020,1,Xinghai Zhang & family,60,1,27,2,1,1
+1217,2,Bill Haslam,64,1,28,3,0,3
+1804,1,Zhang Xuexin & family,75,1,27,11,1,1
+45,30,Colin Zheng Huang,43,1,27,1,1,3
+2133,1,Yves-Loic Martin,57,1,14,4,1,1
+2405,1,Sara Blakely,52,0,28,3,1,2
+1434,2,Katarina Martinson,41,0,15,6,0,3
+1368,2,J. Hyatt Brown,85,1,28,0,0,1
+787,3,Huang Yi,61,1,23,10,1,1
+1434,2,Anand Mahindra,67,1,26,6,0,3
+1027,2,Liu Xiaodong,55,1,27,2,1,3
+679,4,Hubert Burda,83,1,25,9,0,3
+2540,1,"Richard Yuengling, Jr.",80,1,28,5,0,2
+425,6,Sumet Jiaravanon,88,1,9,6,0,3
+1905,1,Egon Durban,49,1,28,0,1,2
+1575,1,Jennifer Pritzker,72,0,28,0,0,1
+2133,1,Roman Avdeev,55,1,24,0,1,0
+636,4,Herbert Wertheim,83,1,28,0,1,3
+1164,2,Adam Kwok,40,1,23,7,0,3
+1575,1,Wang Chaobin,67,1,27,7,1,2
+1434,2,Stefano Gabbana,60,1,21,3,1,3
+12,79,Larry Page,50,1,28,1,1,1
+1725,1,Vladimir Yevtushenkov,74,1,24,16,1,2
+2405,1,Zhang Xuewu,48,1,27,5,1,0
+2405,1,Marina Budiman,61,0,6,1,1,1
+2133,1,Cai Mingtong,71,1,27,1,1,1
+1067,2,Akira Mori & family,86,1,13,7,0,1
+2405,1,Said Gutseriev,34,1,24,8,0,0
+878,3,Todd Wanek,59,1,28,2,0,1
+268,7,Jay Y. Lee,54,1,11,1,0,1
+1575,1,Mika Anttonen,56,1,0,8,1,3
+1725,1,Rolf Gerling,68,1,25,0,0,2
+215,9,David Cheriton,72,1,22,1,1,1
+1905,1,Barbara Benetton,53,0,21,3,0,3
+1368,2,Aneel Bhusri,57,1,28,1,1,1
+982,3,Sunny Varkey,65,1,26,12,0,3
+580,4,Thomas Secunda,68,1,28,9,1,3
+1804,1,Liora Ofer,69,0,12,0,0,1
+552,4,Dan Snyder,58,1,28,15,1,3
+721,3,Yu Renrong,57,1,27,2,1,1
+748,3,Stephen Feinberg,63,1,28,0,1,3
+1434,2,Raveendran Byju,41,1,26,1,1,1
+591,4,Fred Smith,78,1,28,14,1,1
+1905,1,Wei Gu,58,1,27,2,1,2
+2133,1,Kazuo Okada,80,1,13,17,1,1
+1905,1,Chang Kuo-Hua,68,1,18,14,0,1
+1905,1,G. Gnanalingam,78,1,4,14,1,1
+721,3,Vanich Chaiyawan,91,1,9,0,1,3
+1804,1,Chey Tae-won,62,1,11,1,0,1
+1804,1,Juan Maria Riberas Mera,54,1,8,11,0,0
+2405,1,Liying Chen,47,0,27,14,1,1
+659,4,Thomas Hagen,87,1,28,0,0,3
+1516,2,Huwen Chen,52,1,27,2,1,1
+1804,1,Wang Changtian,57,1,27,9,1,1
+1027,2,Zhou Jianping,62,1,27,3,1,2
+1516,2,Zhu Yiwen & family,59,1,27,4,1,3
+2405,1,Rahul Gautam,70,1,26,3,0,1
+2540,1,Benedicte Find,68,0,0,4,0,1
+1027,2,Isak Andic & family,69,1,8,3,1,3
+1368,2,Brian Armstrong,40,1,28,0,1,1
+1164,2,Hans Melchers,84,1,1,0,1,1
+223,8,Tatyana Bakalchuk,47,0,24,3,1,3
+1164,2,Maria-Elisabeth Schaeffler-Thumann,81,0,25,10,0,3
+2259,1,Qian Ying,57,0,27,5,1,1
+1312,2,David Nahmad,75,1,0,3,1,3
+905,3,Lee Boo-jin,52,0,11,1,0,1
+1164,2,Zhao Lixin,57,1,27,1,1,1
+2405,1,Rao Wei & family,58,1,27,4,1,0
+905,3,Ravi Pillai,69,1,26,13,1,3
+2133,1,Li Denghai,73,1,27,5,1,1
+852,3,Somphote Ahunai,55,1,9,8,1,1
+905,3,Roman Trotsenko,52,1,24,14,1,0
+1516,2,Oei Hong Leong,75,1,7,0,0,3
+511,5,Sam Zell,81,1,28,7,1,1
+2259,1,Eugene Wu,77,1,18,0,0,1
+2133,1,Rustem Sulteev,69,1,24,8,1,2
+1575,1,Roberto Angelini Rossi,74,1,0,6,0,3
+699,4,Paul Lee,65,1,28,2,1,1
+2133,1,Peng Zhao,52,1,27,12,1,2
+1905,1,Wang Junmin,54,1,27,4,1,3
+1647,1,R.G. Chandramogan,74,1,26,5,1,1
+2133,1,Devi Shetty,70,1,26,4,1,3
+390,6,David Bonderman,80,1,28,0,1,3
+1516,2,Sylvia Stroeher,67,0,25,3,0,2
+405,6,Gao Jifan & family,58,1,27,8,1,1
+1312,2,Sanjit Biswas,41,1,28,1,1,3
+2259,1,Chen Xianbao & family,63,1,27,5,1,1
+905,3,Lynn Schusterman,84,0,28,8,0,1
+1272,2,Lucio Tan,88,1,5,6,1,3
+1575,1,James Dinan,63,1,28,0,1,2
+1725,1,He Zhaoxi,49,1,27,1,1,2
+1164,2,Yvonne Bauer,46,0,25,9,0,1
+2133,1,Rajendra Agarwal,64,1,26,4,1,1
+1272,2,Mortimer Zuckerman,85,1,28,7,1,1
+982,3,Yonghong Shi & family,54,1,27,5,1,1
+68,22,Cyrus Poonawalla,81,1,26,4,0,1
+332,7,Dmitri Bukhman,37,1,12,9,1,1
+1434,2,Dennis Gillings,78,1,19,4,1,2
+1104,2,Wong Man Li,58,1,23,2,1,1
+332,7,Don Vultaggio & family,71,1,28,5,1,3
+466,5,James Chambers,65,1,28,9,0,3
+818,3,Barry Zekelman,56,1,22,2,0,3
+721,3,Giuseppe De'Longhi & family,83,1,21,3,0,1
+1312,2,John Bicket,43,1,28,1,1,3
+1067,2,Wong Luen Hei,61,1,27,2,1,1
+1804,1,Gary Fegel,49,1,16,11,1,2
+699,4,Isaac Perlmutter,80,1,28,9,1,1
+397,6,Dennis Washington,88,1,28,14,1,1
+1104,2,Jose Joao Abdalla Filho,77,1,20,0,0,1
+2259,1,Alexander Klyachin,55,1,24,7,1,0
+2259,1,Chung Yong-jin,54,1,11,3,0,1
+148,11,Thomas Struengmann & family,73,1,25,4,1,1
+1516,2,Pavel Baudis,62,1,0,1,1,1
+195,9,Luo Liguo & family,67,1,27,2,1,1
+878,3,Bennett Dorrance,77,1,28,5,0,3
+1368,2,Charles Munger,99,1,28,0,1,1
+1647,1,Olivier Pomel,46,1,14,1,1,1
+2133,1,Konstantin Strukov & family,64,1,24,11,1,0
+2020,1,He Xiaopeng,45,1,27,10,1,1
+223,8,John Doerr,71,1,28,1,1,1
+1434,2,Eugene Kaspersky,57,1,24,1,1,3
+246,8,John Morris,75,1,28,3,1,3
+949,3,Martin Ebner,77,1,16,0,1,1
+1027,2,Vikas Oberoi,52,1,26,7,0,1
+1804,1,Jim Crane,69,1,28,15,1,3
+94,17,Steve Cohen,66,1,28,0,1,3
+2020,1,Girdhari Lal Bawri,75,1,26,4,1,1
+133,13,Jerry Jones,80,1,28,15,1,3
+982,3,Semahat Sevim Arsel,94,0,10,6,0,3
+1434,2,Nirmal Minda,65,1,26,10,0,1
+1434,2,Wei Ing-Chou,69,1,18,5,1,3
+305,7,Ma Jianrong & family,59,1,27,3,1,1
+140,12,Mikhail Fridman,58,1,24,8,1,3
+425,6,Alain Bouchard,74,1,22,3,1,3
+659,4,Lin Li,59,1,27,0,1,1
+208,9,Eric Smidt,63,1,28,3,1,3
+157,11,Johann Rupert & family,72,1,0,3,0,3
+699,4,Rufino Vigil Gonzalez,74,1,2,11,1,3
+2405,1,Stephane Bonvin,56,1,16,7,1,1
+56,25,Low Tuck Kwong,74,1,6,8,1,3
+2259,1,Thongma Vijitpongpun,65,1,9,7,1,2
+1516,2,Zygmunt Solorz-Zak,66,1,0,9,1,1
+1516,2,William Franke,85,1,28,6,1,1
+1312,2,Clayton Mathile,82,1,28,5,1,2
+390,6,Simon Reuben,81,1,19,6,1,1
+2133,1,Mitchell Jacobson,72,1,28,12,0,2
+2405,1,Sehat Sutardja,61,1,28,1,1,1
+317,7,Zong Qinghou,77,1,27,5,1,1
+2540,1,Edouard Carmignac,75,1,14,0,1,1
+748,3,Wesley Edens,61,1,28,0,1,3
+2540,1,Li Wanqiang,45,1,27,1,1,1
+2405,1,Wang Han,35,1,27,6,0,1
+611,4,Odd Reitan & family,71,1,3,3,0,1
+1434,2,Anand Burman,70,1,26,5,0,1
+591,4,"Andre Koo, Sr.",55,1,18,0,0,1
+1905,1,Frank Slootman,64,1,28,1,1,1
+1217,2,Roger Wang,74,1,28,3,1,1
+852,3,Leena Tewari,65,0,26,4,0,1
+1905,1,Robert Mouawad,78,1,0,12,0,2
+2540,1,Tyler Perry,53,1,28,9,1,2
+455,5,Wu Jianshu,59,1,23,10,1,1
+130,13,John Fredriksen,78,1,0,14,1,3
+1067,2,Meg Whitman,66,0,28,1,1,1
+2020,1,Qin Long,57,1,27,2,1,1
+982,3,Martua Sitorus,63,1,6,2,1,3
+1905,1,Sandor Csanyi,70,1,0,6,1,3
+1434,2,Edward Stack,68,1,28,3,1,3
+2259,1,Mehmet Aydinlar,66,1,10,4,1,1
+982,3,Hui Ka Yan,64,1,27,7,1,1
+1804,1,Robert Clark,64,1,28,13,1,2
+2133,1,Lu Hongyan,45,1,27,9,1,3
+787,3,Wang Junlin,60,1,27,5,1,1
+580,4,Li Gaiteng,50,1,27,2,1,3
+1647,1,Nihat Ozdemir,72,1,10,6,1,1
+1164,2,Louis Le Duff,76,1,14,5,1,3
+1434,2,Harsh Goenka,65,1,26,6,0,2
+1164,2,Julian Baker,56,1,28,0,1,1
+2540,1,Chen Jiancheng,64,1,27,2,1,1
+2540,1,Lev Kvetnoi,57,1,24,0,1,0
+157,11,Giorgio Armani,88,1,21,3,1,3
+2540,1,Christian Angermayer,44,1,25,0,1,1
+591,4,Ronald Lauder,79,1,28,3,0,1
+2133,1,Hari Bhartia,66,1,26,6,0,1
+1067,2,Ranjan Pai,50,1,26,12,0,3
+1104,2,Juan Abello,81,1,8,0,0,1
+721,3,Ruan Hongliang & family,62,1,27,2,1,1
+107,15,Pang Kang,67,1,27,5,1,1
+878,3,Bill Austin,81,1,28,2,1,3
+445,5,Thomas Schmidheiny,77,1,16,13,0,3
+2020,1,Bo Wu,68,1,27,2,1,2
+2020,1,Reinold Geiger,75,1,0,3,1,1
+2540,1,Ma Xiuhui,52,0,27,2,1,1
+1725,1,Kommer Damen,79,1,1,2,0,1
+4,107,Larry Ellison,78,1,28,1,1,3
+2405,1,Vonnarat Tangkaravakoon,51,1,9,2,0,1
+1434,2,Rafique Malik,72,1,26,3,0,3
+2020,1,Antti Aarnio-Wihuri,83,1,0,6,0,1
+1725,1,Edward Kwok,42,1,23,7,0,3
+1104,2,Thomas Tull,52,1,28,9,1,3
+2405,1,Gan Zhongru,74,1,27,4,1,1
+497,5,Elizabeth Johnson,59,0,28,0,0,3
+1516,2,Huang Qiaoling,64,1,27,9,1,3
+982,3,Lin Ming-hsiung,73,1,18,3,1,1
+6,104,Bill Gates,67,1,28,1,1,1
+1516,2,Heikki Kyostila,77,1,0,4,1,3
+1725,1,Marc Andreessen,51,1,28,0,1,2
+1164,2,Hongyi Zhou,52,1,27,1,1,3
+455,5,Ken Langone,87,1,28,0,1,1
+1804,1,Steven Meng Yang & family,40,1,27,1,1,1
+35,35,Ken Griffin,54,1,28,0,1,3
+2133,1,Randal Nardone,67,1,28,0,1,2
+1725,1,Tom Werner,72,1,28,15,1,3
+1804,1,Michael Polsky,74,1,28,8,1,3
+982,3,"Ernest Garcia, II.",65,1,28,10,1,1
+1368,2,Wang Zhenghua,78,1,27,12,1,3
+1647,1,Alejandro Bulgheroni,78,1,0,8,0,1
+1647,1,Binod Chaudhary,67,1,0,6,0,3
+1272,2,Catherine Lozick,77,0,28,2,0,3
+766,3,Brad Jacobs,66,1,28,14,1,2
+624,4,Jim Davis,63,1,28,12,1,3
+1575,1,Vardis Vardinoyannis & family,90,1,0,8,1,3
+2020,1,Nobutoshi Shimamura,97,1,13,3,1,3
+1725,1,Hal Jackman,90,1,22,0,1,1
+2020,1,Charlotte Soderstrom,46,0,15,3,0,1
+552,4,Murali Divi & family,72,1,26,4,1,1
+1272,2,Abilio dos Santos Diniz,86,1,20,3,0,1
+2020,1,Xu Guozhong & family,59,1,27,2,1,1
+1725,1,Keiichi Shibahara,58,1,13,4,1,3
+1804,1,Tench Coxe,65,1,28,0,1,1
+1905,1,Greg Mondre,48,1,28,0,1,2
+552,4,Jonathan Gray,53,1,28,0,1,1
+1104,2,Liang Yunchao,54,1,27,5,1,1
+1905,1,Karl-Johan Persson,48,1,15,3,0,2
+418,6,Michael Kadoorie,81,1,23,8,0,1
+2133,1,Zbigniew Juroszek & family,60,1,0,6,1,3
+1434,2,Yuan Fugen & family,72,1,27,2,1,3
+195,9,Valerie Mars,64,0,28,5,0,3
+1027,2,Gudrun Heine,68,0,25,4,0,1
+567,4,Michael Ashley,58,1,19,3,1,3
+523,5,Denise York & family,72,0,28,15,0,3
+2133,1,Deniz Sahenk,77,0,10,6,0,2
+679,4,Donald Sterling,88,1,28,7,1,3
+1516,2,Huang Dawen,62,1,23,2,1,1
+405,6,John Grayken,66,1,0,0,1,1
+818,3,Vivek Chaand Sehgal,66,1,17,10,1,3
+352,6,Silvio Berlusconi & family,86,1,21,6,1,1
+1217,2,J. Tomilson Hill,74,1,28,0,1,1
+1368,2,Tang Xiao'ou,55,1,23,1,1,1
+317,7,Don Hankey,79,1,28,0,1,3
+290,7,Hasmukh Chudgar & family,89,1,26,4,1,3
+2133,1,Kagemasa Kozuki,82,1,13,1,1,1
+523,5,Charles B. Johnson,90,1,28,0,0,2
+2259,1,Jose Isaac Peres & family,82,1,20,7,1,3
+1434,2,Kiril Domuschiev,53,1,0,6,1,3
+1272,2,Tsai Ming-kai,72,1,18,1,1,1
+2259,1,Wu Chung-yi,67,1,18,2,0,2
+80,20,Vagit Alekperov,72,1,24,8,1,3
+818,3,Remo Ruffini,61,1,21,3,1,3
+1804,1,Richard Fortin,74,1,22,3,1,3
+1067,2,Najib Mikati,67,1,0,16,1,1
+2540,1,Hu Gengxi & family,59,1,27,4,1,0
+1312,2,Bom Kim,44,1,28,1,1,1
+2540,1,Johanna Braun,43,0,25,4,0,2
+982,3,Feng Hailiang,62,1,27,11,1,3
+905,3,Arun Bharat Ram,82,1,26,2,0,1
+53,26,William Lei Ding,51,1,27,1,1,3
+2405,1,Bernd Freier,66,1,25,3,1,1
+1575,1,Zhang Hongwei,68,1,27,6,1,1
+721,3,W. Herbert Hunt,94,1,28,8,0,1
+982,3,Zhu Gongshan & family,65,1,27,2,1,1
+1164,2,Alejandro Santo Domingo,46,1,28,5,0,2
+223,8,Pierre Omidyar,55,1,28,1,1,1
+1575,1,Peter Sondakh,73,1,6,0,1,1
+41,31,Gerard Wertheimer,72,1,14,3,0,3
+497,5,Thomas Pritzker,72,1,28,0,0,3
+1575,1,Strive Masiyiwa,62,1,0,16,1,1
+1804,1,Michael Tojner,57,1,0,2,1,1
+1217,2,Oleg Deripaska,55,1,24,11,1,3
+2259,1,Lina Tombolato,75,0,21,0,0,1
+1804,1,Francisco Jose Riberas Mera,58,1,8,2,0,3
+2540,1,Hedda im Brahm-Droege,68,0,25,0,1,1
+2540,1,Stelios Haji-Ioannou,56,1,0,12,0,1
+511,5,Cheng Xue,53,0,27,5,1,1
+1905,1,Mohammed Dewji,47,1,0,6,0,2
+1647,1,Tran Dinh Long,62,1,0,2,1,1
+179,10,Wu Yajun,59,0,27,7,1,1
+2540,1,Morris Kahn,93,1,12,1,1,2
+2133,1,Michael Krasny,69,1,28,1,1,2
+2540,1,He Yamin & family,66,1,27,2,1,1
+721,3,Gabe Newell,60,1,28,17,1,2
+1575,1,Sarah MacMillan,69,0,28,5,0,1
+1905,1,Philippe Ginestet & family,69,1,14,3,1,1
+5,106,Warren Buffett,92,1,28,0,1,1
+1725,1,Jonathan Tisch,69,1,28,6,0,3
+1647,1,Christopher Goldsbury,80,1,28,5,0,2
+365,6,Xu Shihui,65,1,27,5,1,1
+106,16,Michael Platt,55,1,19,0,1,3
+2020,1,Drew Houston,40,1,28,1,1,1
+818,3,Xiao Yongming & family,58,1,27,6,1,1
+1905,1,Tran Ba Duong & family,63,1,0,10,1,1
+2020,1,Radik Shaimiev,58,1,24,8,1,3
+982,3,Susan Carol Holland,66,0,21,2,0,1
+1905,1,Sergei Studennikov & family,56,1,24,3,1,0
+8,93,Carlos Slim Helu & family,83,1,2,16,1,3
+1516,2,William Young,82,1,28,2,1,1
+1368,2,James Jannard,73,1,28,3,1,1
+1575,1,Reid Hoffman,55,1,28,1,1,1
+2133,1,Hoi Kin Hong,70,1,0,7,1,1
+208,9,Azim Premji,77,1,26,1,0,1
+1217,2,Ye Guofu,45,1,27,3,1,0
+1647,1,Amy Wyss,52,0,28,4,0,1
+1312,2,Alberto Siccardi & family,78,1,16,4,0,1
+141,12,Sarath Ratanavadi,57,1,9,8,1,3
+153,11,Mikhail Prokhorov,57,1,24,0,1,3
+437,5,Antony Ressler,62,1,28,0,1,3
+818,3,Maurizio Billi,65,1,20,4,0,3
+787,3,Alan Howard,59,1,19,0,1,3
+93,17,Lakshmi Mittal,72,1,26,11,0,1
+1312,2,Lim Kok Thay,71,1,4,17,0,3
+2405,1,Masayuki Ishihara,74,1,13,17,0,0
+2020,1,Liu Ming Chung,60,1,20,2,1,1
+1575,1,Masateru Uno & family,76,1,13,3,1,1
+2540,1,Anna Maria Braun,44,0,25,4,0,1
+1434,2,William Boyd & family,91,1,28,17,1,1
+1516,2,Craig McCaw,73,1,28,16,0,1
+2405,1,He Zuxun,57,1,27,5,1,1
+1647,1,David Mindus,51,1,15,7,1,1
+1368,2,Willis Johnson,75,1,28,10,1,3
+21,56,Alice Walton,73,0,28,3,0,1
+2405,1,Thomas Bruch,72,1,25,3,0,1
+1647,1,Brian Higgins,58,1,28,0,1,2
+2133,1,Conni Jonsson,62,1,15,0,1,1
+1027,2,Haim Saban,78,1,28,9,1,1
+1104,2,Robert Friedland,72,1,28,11,1,3
+390,6,Radovan Vitek,51,1,0,7,1,3
+1368,2,Huijiao Yu,57,1,27,14,1,1
+344,6,Ronda Stryker,68,0,28,4,0,3
+2133,1,Jin Xin,56,1,27,2,1,1
+1647,1,Alan Zekelman,60,1,22,2,0,3
+290,7,John Reece,66,1,19,2,1,3
+1905,1,Tang Binsen,40,1,27,5,1,2
+2133,1,James Scapa,66,1,28,1,1,2
+1647,1,Riaz Valani,46,1,28,0,1,1
+1272,2,Rajan Raheja & family,68,1,26,6,0,2
+1575,1,Chuanhua Xu & family,88,1,27,2,1,1
+1272,2,Ted Turner,84,1,28,9,0,3
+949,3,Ryan Cohen,37,1,22,0,1,3
+365,6,John A. Sobrato & family,83,1,28,7,1,3
+26,45,Zhang Yiming,39,1,27,1,1,1
+1272,2,Mitchell Goldhar,61,1,22,7,1,1
+982,3,Lei Zhang,50,1,27,0,1,2
+2540,1,Inigo Zobel,66,1,5,6,0,0
+2540,1,Scott Smith,73,1,28,1,1,1
+1647,1,Jayme Garfinkel & family,77,1,20,0,0,3
+1647,1,Tim Cook,62,1,28,1,1,1
+1434,2,Yu Qibing & family,57,1,27,2,1,1
+2020,1,Ayman Hariri,44,1,0,13,0,2
+1272,2,Kwek Leng Kee,68,1,7,6,0,3
+1434,2,Florentino Perez,76,1,8,13,1,3
+818,3,Walter P.J. Droege,70,1,25,0,1,1
+1027,2,Li Li,57,1,27,4,1,3
+365,6,Magdalena Martullo-Blocher,54,0,16,2,0,1
+1647,1,Nikil Viswanathan,35,1,28,1,1,1
+1725,1,Sun Huaiqing & family,53,1,27,3,1,3
+1905,1,Mori Arkin,70,1,12,4,1,1
+1905,1,David Penaloza Alanis,49,1,2,13,0,3
+2133,1,Fernando Roig,75,1,8,3,0,1
+679,4,Igor Kesaev,56,1,24,3,1,3
+1027,2,Li Jianquan & family,66,1,23,4,1,1
+1027,2,Alexey Repik,43,1,24,4,1,3
+1434,2,Wang Linpeng,54,1,27,13,1,1
+242,8,Zheng Shuliang & family,77,0,27,11,0,1
+2540,1,Kochouseph Chittilappilly,72,1,26,2,1,0
+699,4,Jerzy Starak,75,1,0,4,1,2
+905,3,Aristotelis Mistakidis,61,1,0,11,1,1
+24,47,Gautam Adani,60,1,26,6,1,1
+982,3,Lin Xiucheng & family,67,1,27,1,1,1
+2020,1,Jared Smith,48,1,28,1,1,2
+1804,1,Bill Gross,78,1,28,0,1,2
+2540,1,Ashok Kajaria,75,1,26,2,1,0
+1027,2,Karthik Sarma,48,1,26,0,1,1
+84,19,Li Eric,59,1,27,10,1,1
+1647,1,Joe Lau,33,1,28,1,1,1
+1804,1,P.N.C. Menon,74,1,0,7,1,0
+1575,1,Mehmet Sinan Tara,64,1,10,13,0,3
+1804,1,Massimo Moratti,77,1,21,8,0,3
+2259,1,Bernhard Braun-Luedicke,46,1,25,4,0,1
+949,3,Gurbachan Singh Dhingra,72,1,26,2,1,1
+2259,1,Luc Tack,61,1,0,2,1,2
+352,6,Viktor Vekselberg,65,1,24,6,1,3
+905,3,Luciano Hang,60,1,20,3,1,1
+1516,2,T. Denny Sanford,87,1,28,0,1,1
+2133,1,Xu Shaochun,60,1,27,1,1,1
+1312,2,Tang Yiu,89,1,23,3,1,1
+57,25,Thomas Peterffy,78,1,28,0,1,3
+466,5,Pierre Chen,66,1,18,1,1,3
+405,6,Anthony Bamford & family,77,1,19,13,0,3
+852,3,Ramon Ang,69,1,5,5,1,3
+486,5,Mat Ishbia,43,1,28,0,0,3
+2133,1,Chin Jong Hwa,64,1,18,10,1,1
+1575,1,Elizabeth Sy,70,0,5,6,0,1
+52,27,Gina Rinehart,69,0,17,11,0,1
+1725,1,Alain Taravella,75,1,14,7,1,1
+748,3,Li Xiang,41,1,27,10,1,1
+344,6,Edythe Broad & family,87,0,28,6,0,2
+1516,2,Anu Aga,80,0,26,13,0,3
+2020,1,Vladimir Bogdanov,71,1,24,8,1,0
+2259,1,Murdaya Poo,82,1,6,6,0,2
+1516,2,Bill Malhotra,73,1,22,7,1,3
+1312,2,K. Dinesh,68,1,26,1,1,1
+905,3,Giuliana Benetton,85,0,21,3,1,3
+455,5,Vikram Lal & family,81,1,26,10,0,3
+766,3,Yitzhak Tshuva,74,1,12,7,1,1
+552,4,Zhang Tao,50,1,27,3,1,1
+1104,2,"Frank Fertitta, III.",61,1,28,15,0,3
+1104,2,Hans Langer,71,1,25,2,1,3
+748,3,Tsai Cheng-ta,73,1,18,0,0,1
+567,4,H. Fisk Johnson,64,1,28,2,0,3
+497,5,Ronald Wanek,81,1,28,2,1,1
+1725,1,Asok Kumar Hiranandani,68,1,7,7,0,3
+23,50,Michael Dell,58,1,28,1,1,1
+1804,1,Li Sze Lim,66,1,23,7,1,2
+486,5,Stefan Reimann-Andersen,59,1,25,3,0,1
+1067,2,"Drayton McLane, Jr.",86,1,28,3,0,1
+2259,1,Vitaly Orlov,58,1,24,5,1,0
+256,8,Karel Komarek,54,1,0,17,1,3
+1575,1,Dong Fan,53,1,27,4,1,1
+699,4,Guangchang Guo,56,1,27,6,1,1
+818,3,Daniel Loeb,61,1,28,0,1,1
+112,15,Dilip Shanghvi,67,1,26,4,1,2
+766,3,Jason Jiang,50,1,27,9,1,1
+2259,1,Mao Zhongwu,60,1,27,2,1,1
+679,4,Andrej Babis,68,1,0,5,1,1
+2259,1,Zhang Yin,66,0,27,2,1,1
+171,10,Eduardo Saverin,41,1,20,1,1,1
+1067,2,Li Weiguo,58,1,27,2,1,1
+1217,2,Lin Chen-hai,76,1,18,7,1,1
+397,6,Alexei Kuzmichev,60,1,24,8,1,3
+982,3,John Paulson,67,1,28,0,1,1
+276,7,Qi Shi & family,53,1,27,1,1,1
+2020,1,Liu Fangyi,53,1,27,4,1,1
+1164,2,Dieter Schnabel,77,1,25,2,0,3
+1272,2,Jerry Yang,54,1,28,1,1,1
+580,4,Andre Esteves,54,1,20,0,1,1
+256,8,Tilman Fertitta,65,1,28,5,1,3
+1905,1,Ahmet Calik,65,1,10,6,1,2
+1104,2,Glenn Dubin,65,1,28,0,1,3
+1905,1,Sidney Kimmel,95,1,28,3,1,2
+1434,2,Alexander Nesis,60,1,24,0,1,3
+2133,1,Pongsak Viddayakorn,89,1,9,4,1,3
+103,16,Li Xiting,72,1,7,4,1,1
+1575,1,James Leprino,85,1,28,5,0,1
+118,14,Charoen Sirivadhanabhakdi,78,1,9,5,1,3
+49,28,Jim Simons,84,1,28,0,1,1
+1312,2,Hua Li,45,1,27,0,1,3
+208,9,John Malone,82,1,28,9,1,3
+982,3,Guangxin Sun,60,1,27,6,1,3
+905,3,Senapathy Gopalakrishnan,67,1,26,1,1,1
+1647,1,Robert Duggan,78,1,28,4,1,1
+534,5,Ron Baron,79,1,28,0,1,3
+818,3,Wim van der Leegte & family,75,1,1,2,0,3
+905,3,Michael Hintze,69,1,17,0,1,2
+383,6,Trudy Cathy White,67,0,28,5,0,3
+65,23,Iris Fontbona & family,80,0,0,11,0,3
+679,4,John Catsimatidis,74,1,28,8,1,3
+2405,1,Nancy Lerner,62,0,28,0,0,2
+2405,1,Lars Wingefors,46,1,15,9,1,1
+1516,2,Phongthep Chiaravanont,71,1,9,6,0,3
+905,3,Dong Jinggui,53,1,27,10,1,3
+2540,1,Pollyanna Chu,64,0,23,0,1,2
+2259,1,Guy Laliberté,63,1,22,9,1,2
+591,4,Li Chunan,54,1,27,2,1,1
+787,3,Xia Zuoquan,61,1,27,10,1,3
+679,4,Antti Herlin,66,1,0,2,0,1
+2540,1,Rui Chen,45,1,27,9,1,0
+2540,1,Liu Baolin,69,1,27,3,1,2
+982,3,"Edward DeBartolo, Jr.",76,1,28,7,0,3
+1027,2,Zarakh Iliev,56,1,24,7,1,3
+151,11,Liu Hanyuan,59,1,27,5,1,1
+699,4,"Bernard Saul, II.",90,1,28,0,0,3
+787,3,Tung Chee Chen,80,1,23,14,0,2
+223,8,Carrie Perrodo & family,72,0,14,8,0,3
+982,3,Jean Coutu & family,95,1,22,3,1,1
+232,8,Manuel Villar,73,1,5,7,1,3
+2259,1,Markus Persson,43,1,15,9,1,1
+15,68,Zhong Shanshan,68,1,27,5,1,3
+1164,2,Chen Zhiping,47,1,27,2,1,1
+497,5,M.A. Yusuff Ali,67,1,26,3,1,1
+1647,1,Mark Coombs,62,1,19,0,1,2
+1575,1,Xie Juhua & family,72,0,27,4,0,1
+2020,1,Zhang Chuanwei & family,60,1,27,2,1,1
+1647,1,Louise Lindh,43,0,15,6,0,3
+1725,1,David Booth,77,1,28,0,1,2
+142,12,Jiang Rensheng & family,69,1,27,4,1,1
+1647,1,Koo Kwang-mo,45,1,11,6,0,3
+114,15,Radhakishan Damani,68,1,26,3,1,1
+1647,1,Cameron Adams,43,1,17,1,1,1
+2133,1,Wang Mingwang,55,1,27,2,1,1
+552,4,Chairul Tanjung,60,1,6,6,1,1
