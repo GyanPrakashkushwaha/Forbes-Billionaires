@@ -35,11 +35,10 @@ class ConfigurationManager:
 
         return data_validation_config
     
-
-    
     
     def get_data_transformation_config(self):
         config = self.config.data_transformation
+        schema = self.schema.columns_renamer
 
         create_dirs([config.root_dir])
 
@@ -47,8 +46,9 @@ class ConfigurationManager:
             root_dir=config.root_dir,
             data_path=config.data_path,
             Status_file=config.STATUS_FILE,
-            train_df_path=config.train_df_path,
-            test_df_path=config.test_df_path
+            transform_train_df_path=config.transformed_train_df_path,
+            transform_test_df_path=config.transformed_test_df_path,
+            feature_renamer_scehma=schema
         )
         
         

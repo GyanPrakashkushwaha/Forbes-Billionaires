@@ -15,8 +15,8 @@ class DataTransformationConfig:
     root_dir : Path
     data_path : Path
     Status_file : str
-    train_df_path : Path
-    test_df_path : Path
-    
+    transform_train_df_path : Path
+    transform_test_df_path : Path
+    feature_renamer_scehma:dict
 
 

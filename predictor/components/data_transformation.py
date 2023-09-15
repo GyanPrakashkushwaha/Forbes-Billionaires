@@ -6,7 +6,6 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 
-
 class TransformData:
     def __init__(self,config_transform_data:DataTransformationConfig) -> None:
         self.trans_config = config_transform_data
@@ -38,8 +37,36 @@ class TransformData:
         train_transformed = pd.DataFrame(data=X_train_transformed,columns=transformer.get_feature_names_out())
         test_transformed = pd.DataFrame(data=X_test_transformed,columns=transformer.get_feature_names_out())
 
-        train_transformed.to_csv(self.trans_config.train_df_path,index=False)
-        test_transformed.to_csv(self.trans_config.test_df_path,index=False)
+        train_transformed = train_transformed.rename(columns={
+                                    'scale_values__rank': 'rank',
+                                    'scale_values__age': 'age',
+                                    'scale_values__country_of_citizenship': 'country_of_citizenship',
+                                    'scale_values__business_category': 'business_category',
+                                    'scale_values__wealth_status': 'wealth_status',
+                                    'remainder__gender': 'gender',
+                                    'remainder__self_made': 'self_made'
+                                    }
+                                    )
+        
+        test_transformed = test_transformed.rename(columns={
+                                    'scale_values__rank': 'rank',
+                                    'scale_values__age': 'age',
+                                    'scale_values__country_of_citizenship': 'country_of_citizenship',
+                                    'scale_values__business_category': 'business_category',
+                                    'scale_values__wealth_status': 'wealth_status',
+                                    'remainder__gender': 'gender',
+                                    'remainder__self_made': 'self_made'
+                                    }
+                                    )
+
+        # train_transformed = train_transformed.rename(self.trans_config.feature_renamer_scehma)
+        # test_transformed = test_transformed.rename(self.trans_config.feature_renamer_scehma)
+        logger.info(f'renamed the features name')
+
+        
+
+        train_transformed.to_csv(self.trans_config.transform_train_df_path,index=False)
+        test_transformed.to_csv(self.trans_config.transform_test_df_path,index=False)
         
         logger.info("transformed data")
         logger.info(train_transformed.shape)
