@@ -16,5 +16,5 @@ class TransformData:
         test_df.to_csv(self.trans_config.test_df_path,index=False)
 
         logger.info("Splited data into training and test sets")
-        logger.info(train_df.shape)
-        logger.info(test_df.shape)
+        logger.info(f"train_df.shape-> {train_df.shape}")
+        logger.info(f"test_df.shape-> {test_df.shape}")
