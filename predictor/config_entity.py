@@ -10,6 +10,13 @@ class DataValidationConfig:
     schema_check:dict
 
 
-
+@dataclass(frozen=True)
+class DataTransformationConfig:
+    root_dir : Path
+    data_path : Path
+    Status_file : str
+    train_df_path : Path
+    test_df_path : Path
+    
 
 

@@ -1,6 +1,7 @@
 from predictor.constatns import *
 from utils import *
-from predictor.config_entity import DataValidationConfig
+from predictor.config_entity import (DataTransformationConfig,
+                                      DataValidationConfig)
 
 
 class ConfigurationManager:
@@ -33,6 +34,23 @@ class ConfigurationManager:
         )
 
         return data_validation_config
+    
+
+    
+    
+    def get_data_transformation_config(self):
+        config = self.config.data_transformation
+
+        create_dirs([config.root_dir])
+
+        return DataTransformationConfig(
+            root_dir=config.root_dir,
+            data_path=config.data_path,
+            Status_file=config.STATUS_FILE,
+            train_df_path=config.train_df_path,
+            test_df_path=config.test_df_path
+        )
+        
         
         
         
