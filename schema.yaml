@@ -12,3 +12,13 @@ INDEPENDENT_FEATURES:
 
 DEPENDENT_FEATURES:
   net_worth: int64
+
+
+columns_renamer:
+  scale_values__rank : rank
+  scale_values__age: age
+  scale_values__country_of_citizenship: country_of_citizenship
+  scale_values__business_category: business_category
+  scale_values__wealth_status: wealth_status
+  remainder__gender: gender
+  remainder__self_made: self_made

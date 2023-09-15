@@ -9,5 +9,5 @@ data_transformation:
   root_dir: artifacts\transformed_data
   data_path: artifacts\cleand_data\encoded_data.csv
   STATUS_FILE: artifacts\cleand_data\data_validation_status.txt
-  train_df_path: artifacts\transformed_data\train.csv
-  test_df_path: artifacts\transformed_data\test.csv
+  transformed_train_df_path: artifacts\transformed_data\train_transformed.csv
+  transformed_test_df_path: artifacts\transformed_data\test_transformed.csv
