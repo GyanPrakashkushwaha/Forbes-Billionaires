@@ -5,7 +5,7 @@ with open(file='README.md',mode='r',encoding='utf-8') as f:
 
 __version__ = '0.0.1'
 
-REPO_NAME = 'Forbes-Billionaires'
+REPO_NAME = 'Customer-Churn-Prediction'
 AUTHOR_USER_NAME = 'GyanPrakashkushwaha'
 SRC_REPO = 'predictor'
 AUTHOR_EMAIL = 'gyanp7880@gmail.com'
